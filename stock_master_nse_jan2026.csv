@@ -1,0 +1,2090 @@
+Stock,SecurityName,Sector,Industry,MarketCapCr,MarketCapType
+20MICRONS,20 MICRONS LTD,Basic Materials,Other Industrial Metals & Mining,672.1,Micro Cap
+21STCENMGM,21ST CENTURY MGMT SERVICE,Financial Services,Capital Markets,46.88,Micro Cap
+360ONE,360 ONE WAM LIMITED,Financial Services,Asset Management,46549.23,Small Cap
+3IINFOLTD,3I INFOTECH LIMITED,Technology,Information Technology Services,315.45,Micro Cap
+3MINDIA,3M INDIA LIMITED,Industrials,Conglomerates,39917.78,Small Cap
+3PLAND,3P LAND HOLDINGS LIMITED,Unknown,Unknown,67.09,Micro Cap
+5PAISA,5PAISA CAPITAL LIMITED,Financial Services,Capital Markets,1195.02,Micro Cap
+63MOONS,63 MOONS TECHNOLOGIES LTD,Technology,Software - Application,3126.66,Micro Cap
+A2ZINFRA,A2Z INFRA ENGINEERING LTD,Industrials,Engineering & Construction,263.65,Micro Cap
+AAATECH,AAA TECHNOLOGIES LIMITED ,Technology,Information Technology Services,150.57,Micro Cap
+AADHARHFC,AADHAR HOUSING FINANCE L ,Financial Services,Mortgage Finance,20713.77,Small Cap
+AAKASH,AAKASH EXPLORATION SER L ,Energy,Oil & Gas Equipment & Services,86.37,Micro Cap
+AAREYDRUGS,AAREY DRUGS & PHARM LTD  ,Healthcare,Drug Manufacturers - Specialty & Generic,182.52,Micro Cap
+AARON,AARON INDUSTRIES LIMITED ,Industrials,Specialty Industrial Machinery,349.55,Micro Cap
+AARTECH,AARTECH SOLONICS LIMITED ,Industrials,Electrical Equipment & Parts,163.87,Micro Cap
+AARTIDRUGS,AARTI DRUGS LTD.         ,Healthcare,Drug Manufacturers - Specialty & Generic,3567.29,Micro Cap
+AARTIIND,AARTI INDUSTRIES LTD     ,Basic Materials,Specialty Chemicals,13125.9,Small Cap
+AARTIPHARM,AARTI PHARMALABS LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,7177.91,Small Cap
+AARTISURF,AARTI SURFACTANTS LIMITED,Basic Materials,Specialty Chemicals,321.47,Micro Cap
+AARVI,AARVI ENCON LIMITED      ,Industrials,Staffing & Employment Services,189.61,Micro Cap
+AAVAS,AAVAS FINANCIERS LIMITED ,Financial Services,Mortgage Finance,11430.35,Small Cap
+ABB,ABB INDIA LIMITED        ,Industrials,Specialty Industrial Machinery,104576.78,Mid Cap
+ABBOTINDIA,ABBOTT INDIA LIMITED     ,Healthcare,Drug Manufacturers - Specialty & Generic,59243.05,Mid Cap
+ABCAPITAL,ADITYA BIRLA CAPITAL LTD.,Financial Services,Financial Conglomerates,93850.82,Mid Cap
+ABCOTS,A B COTSPIN INDIA LIMITED,Consumer Cyclical,Textile Manufacturing,905.34,Micro Cap
+ABDL,ALLIED BLEND N DISTILS L ,Consumer Defensive,Beverages - Wineries & Distilleries,13290.43,Small Cap
+ABFRL,ADITYA BIRLA FASHION & RT,Consumer Cyclical,Apparel Manufacturing,8885.19,Small Cap
+ABINFRA,A B INFRABUILD LIMITED   ,Industrials,Engineering & Construction,1239.89,Micro Cap
+ABLBL,ADITYA BIRLA LIFES BRAN L,Consumer Cyclical,Apparel Retail,14377.54,Small Cap
+ABMINTLLTD,ABM INTERNATIONAL LTD    ,Basic Materials,Specialty Chemicals,34.67,Micro Cap
+ABREL,ADITYA BIRLA REAL EST LTD,Real Estate,Real Estate Services,17119.6,Small Cap
+ABSLAMC,ADIT BIRL SUN LIF AMC LTD,Financial Services,Asset Management,23402.52,Small Cap
+ACC,ACC LIMITED              ,Basic Materials,Building Materials,32451.52,Small Cap
+ACCELYA,ACCELYA SOLN INDIA LTD   ,Technology,Information Technology Services,2003.1,Micro Cap
+ACCURACY,ACCURACY SHIPPING LIMITED,Industrials,Integrated Freight & Logistics,81.0,Micro Cap
+ACE,ACTION CONST EQUIP LTD   ,Industrials,Farm & Heavy Construction Machinery,10414.42,Small Cap
+ACEINTEG,ACE INTEGRATED SOLU. LTD.,Industrials,Staffing & Employment Services,20.97,Micro Cap
+ACI,ARCHEAN CHEMICAL IND LTD ,Basic Materials,Chemicals,6302.55,Small Cap
+ACL,ANDHRA CEMENTS LIMITED   ,Basic Materials,Building Materials,610.55,Micro Cap
+ACMESOLAR,ACME SOLAR HOLDINGS LTD  ,Utilities,Utilities - Renewable,13438.64,Small Cap
+ACUTAAS,ACUTAAS CHEMICALS LIMITED,Basic Materials,Specialty Chemicals,13999.96,Small Cap
+ADANIENSOL,ADANI ENERGY SOLUTION LTD,Utilities,Utilities - Independent Power Producers,110830.34,Mid Cap
+ADANIENT,ADANI ENTERPRISES LIMITED,Energy,Thermal Coal,248529.74,Large Cap
+ADANIGREEN,ADANI GREEN ENERGY LTD   ,Utilities,Utilities - Renewable,154060.39,Mid Cap
+ADANIPORTS,ADANI PORT & SEZ LTD     ,Industrials,Marine Shipping,308899.87,Large Cap
+ADANIPOWER,ADANI POWER LTD          ,Utilities,Utilities - Independent Power Producers,275327.59,Large Cap
+ADFFOODS,ADF FOODS LIMITED        ,Consumer Defensive,Packaged Foods,2126.96,Micro Cap
+ADL,ARCHIDPLY DECOR LIMITED  ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",41.53,Micro Cap
+ADOR,ADOR WELDING LTD         ,Industrials,Specialty Industrial Machinery,1745.5,Micro Cap
+ADROITINFO,ADROIT INFOTECH LIMITED  ,Technology,Information Technology Services,54.34,Micro Cap
+ADSL,ALLIED DIGITAL SERV. LTD ,Technology,Information Technology Services,736.55,Micro Cap
+ADVANCE,ADVANCE AGROLIFE LIMITED ,Basic Materials,Agricultural Inputs,796.5,Micro Cap
+ADVANIHOTR,ADVANI HOT.& RES.(I) LTD ,Consumer Cyclical,Lodging,509.15,Micro Cap
+ADVENTHTL,ADVENT HOTELS INTERNATI L,Consumer Cyclical,Resorts & Casinos,1173.96,Micro Cap
+ADVENZYMES,ADVANCED ENZYME TECH LTD ,Basic Materials,Specialty Chemicals,3158.57,Micro Cap
+AEGISLOG,AEGIS LOGISTICS LIMITED  ,Energy,Oil & Gas Refining & Marketing,25333.42,Small Cap
+AEGISVOPAK,AEGIS VOPAK TERMINALS LTD,Energy,Oil & Gas Equipment & Services,25048.36,Small Cap
+AEQUS,AEQUS LIMITED            ,Industrials,Aerospace & Defense,9232.38,Small Cap
+AEROENTER,AEROFLEX ENTERPRISES LTD ,Basic Materials,Steel,900.84,Micro Cap
+AEROFLEX,AEROFLEX INDUSTRIES LTD  ,Industrials,Metal Fabrication,2282.38,Micro Cap
+AERONEU,AEROFLEX NEU LIMITED     ,Consumer Cyclical,Packaging & Containers,186.32,Micro Cap
+AETHER,AETHER INDUSTRIES LIMITED,Basic Materials,Specialty Chemicals,13209.56,Small Cap
+AFCONS,AFCONS INFRASTRUCTURE LTD,Industrials,Engineering & Construction,13159.33,Small Cap
+AFFLE,AFFLE 3I LIMITED,Communication Services,Advertising Agencies,24399.35,Small Cap
+AFFORDABLE,AFFORD ROBO & AUTO LTD   ,Industrials,Specialty Industrial Machinery,207.36,Micro Cap
+AFIL,AKME FINTRADE (INDIA) LTD,Financial Services,Credit Services,242.39,Micro Cap
+AFSL,ABANS FINANCIAL SRVCS LTD,Financial Services,Capital Markets,1021.48,Micro Cap
+AGARIND,AGARWAL INDS CORP LTD.   ,Basic Materials,Specialty Chemicals,1044.2,Micro Cap
+AGARWALEYE,DR AGARWALS HEALTH CARE L,Healthcare,Medical Instruments & Supplies,15582.98,Small Cap
+AGI,AGI GREENPAC LIMITED     ,Consumer Cyclical,Packaging & Containers,4410.74,Micro Cap
+AGIIL,AGI INFRA LIMITED        ,Real Estate,Real Estate - Development,3482.99,Micro Cap
+AGROPHOS,AGRO PHOS INDIA LIMITED  ,Basic Materials,Agricultural Inputs,79.07,Micro Cap
+AHCL,ANLON HEALTHCARE LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,728.55,Micro Cap
+AHLADA,AHLADA ENGINEERS LIMITED ,Industrials,Building Products & Equipment,67.96,Micro Cap
+AHLEAST,ASIAN HOTELS (EAST) LTD  ,Consumer Cyclical,Lodging,229.98,Micro Cap
+AHLUCONT,AHLUWALIA CONT IND LTD   ,Industrials,Engineering & Construction,5999.41,Small Cap
+AIAENG,AIA ENGINEERING LIMITED  ,Industrials,Specialty Industrial Machinery,36725.3,Small Cap
+AIIL,AUTHUM INVEST & INFRA LTD,Financial Services,Capital Markets,56600.88,Mid Cap
+AIRAN,AIRAN LIMITED            ,Technology,Information Technology Services,207.28,Micro Cap
+AIROLAM,AIRO LAM LIMITED         ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",141.21,Micro Cap
+AJANTPHARM,AJANTA PHARMA LIMITED    ,Healthcare,Drug Manufacturers - Specialty & Generic,33812.58,Small Cap
+AJAXENGG,AJAX ENGINEERING LIMITED ,Industrials,Farm & Heavy Construction Machinery,6524.05,Small Cap
+AJMERA,AJMERA REALTY & INF I LTD,Real Estate,Real Estate - Development,3641.7,Micro Cap
+AJOONI,AJOONI BIOTECH LIMITED   ,Consumer Defensive,Packaged Foods,71.14,Micro Cap
+AKASH,AKASH INFRA-PROJECTS LTD ,Industrials,Engineering & Construction,47.3,Micro Cap
+AKG,AKG EXIM LIMITED         ,Industrials,Industrial Distribution,41.21,Micro Cap
+AKI,AKI INDIA LIMITED        ,Consumer Cyclical,Footwear & Accessories,63.88,Micro Cap
+AKSHAR,AKSHAR SPINTEX LIMITED   ,Consumer Cyclical,Textile Manufacturing,38.59,Micro Cap
+AKSHARCHEM,AKSHARCHEM INDIA LIMITED ,Basic Materials,Specialty Chemicals,182.46,Micro Cap
+AKSHOPTFBR,AKSH OPTIFIBRE LIMITED   ,Technology,Communication Equipment,96.81,Micro Cap
+AKUMS,AKUMS DRUGS AND PHARMA L ,Healthcare,Drug Manufacturers - Specialty & Generic,6995.38,Small Cap
+AKZOINDIA,AKZO NOBEL INDIA LIMITED ,Basic Materials,Specialty Chemicals,14167.59,Small Cap
+ALANKIT,ALANKIT LIMITED          ,Technology,Information Technology Services,274.68,Micro Cap
+ALBERTDAVD,ALBERT DAVID LIMITED     ,Healthcare,Drug Manufacturers - Specialty & Generic,405.69,Micro Cap
+ALEMBICLTD,ALEMBIC LIMITED          ,Real Estate,Real Estate - Development,2504.65,Micro Cap
+ALGOQUANT,ALGOQUANT FINTECH LIMITED,Financial Services,Capital Markets,1842.02,Micro Cap
+ALICON,ALICON CASTALLOY LIMITED ,Industrials,Metal Fabrication,1236.7,Micro Cap
+ALIVUS,ALIVUS LIFE SCIENCES LTD ,Healthcare,Drug Manufacturers - Specialty & Generic,10901.46,Small Cap
+ALKALI,ALKALI METALS LTD        ,Basic Materials,Specialty Chemicals,77.32,Micro Cap
+ALKEM,ALKEM LABORATORIES LTD.  ,Healthcare,Drug Manufacturers - Specialty & Generic,69712.37,Mid Cap
+ALKYLAMINE,ALKYL AMINES CHEM. LTD   ,Basic Materials,Specialty Chemicals,8401.42,Small Cap
+ALLCARGO,ALLCARGO LOGISTICS LTD   ,Industrials,Integrated Freight & Logistics,1023.08,Micro Cap
+ALLDIGI,ALLDIGI TECH LIMITED     ,Industrials,Specialty Business Services,1230.95,Micro Cap
+ALLTIME,ALL TIME PLASTICS LIMITED,Consumer Defensive,Household & Personal Products,1544.02,Micro Cap
+ALMONDZ,ALMONDZ GLOBAL SEC LTD   ,Financial Services,Capital Markets,299.37,Micro Cap
+ALOKINDS,ALOK INDUSTRIES LIMITED  ,Consumer Cyclical,Textile Manufacturing,7855.01,Small Cap
+ALPA,ALPA LABORATORIES LTD    ,Healthcare,Drug Manufacturers - Specialty & Generic,150.31,Micro Cap
+ALPHAGEO,ALPHAGEO (INDIA) LIMITED ,Energy,Oil & Gas Equipment & Services,140.2,Micro Cap
+AMANTA,AMANTA HEALTHCARE LIMITED,Healthcare,Drug Manufacturers - Specialty & Generic,414.15,Micro Cap
+AMBER,AMBER ENTERPRISES (I) LTD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",21502.43,Small Cap
+AMBICAAGAR,AMBICA AGAR & AROMAINDLTD,Consumer Defensive,Household & Personal Products,43.89,Micro Cap
+AMBIKCO,AMBIKA COTTON MILL LTD.  ,Consumer Cyclical,Textile Manufacturing,688.72,Micro Cap
+AMBUJACEM,AMBUJA CEMENTS LTD       ,Basic Materials,Building Materials,135839.06,Mid Cap
+AMDIND,AMD INDUSTRIES LIMITED   ,Consumer Cyclical,Packaging & Containers,83.26,Micro Cap
+AMJLAND,AMJ LAND HOLDINGS LIMITED,Real Estate,Real Estate - Development,199.55,Micro Cap
+AMNPLST,AMINES & PLASTICIZERS LTD,Basic Materials,Chemicals,1006.98,Micro Cap
+AMRUTANJAN,AMRUTAJAN HEALTH LTD     ,Healthcare,Drug Manufacturers - Specialty & Generic,1767.45,Micro Cap
+ANANDRATHI,ANAND RATHI WEALTH LTD   ,Financial Services,Asset Management,25605.22,Small Cap
+ANANTRAJ,ANANT RAJ LIMITED        ,Real Estate,Real Estate - Development,19865.21,Small Cap
+ANDHRAPAP,ANDHRA PAPER LIMITED     ,Basic Materials,Paper & Paper Products,1289.15,Micro Cap
+ANDHRSUGAR,ANDHRA SUGARS LTD        ,Basic Materials,Chemicals,965.42,Micro Cap
+ANGELONE,ANGEL ONE LIMITED        ,Financial Services,Capital Markets,22940.57,Small Cap
+ANIKINDS,ANIK INDUSTRIES LTD      ,Consumer Defensive,Food Distribution,123.67,Micro Cap
+ANMOL,ANMOL INDIA LIMITED      ,Energy,Thermal Coal,76.49,Micro Cap
+ANTELOPUS,ANTELOPUS SELAN ENRGY LTD,Energy,Oil & Gas E&P,1551.54,Micro Cap
+ANTGRAPHIC,ANTARCTICA LTD           ,Consumer Cyclical,Packaging & Containers,15.5,Micro Cap
+ANTHEM,ANTHEM BIOSCIENCES LTD   ,Healthcare,Biotechnology,34977.07,Small Cap
+ANUHPHR,ANUH PHARMA LIMITED      ,Healthcare,Drug Manufacturers - Specialty & Generic,759.9,Micro Cap
+ANUP,THE ANUP ENGINEERING LTD ,Industrials,Specialty Industrial Machinery,4010.1,Micro Cap
+ANURAS,ANUPAM RASAYAN INDIA LTD ,Basic Materials,Specialty Chemicals,15042.78,Small Cap
+APARINDS,APAR INDUSTRIES LTD.     ,Industrials,Electrical Equipment & Parts,30037.87,Small Cap
+APCL,ANJANI PORTLAND CEM LTD  ,Basic Materials,Building Materials,410.95,Micro Cap
+APCOTEXIND,APCOTEX INDUSTRIES LIMITE,Basic Materials,Specialty Chemicals,1831.68,Micro Cap
+APEX,APEX FROZEN FOODS LIMITED,Consumer Defensive,Farm Products,853.28,Micro Cap
+APLAPOLLO,APL APOLLO TUBES LTD     ,Basic Materials,Steel,53714.24,Mid Cap
+APLLTD,ALEMBIC PHARMA LTD       ,Healthcare,Drug Manufacturers - Specialty & Generic,15526.52,Small Cap
+APOLLO,APOLLO MICRO SYSTEMS LTD ,Industrials,Aerospace & Defense,8318.02,Small Cap
+APOLLOHOSP,APOLLO HOSPITALS ENTER. L,Healthcare,Medical Care Facilities,104567.39,Mid Cap
+APOLLOPIPE,APOLLO PIPES LIMITED     ,Industrials,Building Products & Equipment,1278.5,Micro Cap
+APOLLOTYRE,APOLLO TYRES LTD         ,Consumer Cyclical,Auto Parts,33530.15,Small Cap
+APOLSINHOT,APOLLO SINDOORI HOTEL LTD,Industrials,Specialty Business Services,340.26,Micro Cap
+APTECHT,APTECH LIMITED           ,Consumer Defensive,Education & Training Services,508.31,Micro Cap
+APTUS,APTUS VALUE HSG FIN I LTD,Financial Services,Mortgage Finance,13534.54,Small Cap
+ARCHIDPLY,ARCHIDPLY IND. LTD       ,Basic Materials,Lumber & Wood Production,172.23,Micro Cap
+ARCHIES,ARCHIES LTD              ,Consumer Cyclical,Specialty Retail,58.03,Micro Cap
+ARE&M,AMARA RAJA ENERGY MOB LTD,Industrials,Electrical Equipment & Parts,15998.25,Small Cap
+ARENTERP,RAJDARSHAN INDUSTRIES LTD,Basic Materials,Other Industrial Metals & Mining,13.94,Micro Cap
+ARFIN,ARFIN INDIA LIMITED      ,Basic Materials,Aluminum,1366.82,Micro Cap
+ARIES,ARIES AGRO LTD.          ,Basic Materials,Agricultural Inputs,405.8,Micro Cap
+ARIHANTCAP,ARIHANT CAPITAL MKTS LTD ,Financial Services,Capital Markets,923.63,Micro Cap
+ARIHANTSUP,ARIHANT SUPERSTRUCT LTD  ,Real Estate,Real Estate - Development,1335.56,Micro Cap
+ARISINFRA,ARISINFRA SOLUTIONS LTD  ,Industrials,Engineering & Construction,1052.19,Micro Cap
+ARKADE,ARKADE DEVELOPERS LIMITED,Real Estate,Real Estate - Development,2350.32,Micro Cap
+ARMANFIN,ARMAN FIN SERV LTD       ,Financial Services,Credit Services,1608.27,Micro Cap
+AROGRANITE,ARO GRANITE IND. LTD.    ,Industrials,Building Products & Equipment,43.94,Micro Cap
+ARROWGREEN,ARROW GREENTECH LIMITED  ,Consumer Cyclical,Packaging & Containers,721.58,Micro Cap
+ARSSBL,ANAND RATHI SH N STK BR L,Financial Services,Financial Conglomerates,3968.63,Micro Cap
+ARTEMISMED,ARTEMIS MED SERVICE LTD  ,,,4115.59,Micro Cap
+ARTNIRMAN,ART NIRMAN LIMITED       ,Real Estate,Real Estate - Development,117.29,Micro Cap
+ARVIND,ARVIND LIMITED           ,Consumer Cyclical,Textile Manufacturing,7995.81,Small Cap
+ARVINDFASN,ARVIND FASHIONS LIMITED  ,Consumer Cyclical,Apparel Manufacturing,6162.54,Small Cap
+ARVSMART,ARVIND SMARTSPACES LTD   ,Real Estate,Real Estate - Development,2644.92,Micro Cap
+ASAHIINDIA,ASAHI INDIA GLASS LIMITED,Consumer Cyclical,Auto Parts,24256.32,Small Cap
+ASAHISONG,ASAHI SONGWON COLOR LTD  ,Basic Materials,Specialty Chemicals,282.07,Micro Cap
+ASAL,AUTOMOTIVE STAMPINGS & AS,Consumer Cyclical,Auto Parts,710.09,Micro Cap
+ASALCBR,ASSO ALCOHOLS & BREW LTD ,Consumer Defensive,Beverages - Wineries & Distilleries,1642.74,Micro Cap
+ASHAPURMIN,ASHAPURA MINECHEM LTD    ,Basic Materials,Other Industrial Metals & Mining,8300.74,Small Cap
+ASHIANA,ASHIANA HOUSING LTD      ,Real Estate,Real Estate - Development,2918.74,Micro Cap
+ASHIMASYN,ASHIMA LTD               ,Real Estate,Real Estate - Development,335.79,Micro Cap
+ASHOKA,ASHOKA BUILDCON LTD      ,Industrials,Engineering & Construction,4136.74,Micro Cap
+ASHOKAMET,ASHOKA METCAST LIMITED   ,Basic Materials,Steel,36.94,Micro Cap
+ASHOKLEY,ASHOK LEYLAND LTD        ,Industrials,Farm & Heavy Construction Machinery,109776.47,Mid Cap
+ASIANENE,ASIAN ENERGY SERVICES LTD,Energy,Oil & Gas Equipment & Services,1151.15,Micro Cap
+ASIANHOTNR,ASIAN HOTELS (NORTH) LTD ,Consumer Cyclical,Lodging,617.45,Micro Cap
+ASIANPAINT,ASIAN PAINTS LIMITED     ,Basic Materials,Specialty Chemicals,269908.67,Large Cap
+ASIANTILES,ASIAN GRANITO IND. LTD.  ,Industrials,Building Products & Equipment,1694.58,Micro Cap
+ASKAUTOLTD,ASK AUTOMOTIVE LIMITED   ,Consumer Cyclical,Auto Parts,9044.9,Small Cap
+ASMS,BARTRONICS INDIA LIMITED ,Technology,Information Technology Services,337.78,Micro Cap
+ASPINWALL,ASPINWALL & CO LTD       ,Consumer Defensive,Farm Products,173.53,Micro Cap
+ASTEC,ASTEC LIFESCIENCES LTD   ,Basic Materials,Agricultural Inputs,1451.65,Micro Cap
+ASTERDM,ASTER DM HEALTHCARE LTD. ,Healthcare,Medical Care Facilities,31504.35,Small Cap
+ASTRAL,ASTRAL LIMITED           ,Industrials,Building Products & Equipment,39292.77,Small Cap
+ASTRAMICRO,ASTRA MICROWAVE LTD      ,Technology,Communication Equipment,9164.09,Small Cap
+ASTRAZEN,ASTRAZENECA PHARMA IND LT,Healthcare,Drug Manufacturers - Specialty & Generic,20710.0,Small Cap
+ASTRON,ASTRON PAPER BORD MIL LTD,Basic Materials,Paper & Paper Products,25.62,Micro Cap
+ATALREAL,ATAL REALTECH LIMITED    ,Industrials,Engineering & Construction,298.52,Micro Cap
+ATAM,ATAM VALVES LIMITED      ,Industrials,Specialty Industrial Machinery,92.93,Micro Cap
+ATGL,ADANI TOTAL GAS LIMITED  ,Utilities,Utilities - Regulated Gas,60973.47,Mid Cap
+ATHERENERG,ATHER ENERGY LIMITED     ,Consumer Cyclical,Auto Manufacturers,24661.8,Small Cap
+ATL,ALLCARGO TERMINALS LTD   ,Industrials,Integrated Freight & Logistics,662.67,Micro Cap
+ATLANTAA,ATLANTAA LIMITED         ,Industrials,Infrastructure Operations,396.99,Micro Cap
+ATLANTAELE,ATLANTA ELECTRICALS LTD  ,Industrials,Electrical Equipment & Parts,6220.55,Small Cap
+ATLASCYCLE,ATLAS CYCLE (HARYANA) LTD,Consumer Cyclical,Leisure,68.62,Micro Cap
+ATUL,ATUL LTD                 ,Basic Materials,Specialty Chemicals,17723.94,Small Cap
+ATULAUTO,ATUL AUTO LIMITED        ,Consumer Cyclical,Auto Manufacturers,1209.54,Micro Cap
+AUBANK,AU SMALL FINANCE BANK LTD,Financial Services,Banks - Regional,72926.71,Mid Cap
+AURIONPRO,AURIONPRO SOLN LTD       ,Technology,Software - Infrastructure,5597.55,Small Cap
+AUROPHARMA,AUROBINDO PHARMA LTD     ,Healthcare,Drug Manufacturers - Specialty & Generic,68540.4,Mid Cap
+AURUM,AURUM PROPTECH LIMITED   ,Real Estate,Real Estate Services,1447.18,Micro Cap
+AUSOMENT,AUSOM ENTERPRISE LIMITED ,Financial Services,Capital Markets,174.34,Micro Cap
+AUTOAXLES,AUTOMOTIVE AXLES LIMITED ,Consumer Cyclical,Auto Parts,2872.48,Micro Cap
+AUTOIND,AUTOLINE INDUSTRIES LTD  ,Consumer Cyclical,Auto Parts,336.87,Micro Cap
+AVADHSUGAR,AVADH SUG & ENERGY LTD   ,Consumer Defensive,Confectioners,664.81,Micro Cap
+AVALON,AVALON TECHNOLOGIES LTD  ,Technology,Electronic Components,6036.76,Small Cap
+AVANTEL,AVANTEL LIMITED          ,Technology,Communication Equipment,4031.51,Micro Cap
+AVANTIFEED,AVANTI FEEDS LIMITED     ,Consumer Defensive,Packaged Foods,11300.89,Small Cap
+AVG,AVG LOGISTICS LIMITED    ,Industrials,Integrated Freight & Logistics,252.28,Micro Cap
+AVL,ADITYA VISION LIMITED    ,Consumer Cyclical,Specialty Retail,6312.91,Small Cap
+AVONMORE,AVONMORE CAP&MGT SERV LTD,Financial Services,Capital Markets,491.0,Micro Cap
+AVROIND,AVRO INDIA LIMITED       ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",201.66,Micro Cap
+AVTNPL,AVT NATURAL PRODUCTS LTD ,Basic Materials,Specialty Chemicals,1005.84,Micro Cap
+AWFIS,AWFIS SPACE SOLUTIONS LTD,Industrials,Rental & Leasing Services,3225.06,Micro Cap
+AWHCL,ANTONY WASTE HDG CELL LTD,Industrials,Waste Management,1325.59,Micro Cap
+AWL,AWL AGRI BUSINESS LIMITED,Consumer Defensive,Packaged Foods,28321.3,Small Cap
+AXISBANK,AXIS BANK LIMITED        ,Financial Services,Banks - Regional,403210.97,Large Cap
+AXISCADES,AXISCADES TECH LTD       ,Industrials,Engineering & Construction,5567.23,Small Cap
+AYMSYNTEX,AYM SYNTEX LIMITED       ,Consumer Cyclical,Textile Manufacturing,921.36,Micro Cap
+AZAD,AZAD ENGINEERING LIMITED ,Industrials,Specialty Industrial Machinery,10090.25,Small Cap
+BAGFILMS,B.A.G FILMS AND MEDIA LTD,Communication Services,Broadcasting,123.0,Micro Cap
+BAIDFIN,BAID FINSERV LIMITED     ,Financial Services,Credit Services,151.29,Micro Cap
+BAJAJ-AUTO,BAJAJ AUTO LIMITED       ,Consumer Cyclical,Auto Manufacturers,267514.83,Large Cap
+BAJAJCON,BAJAJ CONSUMER CARE LTD  ,Consumer Defensive,Household & Personal Products,3694.54,Micro Cap
+BAJAJELEC,BAJAJ ELECT.LTD          ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5025.74,Small Cap
+BAJAJFINSV,BAJAJ FINSERV LTD.       ,Financial Services,Financial Conglomerates,319706.45,Large Cap
+BAJAJHCARE,BAJAJ HEALTHCARE LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,1244.85,Micro Cap
+BAJAJHFL,BAJAJ HOUSING FINANCE LTD,Financial Services,Mortgage Finance,77899.0,Mid Cap
+BAJAJHIND,BAJAJ HINDUSTHAN SUGAR LT,Consumer Defensive,Confectioners,2277.53,Micro Cap
+BAJAJHLDNG,BAJAJ HOLDINGS & INVS LTD,Financial Services,Asset Management,119540.36,Mid Cap
+BAJAJINDEF,INDEF MANUFACTURING LTD  ,Industrials,Farm & Heavy Construction Machinery,1120.32,Micro Cap
+BAJEL,BAJEL PROJECTS LIMITED   ,Utilities,Utilities - Regulated Electric,1927.22,Micro Cap
+BAJFINANCE,BAJAJ FINANCE LIMITED    ,Financial Services,Credit Services,588615.67,Large Cap
+BALAJEE,SHREE TIRUPATI BALAJEE L ,Consumer Cyclical,Packaging & Containers,317.88,Micro Cap
+BALAJITELE,BALAJI TELEFILMS LIMITED.,Communication Services,Entertainment,1242.68,Micro Cap
+BALAMINES,BALAJI AMINES LIMITED    ,Basic Materials,Specialty Chemicals,4097.11,Micro Cap
+BALAXI,BALAXI PHARMA LTD        ,Healthcare,Biotechnology,142.66,Micro Cap
+BALKRISHNA,BALKRISHNA PAPER MILLS L ,Consumer Cyclical,Packaging & Containers,58.38,Micro Cap
+BALKRISIND,BALKRISHNA IND. LTD      ,Consumer Cyclical,Auto Parts,46908.42,Small Cap
+BALMLAWRIE,BALMER LAWRIE & CO LTD   ,Industrials,Conglomerates,2973.59,Micro Cap
+BALPHARMA,BAL PHARMA LTD.          ,Healthcare,Drug Manufacturers - Specialty & Generic,114.34,Micro Cap
+BALRAMCHIN,BALRAMPUR CHINI MILLS LTD,Consumer Defensive,Confectioners,8587.94,Small Cap
+BALUFORGE,BALU FORGE INDUSTRIES LTD,Industrials,Metal Fabrication,5215.7,Small Cap
+BANARBEADS,BANARAS BEADS LTD        ,Consumer Cyclical,Footwear & Accessories,78.17,Micro Cap
+BANARISUG,BANNARI AMMAN SUGARS LTD ,Consumer Defensive,Confectioners,4514.92,Micro Cap
+BANCOINDIA,BANCO PRODUCTS (I) LTD   ,Consumer Cyclical,Auto Parts,9166.55,Small Cap
+BANDHANBNK,BANDHAN BANK LIMITED     ,Financial Services,Banks - Regional,23410.64,Small Cap
+BANG,BANG OVERSEAS LTD.       ,Consumer Cyclical,Apparel Manufacturing,63.61,Micro Cap
+BANKA,BANKA BIOLOO LIMITED     ,Industrials,Pollution & Treatment Controls,69.82,Micro Cap
+BANKBARODA,BANK OF BARODA           ,Financial Services,Banks - Regional,159122.81,Mid Cap
+BANKINDIA,BANK OF INDIA            ,Financial Services,Banks - Regional,69596.63,Mid Cap
+BANSALWIRE,BANSAL WIRE INDUSTRIES L ,Basic Materials,Steel,4710.77,Micro Cap
+BANSWRAS,BANSWARA SYNTEX LIMITED  ,Consumer Cyclical,Textile Manufacturing,355.81,Micro Cap
+BASF,BASF INDIA LTD           ,Basic Materials,Specialty Chemicals,15659.88,Small Cap
+BASML,BANNARI AM SPIN MILL LTD.,Consumer Cyclical,Textile Manufacturing,196.13,Micro Cap
+BATAINDIA,BATA INDIA LTD           ,Consumer Cyclical,Footwear & Accessories,11640.74,Small Cap
+BAYERCROP,BAYER CROPSCIENCE LTD    ,Basic Materials,Agricultural Inputs,19829.8,Small Cap
+BBL,BHARAT BIJLEE LTD        ,Industrials,Electrical Equipment & Parts,3127.46,Micro Cap
+BBOX,BLACK BOX LIMITED        ,Technology,Software - Application,8750.13,Small Cap
+BBTC,BOMBAY BURMAH TRADING COR,Consumer Defensive,Packaged Foods,12881.99,Small Cap
+BBTCL,B&B TRIPLEWALL CONT LTD  ,Consumer Cyclical,Packaging & Containers,389.71,Micro Cap
+BCG,BRIGHTCOM GROUP LIMITED  ,Communication Services,Advertising Agencies,1981.6,Micro Cap
+BCLIND,BCL INDUSTRIES LIMITED   ,Consumer Defensive,Beverages - Wineries & Distilleries,871.32,Micro Cap
+BCONCEPTS,BRAND CONCEPTS LIMITED   ,Consumer Cyclical,Footwear & Accessories,405.35,Micro Cap
+BDL,BHARAT DYNAMICS LIMITED  ,Industrials,Aerospace & Defense,55482.9,Mid Cap
+BEARDSELL,BEARDSELL LIMITED        ,Industrials,Building Products & Equipment,117.09,Micro Cap
+BECTORFOOD,MRS BECTORS FOOD SPE LTD ,Consumer Defensive,Packaged Foods,7108.67,Small Cap
+BEDMUTHA,BEDMUTHA INDUST LTD      ,Basic Materials,Steel,358.0,Micro Cap
+BEL,BHARAT ELECTRONICS LTD   ,Industrials,Aerospace & Defense,305256.36,Large Cap
+BELLACASA,BELLA CASA FASH AND RET L,Consumer Cyclical,Textile Manufacturing,463.07,Micro Cap
+BELRISE,BELRISE INDUSTRIES LTD   ,Consumer Cyclical,Auto Parts,15394.91,Small Cap
+BEML,BEML LIMITED             ,Industrials,Conglomerates,15095.3,Small Cap
+BEPL,BHANSALI ENG. POLYMERS LT,Basic Materials,Chemicals,2136.95,Micro Cap
+BERGEPAINT,BERGER PAINTS (I) LTD    ,Basic Materials,Specialty Chemicals,61228.67,Mid Cap
+BESTAGRO,BEST AGROLIFE LIMITED    ,Basic Materials,Agricultural Inputs,1026.65,Micro Cap
+BETA,BETA DRUGS LIMITED       ,Healthcare,Drug Manufacturers - Specialty & Generic,1599.99,Micro Cap
+BFINVEST,BF INVESTMENT LIMITED    ,Financial Services,Asset Management,1508.4,Micro Cap
+BGRENERGY,BGR ENERGY SYSTEMS LTD   ,Industrials,Engineering & Construction,2317.11,Micro Cap
+BHAGCHEM,BHAGIRADHA CHEM & INDS L ,Basic Materials,Agricultural Inputs,2947.25,Micro Cap
+BHAGERIA,BHAGERIA INDUSTRIES LTD  ,Basic Materials,Specialty Chemicals,726.06,Micro Cap
+BHANDARI,BHANDARI HOSIERY EXP LTD ,Consumer Cyclical,Apparel Manufacturing,96.98,Micro Cap
+BHARATFORG,BHARAT FORGE LTD         ,Consumer Cyclical,Auto Parts,69188.99,Mid Cap
+BHARATGEAR,BHARAT GEARS LTD.        ,Consumer Cyclical,Auto Parts,161.95,Micro Cap
+BHARATRAS,BHARAT RASAYAN LTD       ,Basic Materials,Agricultural Inputs,3639.68,Micro Cap
+BHARATSE,BHARAT SEATS LIMITED     ,Consumer Cyclical,Auto Parts,1002.92,Micro Cap
+BHARATWIRE,BHARAT WIRE ROPES LTD.   ,Basic Materials,Steel,1191.59,Micro Cap
+BHARTIARTL,BHARTI AIRTEL LIMITED    ,Communication Services,Telecom Services,1153250.8,Large Cap
+BHARTIHEXA,BHARTI HEXACOM LIMITED   ,Communication Services,Telecom Services,81990.0,Mid Cap
+BHEL,BHEL                     ,Industrials,Specialty Industrial Machinery,93127.78,Mid Cap
+BIGBLOC,BIGBLOC CONSTRUCTION LTD ,Industrials,Building Products & Equipment,950.82,Micro Cap
+BIKAJI,BIKAJI FOODS INTERN LTD  ,Consumer Defensive,Packaged Foods,17522.7,Small Cap
+BIL,BHARTIYA INTERNATIONAL   ,Consumer Cyclical,Footwear & Accessories,881.27,Micro Cap
+BIOCON,BIOCON LIMITED.          ,Healthcare,Biotechnology,50670.92,Mid Cap
+BIOFILCHEM,BIOFIL CHEM & PHARMA LTD ,Healthcare,Drug Manufacturers - Specialty & Generic,53.17,Micro Cap
+BIRLACABLE,BIRLA CABLE LIMITED      ,Technology,Communication Equipment,398.19,Micro Cap
+BIRLACORPN,BIRLA CORPORATION LTD    ,Basic Materials,Building Materials,8322.74,Small Cap
+BIRLAMONEY,ADITYA BIRLA MONEY LTD   ,Financial Services,Capital Markets,762.65,Micro Cap
+BIRLANU,BIRLANU LIMITED          ,Industrials,Building Products & Equipment,1321.84,Micro Cap
+BLACKBUCK,BLACKBUCK LIMITED        ,Technology,Software - Application,11625.75,Small Cap
+BLAL,BEML LAND ASSETS LIMITED ,Financial Services,Shell Companies,854.96,Micro Cap
+BLBLIMITED,BLB LIMITED              ,Financial Services,Capital Markets,68.67,Micro Cap
+BLISSGVS,BLISS GVS PHARMA LTD     ,Healthcare,Drug Manufacturers - Specialty & Generic,1737.55,Micro Cap
+BLKASHYAP,B.L.KASHYAP & SON LTD    ,Industrials,Engineering & Construction,1092.03,Micro Cap
+BLS,BLS INTL SERVS LTD       ,Industrials,Specialty Business Services,12621.92,Small Cap
+BLSE,BLS E-SERVICES LIMITED   ,Industrials,Specialty Business Services,1656.86,Micro Cap
+BLUECOAST,BLUE COAST HOTELS LIMITED,Consumer Cyclical,Lodging,52.02,Micro Cap
+BLUEDART,BLUE DART EXPRESS LTD    ,Industrials,Integrated Freight & Logistics,12893.76,Small Cap
+BLUEJET,BLUE JET HEALTHCARE LTD  ,Healthcare,Biotechnology,8510.21,Small Cap
+BLUESTARCO,BLUE STAR LIMITED        ,Industrials,Building Products & Equipment,37259.46,Small Cap
+BLUESTONE,BLUESTONE JEWEL LFSTL LTD,Consumer Cyclical,Luxury Goods,7043.96,Small Cap
+BLUSPRING,BLUSPRING ENTERPRISES LTD,Industrials,Specialty Business Services,990.81,Micro Cap
+BMWVENTLTD,BMW VENTURES LIMITED     ,Basic Materials,Steel,448.92,Micro Cap
+BODALCHEM,BODAL CHEMICALS LTD      ,Basic Materials,Specialty Chemicals,644.83,Micro Cap
+BOHRAIND,BOHRA INDUSTRIES LIMITED ,Basic Materials,Agricultural Inputs,34.91,Micro Cap
+BOMDYEING,BOMBAY DYEING & MFG. CO L,Consumer Cyclical,Textile Manufacturing,2562.07,Micro Cap
+BOROLTD,BOROSIL LIMITED          ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3303.41,Micro Cap
+BORORENEW,BOROSIL RENEWABLES LTD   ,Technology,Solar,6791.4,Small Cap
+BOROSCI,BOROSIL SCIENTIFIC LTD   ,Consumer Cyclical,Packaging & Containers,1038.99,Micro Cap
+BOSCH-HCIL,BOSCH HOME COMFRT IND LTD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3878.24,Micro Cap
+BOSCHLTD,BOSCH LIMITED            ,Consumer Cyclical,Auto Parts,110468.43,Mid Cap
+BPCL,BHARAT PETROLEUM CORP  LT,Energy,Oil & Gas Refining & Marketing,154841.26,Mid Cap
+BPL,BPL LTD                  ,Technology,Consumer Electronics,313.93,Micro Cap
+BRIGADE,BRIGADE ENTER. LTD       ,Real Estate,Real Estate - Development,20596.53,Small Cap
+BRIGHOTEL,BRIGADE HOTEL VENTURE LTD,Consumer Cyclical,Lodging,2564.7,Micro Cap
+BRITANNIA,BRITANNIA INDUSTRIES LTD ,Consumer Defensive,Packaged Foods,142268.86,Mid Cap
+BRNL,BHARAT ROAD NETWORK LTD  ,Industrials,Infrastructure Operations,177.13,Micro Cap
+BROOKS,BROOKS LAB LIMITED       ,Healthcare,Drug Manufacturers - Specialty & Generic,203.93,Micro Cap
+BSE,BSE LIMITED              ,Financial Services,Financial Data & Stock Exchanges,115708.55,Mid Cap
+BSHSL,BOMBAY SUPER HYBRID SEEDS,Basic Materials,Agricultural Inputs,1044.76,Micro Cap
+BSL,BSL LTD                  ,Consumer Cyclical,Textile Manufacturing,143.34,Micro Cap
+BSOFT,BIRLASOFT LIMITED        ,Technology,Information Technology Services,11693.84,Small Cap
+BTML,BODHI TREE MULTIMEDIA LTD,Communication Services,Entertainment,144.58,Micro Cap
+BUTTERFLY,BTRFLY GANDHI APPL LTD   ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1084.13,Micro Cap
+BVCL,BARAK VALLEY CEM. LTD.   ,Basic Materials,Building Materials,95.93,Micro Cap
+BYKE,THE BYKE HOSPITALITY LTD ,Consumer Cyclical,Lodging,277.24,Micro Cap
+CALSOFT,CALIFORNIA SOFTWARE CO LT,Technology,Software - Application,23.45,Micro Cap
+CAMLINFINE,CAMLIN FINE SCIENCES LTD ,Basic Materials,Specialty Chemicals,2851.14,Micro Cap
+CAMPUS,CAMPUS ACTIVEWEAR LIMITED,Consumer Cyclical,Footwear & Accessories,7636.73,Small Cap
+CAMS,COMPUTER AGE MNGT SER LTD,Technology,Information Technology Services,17859.33,Small Cap
+CANBK,CANARA BANK              ,Financial Services,Banks - Regional,139588.25,Mid Cap
+CANFINHOME,CAN FIN HOMES LTD        ,Financial Services,Mortgage Finance,12216.23,Small Cap
+CANHLIFE,CANARA HSBC LIFE INS CO L,Financial Services,Insurance - Life,13586.9,Small Cap
+CANTABIL,CANTABIL RETAIL LTD      ,Consumer Cyclical,Apparel Manufacturing,2466.07,Micro Cap
+CAPACITE,CAPACITE INFRAPROJECT LTD,Industrials,Engineering & Construction,2036.84,Micro Cap
+CAPILLARY,CAPILLARY TECHNO INDIA L ,Technology,Software - Infrastructure,5042.25,Small Cap
+CAPITALSFB,CAPITAL SMALL FIN BANK L ,Financial Services,Banks - Regional,1196.56,Micro Cap
+CAPLIPOINT,CAPLIN POINT LAB LTD.    ,Healthcare,Drug Manufacturers - Specialty & Generic,14097.13,Small Cap
+CAPTRUST,CAPITAL TRUST LIMITED    ,Financial Services,Credit Services,45.45,Micro Cap
+CARBORUNIV,CARBORUNDUM UNIVERSAL LTD,Industrials,Conglomerates,15380.97,Small Cap
+CARERATING,CARE RATINGS LIMITED     ,Financial Services,Financial Data & Stock Exchanges,4825.32,Micro Cap
+CARRARO,CARRARO INDIA LIMITED    ,Consumer Cyclical,Auto Parts,3003.18,Micro Cap
+CARTRADE,CARTRADE TECH LIMITED    ,Consumer Cyclical,Auto & Truck Dealerships,12949.17,Small Cap
+CARYSIL,CARYSIL LIMITED          ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2195.34,Micro Cap
+CASTROLIND,CASTROL INDIA LIMITED    ,Energy,Oil & Gas Refining & Marketing,18552.97,Small Cap
+CCHHL,COUNTRY CLUB HOSP HOL LTD,Consumer Cyclical,Lodging,230.32,Micro Cap
+CCL,CCL PRODUCTS (I) LTD     ,Consumer Defensive,Packaged Foods,12810.67,Small Cap
+CDSL,CENTRAL DEPO SER (I) LTD ,Financial Services,Capital Markets,29586.04,Small Cap
+CEATLTD,CEAT LIMITED             ,Consumer Cyclical,Auto Parts,15489.15,Small Cap
+CEIGALL,CEIGALL INDIA LIMITED    ,Industrials,Engineering & Construction,4838.54,Micro Cap
+CELEBRITY,CELEBRITY FASHIONS LTD   ,Consumer Cyclical,Apparel Manufacturing,48.4,Micro Cap
+CELLO,CELLO WORLD LIMITED      ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",11066.34,Small Cap
+CEMPRO,CEMINDIA PROJECTS LIMITED,Industrials,Engineering & Construction,12068.08,Small Cap
+CENTENKA,CENTURY ENKA LTD         ,Consumer Cyclical,Textile Manufacturing,952.25,Micro Cap
+CENTRALBK,CENTRAL BANK OF INDIA    ,Financial Services,Banks - Regional,34657.82,Small Cap
+CENTRUM,CENTRUM CAPITAL LIMITED  ,Financial Services,Financial Conglomerates,1230.29,Micro Cap
+CENTUM,CENTUM ELECTRONICS LTD   ,Technology,Electronic Components,3431.61,Micro Cap
+CENTURYPLY,CENTURY PLYBOARDS (I) LTD,Basic Materials,Lumber & Wood Production,16919.58,Small Cap
+CERA,CERA SANITARYWARE LTD    ,Industrials,Building Products & Equipment,6573.23,Small Cap
+CESC,CESC LTD                 ,Utilities,Utilities - Regulated Electric,20820.73,Small Cap
+CEWATER,CONCORD ENVIRO SYSTEMS L ,Utilities,Utilities - Regulated Water,886.01,Micro Cap
+CGCL,CAPRI GLOBAL CAPITAL LTD ,Financial Services,Credit Services,17376.5,Small Cap
+CGPOWER,CG POWER AND IND SOL LTD ,Industrials,Electrical Equipment & Parts,90853.54,Mid Cap
+CHALET,CHALET HOTELS LIMITED    ,Consumer Cyclical,Lodging,19289.54,Small Cap
+CHAMBLFERT,CHAMBAL FERTILIZERS LTD  ,Basic Materials,Agricultural Inputs,17873.1,Small Cap
+CHEMBOND,CHEMBOND MATERIALTECH LTD,Basic Materials,Specialty Chemicals,213.88,Micro Cap
+CHEMBONDCH,CHEMBOND CHEMICAL LIMITED,Basic Materials,Specialty Chemicals,387.28,Micro Cap
+CHEMCON,CHEMCON SPECIAL CHEM LTD ,Basic Materials,Specialty Chemicals,671.51,Micro Cap
+CHEMFAB,CHEMFAB ALKALIS LIMITED  ,Basic Materials,Specialty Chemicals,612.1,Micro Cap
+CHEMPLASTS,CHEMPLAST SANMAR LIMITED ,Basic Materials,Chemicals,4346.43,Micro Cap
+CHENNPETRO,CHENNAI PETROLEUM CORP LT,Energy,Oil & Gas Refining & Marketing,13034.21,Small Cap
+CHEVIOT,CHEVIOT COMPANY LIMITED  ,Consumer Cyclical,Textile Manufacturing,592.54,Micro Cap
+CHOICEIN,CHOICE INTERNATIONAL LTD ,Financial Services,Capital Markets,17101.28,Small Cap
+CHOLAFIN,CHOLAMANDALAM IN & FIN CO,Financial Services,Credit Services,142569.05,Mid Cap
+CHOLAHLDNG,CHOLAMANDALAM FIN HOL LTD,Financial Services,Credit Services,34038.42,Small Cap
+CIEINDIA,CIE AUTOMOTIVE INDIA LTD ,Consumer Cyclical,Auto Parts,15350.9,Small Cap
+CIFL,CAPITAL INDIA FINANCE LTD,Financial Services,Credit Services,1351.12,Micro Cap
+CIGNITITEC,CIGNITI TECHNOLOGIES LTD ,Technology,Information Technology Services,4571.42,Micro Cap
+CINELINE,CINELINE INDIA LIMITED   ,Communication Services,Entertainment,283.59,Micro Cap
+CINEVISTA,CINEVISTA LIMITED        ,Communication Services,Entertainment,95.11,Micro Cap
+CIPLA,CIPLA LTD                ,Healthcare,Drug Manufacturers - Specialty & Generic,115874.86,Mid Cap
+CLEAN,CLEAN SCIENCE & TECH LTD ,Basic Materials,Specialty Chemicals,9148.81,Small Cap
+CLEDUCATE,CL EDUCATE LIMITED       ,Consumer Defensive,Education & Training Services,447.78,Micro Cap
+CLSEL,CHAMAN LAL SETIA EXP LTD ,Consumer Defensive,Packaged Foods,1286.9,Micro Cap
+CMSINFO,CMS INFO SYSTEMS LIMITED ,Industrials,Specialty Business Services,5439.93,Small Cap
+CNL,CREATIVE NEWTECH LIMITED ,Technology,Electronics & Computer Distribution,1079.92,Micro Cap
+COALINDIA,COAL INDIA LTD           ,Energy,Thermal Coal,266353.12,Large Cap
+COCHINSHIP,COCHIN SHIPYARD LIMITED  ,Industrials,Aerospace & Defense,40367.11,Small Cap
+COFFEEDAY,COFFEE DAY ENTERPRISE LTD,Consumer Cyclical,Restaurants,703.89,Micro Cap
+COFORGE,COFORGE LIMITED          ,Technology,Information Technology Services,56340.63,Mid Cap
+COHANCE,COHANCE LIFESCIENCES LTD ,Healthcare,Drug Manufacturers - Specialty & Generic,16907.55,Small Cap
+COLPAL,COLGATE PALMOLIVE LTD.   ,Consumer Defensive,Household & Personal Products,56907.55,Mid Cap
+COMPUSOFT,COMPUCOM SOFTWARE LTD    ,Consumer Defensive,Education & Training Services,115.84,Micro Cap
+CONCOR,CONTAINER CORP OF IND LTD,Industrials,Railroads,39566.05,Small Cap
+CONCORDBIO,CONCORD BIOTECH LIMITED  ,Healthcare,Biotechnology,14134.7,Small Cap
+CONFIPET,CONFIDENCE PETRO IND LTD.,Energy,Oil & Gas Refining & Marketing,1131.61,Micro Cap
+CONSOFINVT,CONSO. FIN. & HOLD. LTD. ,Financial Services,Capital Markets,514.02,Micro Cap
+CONTROLPR,CONTROL PRINT LIMITED    ,Industrials,Business Equipment & Supplies,1064.73,Micro Cap
+CORALFINAC,CORAL INDIA FIN & HOUS LT,Real Estate,Real Estate Services,149.24,Micro Cap
+CORDSCABLE,CORDS CABLE INDUS LTD.   ,Industrials,Electrical Equipment & Parts,224.59,Micro Cap
+COROMANDEL,COROMANDEL INTERNTL. LTD ,Basic Materials,Agricultural Inputs,68453.68,Mid Cap
+CORONA,CORONA REMEDIES LIMITED  ,Healthcare,Drug Manufacturers - General,9022.34,Small Cap
+COSMOFIRST,COSMO FIRST LIMITED      ,Consumer Cyclical,Packaging & Containers,1684.97,Micro Cap
+COUNCODOS,COUNTRY CONDO S LIMITED  ,Real Estate,Real Estate - Development,42.91,Micro Cap
+CPCAP,CP CAPITAL LIMITED       ,Financial Services,Credit Services,198.96,Micro Cap
+CPEDU,CAREER POINT EDUTECH LTD ,Consumer Defensive,Education & Training Services,444.27,Micro Cap
+CPPLUS,ADITYA INFOTECH LIMITED  ,Industrials,Building Products & Equipment,16470.41,Small Cap
+CRAFTSMAN,CRAFTSMAN AUTOMATION LTD ,Consumer Cyclical,Auto Parts,18726.63,Small Cap
+CRAMC,CANARA ROBECO AMC LIMITED,Financial Services,Asset Management,5631.55,Small Cap
+CREATIVEYE,CREATIVE EYE LIMITED     ,Communication Services,Entertainment,14.26,Micro Cap
+CREDITACC,CREDITACCESS GRAMEEN LTD ,Financial Services,Credit Services,20547.28,Small Cap
+CREST,CREST VENTURES LIMITED   ,Financial Services,Financial Conglomerates,1094.19,Micro Cap
+CRISIL,CRISIL LTD               ,Financial Services,Financial Data & Stock Exchanges,34862.54,Small Cap
+CRIZAC,CRIZAC LIMITED           ,Consumer Defensive,Education & Training Services,4415.68,Micro Cap
+CROMPTON,CROMPT GREA CON ELEC LTD ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",16400.51,Small Cap
+CROWN,CROWN LIFTERS LIMITED    ,Industrials,Rental & Leasing Services,128.88,Micro Cap
+CSBBANK,CSB BANK LIMITED         ,Financial Services,Banks - Regional,9040.35,Small Cap
+CSLFINANCE,CSL FINANCE LIMITED      ,Financial Services,Credit Services,659.78,Micro Cap
+CTE,CAMBRIDGE TECH ENTER LTD ,Technology,Information Technology Services,68.61,Micro Cap
+CUB,CITY UNION BANK LTD      ,Financial Services,Banks - Regional,20519.02,Small Cap
+CUBEXTUB,CUBEX TUBINGS LTD        ,Basic Materials,Copper,158.2,Micro Cap
+CUMMINSIND,CUMMINS INDIA LTD        ,Industrials,Specialty Industrial Machinery,111689.42,Mid Cap
+CUPID,CUPID LIMITED            ,Consumer Defensive,Household & Personal Products,12479.7,Small Cap
+CYBERMEDIA,CYBER MEDIA (INDIA) LTD. ,Communication Services,Publishing,25.47,Micro Cap
+CYBERTECH,CYBERTECH SYSTEMS & SOFTW,Technology,Information Technology Services,431.56,Micro Cap
+CYIENT,CYIENT LIMITED           ,Industrials,Conglomerates,13064.51,Small Cap
+CYIENTDLM,CYIENT DLM LIMITED       ,Technology,Electronic Components,3153.15,Micro Cap
+DABUR,DABUR INDIA LTD          ,Consumer Defensive,Household & Personal Products,91123.33,Mid Cap
+DALBHARAT,DALMIA BHARAT LIMITED    ,Basic Materials,Building Materials,40838.56,Small Cap
+DALMIASUG,DALMIA BHARAT SUG IN LTD ,Consumer Defensive,Confectioners,2285.32,Micro Cap
+DAMCAPITAL,DAM CAPITAL ADVISORS LTD ,Financial Services,Capital Markets,1449.35,Micro Cap
+DAMODARIND,DAMODAR INDUSTRIES LTD   ,Consumer Cyclical,Textile Manufacturing,67.59,Micro Cap
+DANGEE,DANGEE DUMS LIMITED      ,Consumer Cyclical,Restaurants,52.51,Micro Cap
+DATAMATICS,DATAMATICS GLOBAL SER LTD,Technology,Information Technology Services,4201.28,Micro Cap
+DATAPATTNS,DATA PATTERNS INDIA LTD  ,Industrials,Aerospace & Defense,14435.47,Small Cap
+DAVANGERE,DAVANGERE SUGAR COMPANY L,Consumer Defensive,Confectioners,720.72,Micro Cap
+DBCORP,D.B.CORP LTD             ,Communication Services,Publishing,4360.7,Micro Cap
+DBEIL,DEEPAK BUILDERS & ENG I L,Industrials,Engineering & Construction,490.26,Micro Cap
+DBL,DILIP BUILDCON LIMITED   ,Industrials,Engineering & Construction,7685.27,Small Cap
+DBOL,DHAMPUR BIO ORGANICS LTD ,Consumer Defensive,Farm Products,519.35,Micro Cap
+DBREALTY,VALOR ESTATE LIMITED     ,Real Estate,Real Estate - Development,5861.15,Small Cap
+DBSTOCKBRO,DB (INT) STOCK BROKERS   ,Financial Services,Capital Markets,88.83,Micro Cap
+DCAL,DISHMAN CARBO AMCIS LTD  ,Healthcare,Biotechnology,3984.02,Micro Cap
+DCBBANK,DCB BANK LIMITED         ,Financial Services,Banks - Regional,5999.29,Small Cap
+DCI,DC INFOTECH AND COMUN LTD,Technology,Electronics & Computer Distribution,379.39,Micro Cap
+DCM,DCM LTD                  ,Industrials,Metal Fabrication,164.03,Micro Cap
+DCMFINSERV,DCM FINANCIAL SERVICES LT,Financial Services,Credit Services,9.11,Micro Cap
+DCMNVL,DCM NOUVELLE LIMITED     ,Consumer Cyclical,Textile Manufacturing,234.95,Micro Cap
+DCMSHRIRAM,DCM SHRIRAM LIMITED      ,Industrials,Conglomerates,18418.34,Small Cap
+DCMSRIND,DCM SHRIRAM IND LTD      ,Consumer Defensive,Confectioners,394.68,Micro Cap
+DCW,DCW LTD                  ,Basic Materials,Chemicals,1563.14,Micro Cap
+DCXINDIA,DCX SYSTEMS LIMITED      ,Industrials,Aerospace & Defense,2008.97,Micro Cap
+DDEVPLSTIK,DDEV PLASTIKS IND LTD    ,Basic Materials,Specialty Chemicals,2995.13,Micro Cap
+DECCANCE,DECCAN CEMENTS LIMITED   ,Basic Materials,Building Materials,951.81,Micro Cap
+DEEDEV,DEE DEVELOPMENT ENG LTD  ,Industrials,Metal Fabrication,1445.53,Micro Cap
+DEEPAKFERT,DEEPAK FERTILIZERS & PETR,Basic Materials,Chemicals,15360.62,Small Cap
+DEEPAKNTR,DEEPAK NITRITE LTD       ,Basic Materials,Chemicals,21331.87,Small Cap
+DEEPINDS,DEEP INDUSTRIES LIMITED  ,Energy,Oil & Gas E&P,2447.68,Micro Cap
+DELHIVERY,DELHIVERY LIMITED        ,Industrials,Integrated Freight & Logistics,30196.89,Small Cap
+DELPHIFX,DELPHI WORLD MONEY LTD   ,Financial Services,Capital Markets,392.25,Micro Cap
+DELTACORP,DELTA CORP LIMITED       ,Consumer Cyclical,Resorts & Casinos,1947.77,Micro Cap
+DELTAMAGNT,DELTA MANUFACTURING LTD  ,Consumer Cyclical,Textile Manufacturing,72.21,Micro Cap
+DEN,DEN NETWORKS LTD         ,Communication Services,Entertainment,1443.6,Micro Cap
+DENORA,DE NORA INDIA LIMITED    ,Industrials,Electrical Equipment & Parts,336.81,Micro Cap
+DENTA,DENTA WATER N INFRA SOL L,Industrials,Engineering & Construction,813.15,Micro Cap
+DEVIT,DEV INFO TECHNOLOGY LTD  ,Technology,Information Technology Services,189.29,Micro Cap
+DEVX,DEV ACCELERATOR LIMITED  ,Real Estate,Real Estate Services,347.4,Micro Cap
+DEVYANI,DEVYANI INTERNATIONAL LTD,Consumer Cyclical,Restaurants,16617.89,Small Cap
+DGCONTENT,DIGICONTENT LIMITED      ,Communication Services,Internet Content & Information,186.2,Micro Cap
+DHAMPURSUG,DHAMPUR SUGAR MILLS LTD. ,Consumer Defensive,Confectioners,759.14,Micro Cap
+DHANBANK,DHANLAXMI BANK LIMITED   ,Financial Services,Banks - Regional,997.01,Micro Cap
+DHANUKA,DHANUKA AGRITECH LTD     ,Basic Materials,Agricultural Inputs,4903.17,Micro Cap
+DHARMAJ,DHARMAJ CROP GUARD LTD   ,Basic Materials,Agricultural Inputs,818.03,Micro Cap
+DHRUV,DHRUV CONSULTANCY SER LTD,Industrials,Engineering & Construction,83.11,Micro Cap
+DHUNINV,DHUNSERI INVESTMENTS LTD ,Financial Services,Capital Markets,692.46,Micro Cap
+DIACABS,DIAMOND POWER INFRA LTD  ,Industrials,Specialty Industrial Machinery,6861.16,Small Cap
+DIAMINESQ,DIAMINES & CHEMICALS LTD ,Basic Materials,Chemicals,251.2,Micro Cap
+DIAMONDYD,PRATAAP SNACKS LIMITED   ,Consumer Defensive,Packaged Foods,2738.81,Micro Cap
+DICIND,DIC INDIA LIMITED        ,Basic Materials,Specialty Chemicals,423.61,Micro Cap
+DIFFNKG,DIFFUSION ENGINEERS LTD  ,Industrials,Specialty Industrial Machinery,1102.58,Micro Cap
+DIGIDRIVE,DIGIDRIVE DISTRIBUTORS L ,Consumer Cyclical,Internet Retail,100.76,Micro Cap
+DIGISPICE,DIGISPICE TECHNOLOGIES LT,Financial Services,Financial Conglomerates,524.51,Micro Cap
+DIGITIDE,DIGITIDE SOLUTIONS LTD   ,Industrials,Specialty Business Services,1841.46,Micro Cap
+DIGJAMLMTD,DIGJAM LTD               ,Consumer Cyclical,Textile Manufacturing,101.1,Micro Cap
+DISHTV,DISH TV INDIA LTD.       ,Communication Services,Entertainment,705.2,Micro Cap
+DIVGIITTS,DIVGI TORQTRANSFER SYST L,Consumer Cyclical,Auto Parts,1817.7,Micro Cap
+DIVISLAB,DIVI S LABORATORIES LTD  ,Healthcare,Drug Manufacturers - Specialty & Generic,168718.56,Mid Cap
+DIXON,DIXON TECHNO (INDIA) LTD ,Technology,Consumer Electronics,67379.38,Mid Cap
+DJML,DJ MEDIAPRINT & LOG LTD  ,Industrials,Specialty Business Services,237.28,Micro Cap
+DLF,DLF LIMITED              ,Real Estate,Real Estate - Development,161155.39,Mid Cap
+DLINKINDIA,D-LINK INDIA LTD         ,Technology,Communication Equipment,1453.04,Micro Cap
+DMART,AVENUE SUPERMARTS LIMITED,Consumer Defensive,Discount Stores,249250.29,Large Cap
+DMCC,DMCC SPECIALITY CHEMICALS,Basic Materials,Chemicals,564.39,Micro Cap
+DNAMEDIA,DILIGENT MEDIA CORP LTD. ,Communication Services,Publishing,52.5,Micro Cap
+DODLA,DODLA DAIRY LIMITED      ,Consumer Defensive,Food Distribution,7352.75,Small Cap
+DOLATALGO,DOLAT ALGOTECH LIMITED   ,Financial Services,Capital Markets,1542.11,Micro Cap
+DOLLAR,DOLLAR INDUSTRIES LIMITED,Consumer Cyclical,Apparel Manufacturing,1901.12,Micro Cap
+DOLPHIN,DOLPHIN OFF ENT (IND) L  ,Energy,Oil & Gas Equipment & Services,1799.41,Micro Cap
+DOMS,DOMS INDUSTRIES LIMITED  ,Industrials,Business Equipment & Supplies,15276.34,Small Cap
+DONEAR,DONEAR IND. LIMITED      ,Consumer Cyclical,Textile Manufacturing,455.57,Micro Cap
+DPABHUSHAN,D. P. ABHUSHAN LIMITED   ,Consumer Cyclical,Luxury Goods,3259.6,Micro Cap
+DPSCLTD,DPSC LIMITED             ,Utilities,Utilities - Regulated Electric,932.89,Micro Cap
+DPWIRES,D P WIRES LIMITED        ,Industrials,Metal Fabrication,294.5,Micro Cap
+DRCSYSTEMS,DRC SYSTEMS INDIA LIMITED,Technology,Information Technology Services,241.34,Micro Cap
+DREAMFOLKS,DREAMFOLKS SERVICES LTD  ,Industrials,Airports & Air Services,542.07,Micro Cap
+DREDGECORP,DREDGING CORP OF INDIA   ,Industrials,Engineering & Construction,3164.7,Micro Cap
+DRREDDY,DR. REDDY S LABORATORIES ,Healthcare,Drug Manufacturers - Specialty & Generic,99028.89,Mid Cap
+DSSL,DYNACONS SYS & SOLN LTD  ,Technology,Information Technology Services,1282.08,Micro Cap
+DTIL,DHUNSERI TEA & IND. LTD. ,Consumer Defensive,Packaged Foods,157.67,Micro Cap
+DUCON,DUCON INFRATECHNOLOGIES L,Industrials,Specialty Industrial Machinery,115.02,Micro Cap
+DVL,DHUNSERI VENTURES LIMITED,Financial Services,Capital Markets,953.02,Micro Cap
+DWARKESH,DWARIKESH SUGAR IND LTD  ,Consumer Defensive,Confectioners,652.63,Micro Cap
+DYCL,DYNAMIC CABLES LIMITED   ,Industrials,Electrical Equipment & Parts,1512.15,Micro Cap
+DYNAMATECH,DYNAMATIC TECHNOLOGIES   ,Consumer Cyclical,Auto Parts,6183.95,Small Cap
+DYNPRO,DYNEMIC PRODUCTS LIMITED ,Basic Materials,Specialty Chemicals,288.46,Micro Cap
+E2E,E2E NETWORKS LIMITED,Technology,Software - Infrastructure,4073.24,Micro Cap
+EASEMYTRIP,EASY TRIP PLANNERS LTD   ,Consumer Cyclical,Travel Services,2560.34,Micro Cap
+EBGNG,GNG ELECTRONICS LIMITED  ,Technology,Computer Hardware,3187.76,Micro Cap
+ECLERX,ECLERX SERVICES LTD      ,Technology,Information Technology Services,21931.55,Small Cap
+ECOSMOBLTY,ECOS (INDIA) MOB & HOSP L,Industrials,Rental & Leasing Services,1109.4,Micro Cap
+EDELWEISS,EDELWEISS FIN SERV LTD   ,Financial Services,Financial Conglomerates,10008.01,Small Cap
+EFCIL,EFC (I) LIMITED          ,Real Estate,Real Estate Services,2795.46,Micro Cap
+EICHERMOT,EICHER MOTORS LTD        ,Consumer Cyclical,Auto Manufacturers,201829.38,Large Cap
+EIDPARRY,EID PARRY INDIA LTD      ,Basic Materials,Agricultural Inputs,16773.4,Small Cap
+EIEL,ENVIRO INFRA ENGINEERS L ,Industrials,Engineering & Construction,3285.22,Micro Cap
+EIFFL,EURO (I) FRESH FOODS LTD ,Consumer Defensive,Packaged Foods,634.14,Micro Cap
+EIHAHOTELS,EIH ASSOCIATED HOTELS LTD,Consumer Cyclical,Lodging,2081.89,Micro Cap
+EIHOTEL,EIH LIMITED              ,Consumer Cyclical,Lodging,21565.68,Small Cap
+EIMCOELECO,EIMCO ELECON (INDIA) LTD ,Industrials,Farm & Heavy Construction Machinery,899.23,Micro Cap
+EKC,EVEREST KANTO CYLINDERLTD,Industrials,Specialty Industrial Machinery,1214.76,Micro Cap
+ELDEHSG,ELDECO HSG & IND LTD.    ,Real Estate,Real Estate Services,912.8,Micro Cap
+ELECON,ELECON ENG. CO. LTD      ,Industrials,Specialty Industrial Machinery,8885.12,Small Cap
+ELECTCAST,ELECTROSTEEL CASTINGS LTD,Industrials,Building Products & Equipment,4460.82,Micro Cap
+ELECTHERM,ELECTROTHERM (I) LTD.    ,Basic Materials,Steel,1122.32,Micro Cap
+ELGIEQUIP,ELGI EQUIPMENTS LTD      ,Industrials,Specialty Industrial Machinery,13920.23,Small Cap
+ELGIRUBCO,ELGI RUBBER CO. LTD      ,Consumer Cyclical,Auto Parts,211.21,Micro Cap
+ELIN,ELIN ELECTRONICS LIMITED ,Industrials,Electrical Equipment & Parts,728.6,Micro Cap
+ELLEN,ELLENBARRIE INDUS GASES L,Basic Materials,Chemicals,3872.91,Micro Cap
+EMAMILTD,EMAMI LIMITED            ,Consumer Defensive,Household & Personal Products,21910.12,Small Cap
+EMAMIPAP,EMAMI PAPER MILLS LIMITED,Basic Materials,Paper & Paper Products,503.78,Micro Cap
+EMAMIREAL,EMAMI REALTY LIMITED     ,Real Estate,Real Estate - Development,340.85,Micro Cap
+EMCURE,EMCURE PHARMACEUTICALS L ,Healthcare,Drug Manufacturers - Specialty & Generic,29773.05,Small Cap
+EMIL,ELECTRONICS MART IND LTD ,Consumer Cyclical,Specialty Retail,3692.05,Micro Cap
+EMKAY,EMKAY GLOBAL FIN SERV LTD,Financial Services,Capital Markets,695.92,Micro Cap
+EMMBI,EMMBI INDUSTRIES LIMITED ,Consumer Cyclical,Packaging & Containers,182.28,Micro Cap
+EMMVEE,EMMVEE PHOTOVOLTAIC PWR L,Technology,Solar,15117.35,Small Cap
+EMSLIMITED,EMS LIMITED              ,Industrials,Engineering & Construction,2110.45,Micro Cap
+EMUDHRA,EMUDHRA LIMITED          ,Technology,Software - Application,4613.03,Micro Cap
+ENDURANCE,ENDURANCE TECHNO. LTD.   ,Consumer Cyclical,Auto Parts,35452.66,Small Cap
+ENGINERSIN,ENGINEERS INDIA LTD      ,Industrials,Engineering & Construction,11061.56,Small Cap
+ENIL,ENTERTAIN NET. IND. LTD. ,Communication Services,Broadcasting,573.38,Micro Cap
+ENRIN,SIEMENS ENERGY INDIA LTD ,Utilities,Utilities - Renewable,84169.08,Mid Cap
+ENTERO,ENTERO HEALTHCARE SOLU L ,Healthcare,Medical Distribution,5270.48,Small Cap
+EPACK,EPACK DURABLE LIMITED    ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2599.13,Micro Cap
+EPACKPEB,EPACK PREFAB TECHN LTD   ,Industrials,Engineering & Construction,2483.68,Micro Cap
+EPIGRAL,EPIGRAL LIMITED          ,Basic Materials,Chemicals,5064.36,Small Cap
+EPL,EPL LIMITED              ,Consumer Cyclical,Packaging & Containers,6629.39,Small Cap
+EQUITASBNK,EQUITAS SMALL FIN BNK LTD,Financial Services,Banks - Regional,7898.34,Small Cap
+ERIS,ERIS LIFESCIENCES LIMITED,Healthcare,Drug Manufacturers - Specialty & Generic,20077.01,Small Cap
+ESABINDIA,ESAB INDIA LTD           ,Industrials,Tools & Accessories,8744.01,Small Cap
+ESAFSFB,ESAF SMALL FINANCE BANK L,Financial Services,Banks - Regional,1338.43,Micro Cap
+ESCORTS,ESCORTS KUBOTA LIMITED   ,Industrials,Farm & Heavy Construction Machinery,41282.89,Small Cap
+ESSENTIA,INTEGRA ESSENTIA LIMITED ,Consumer Defensive,Food Distribution,160.15,Micro Cap
+ESTER,ESTER INDUSTRIES LTD     ,Basic Materials,Specialty Chemicals,901.6,Micro Cap
+ETERNAL,ETERNAL LIMITED          ,Consumer Cyclical,Internet Retail,288786.74,Large Cap
+ETHOSLTD,ETHOS LIMITED            ,Consumer Cyclical,Luxury Goods,7165.44,Small Cap
+EUREKAFORB,EUREKA FORBES LIMITED    ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",10961.15,Small Cap
+EUROBOND,EURO PANEL PRODUCTS LTD  ,Industrials,Building Products & Equipment,444.01,Micro Cap
+EUROPRATIK,EURO PRATIK SALES LIMITED,Basic Materials,Building Materials,2745.6,Micro Cap
+EVEREADY,EVEREADY INDS. IND.  LTD.,Industrials,Electrical Equipment & Parts,2385.96,Micro Cap
+EVERESTIND,EVEREST INDUSTRIES LTD   ,Industrials,Building Products & Equipment,691.31,Micro Cap
+EXCEL,EXCEL REALTY N INFRA LTD ,Industrials,Conglomerates,181.98,Micro Cap
+EXCELINDUS,EXCEL INDUSTRIES LTD     ,Basic Materials,Specialty Chemicals,1150.78,Micro Cap
+EXCELSOFT,EXCELSOFT TECHNOLOGIES L ,Technology,Software - Application,946.45,Micro Cap
+EXICOM,EXICOM TELE SYSTEMS LTD  ,Industrials,Electrical Equipment & Parts,1458.25,Micro Cap
+EXIDEIND,EXIDE INDUSTRIES LTD     ,Consumer Cyclical,Auto Parts,29354.75,Small Cap
+EXPLEOSOL,EXPLEO SOLUTIONS LIMITED ,Technology,Information Technology Services,1455.83,Micro Cap
+FABTECH,FABTECH TECHNOLOGIES LTD ,Healthcare,Health Information Services,836.52,Micro Cap
+FACT,FACT LTD                 ,Basic Materials,Agricultural Inputs,55185.53,Mid Cap
+FAIRCHEMOR,FAIRCHEM ORGANICS LIMITED,Basic Materials,Specialty Chemicals,911.33,Micro Cap
+FAZE3Q,FAZE THREE LIMITED       ,Consumer Cyclical,Textile Manufacturing,907.83,Micro Cap
+FCL,FINEOTEX CHEMICAL LIMITED,Basic Materials,Specialty Chemicals,2605.44,Micro Cap
+FCSSOFT,FCS SOFTWARE SOLN. LTD.  ,Technology,Information Technology Services,297.46,Micro Cap
+FDC,FDC LIMITED              ,Healthcare,Drug Manufacturers - Specialty & Generic,6347.15,Small Cap
+FEDERALBNK,FEDERAL BANK LTD         ,Financial Services,Banks - Regional,60797.81,Mid Cap
+FEDFINA,FEDBANK FINANCIAL SER L  ,Financial Services,Credit Services,6598.34,Small Cap
+FIBERWEB,FIBERWEB INDIA LIMITED   ,Consumer Cyclical,Textile Manufacturing,93.57,Micro Cap
+FIEMIND,FIEM INDUSTRIES LIMITED  ,Consumer Cyclical,Auto Parts,5926.66,Small Cap
+FILATEX,FILATEX INDIA LTD        ,Consumer Cyclical,Textile Manufacturing,2032.46,Micro Cap
+FILATFASH,FILATEX FASHIONS LIMITED ,Consumer Cyclical,Apparel Manufacturing,258.36,Micro Cap
+FINCABLES,FINOLEX CABLES LTD       ,Industrials,Electrical Equipment & Parts,11881.86,Small Cap
+FINEORG,FINE ORGANIC IND. LTD.   ,Basic Materials,Specialty Chemicals,12913.68,Small Cap
+FINKURVE,FINKURVE FINANCIAL SERV L,Financial Services,Credit Services,1343.36,Micro Cap
+FINOPB,FINO PAYMENTS BANK LTD   ,Financial Services,Banks - Regional,2008.48,Micro Cap
+FINPIPE,FINOLEX INDUSTRIES LTD   ,Industrials,Building Products & Equipment,10889.99,Small Cap
+FIRSTCRY,BRAINBEES SOLUTIONS LTD  ,Consumer Cyclical,Internet Retail,14091.19,Small Cap
+FISCHER,FISCHER MEDICAL VENTURE L,Healthcare,Medical Devices,2533.75,Micro Cap
+FIVESTAR,FIVE-STAR BUS FIN LTD    ,Financial Services,Credit Services,15122.83,Small Cap
+FLAIR,FLAIR WRITING INDUST LTD ,Industrials,Business Equipment & Supplies,3366.33,Micro Cap
+FLEXITUFF,FLEXITUFF VENTURES INT L ,Consumer Cyclical,Textile Manufacturing,38.9,Micro Cap
+FLUOROCHEM,GUJARAT FLUOROCHEM LTD   ,Basic Materials,Specialty Chemicals,37324.83,Small Cap
+FMGOETZE,FEDERAL-MOGUL GOETZE (IND,Consumer Cyclical,Auto Parts,2486.48,Micro Cap
+FMNL,FUTURE MKT NETWORKS LTD  ,Real Estate,Real Estate Services,48.94,Micro Cap
+FOCUS,FOCUS LIGHTG & FIXTRS LTD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",487.36,Micro Cap
+FOODSIN,FOODS & INNS LIMITED     ,Consumer Defensive,Packaged Foods,472.79,Micro Cap
+FORCEMOT,FORCE MOTORS LIMITED     ,Consumer Cyclical,Auto Manufacturers,26710.96,Small Cap
+FORTIS,FORTIS HEALTHCARE LTD    ,Healthcare,Medical Care Facilities,68697.42,Mid Cap
+FOSECOIND,FOSECO INDIA LTD         ,Basic Materials,Chemicals,3496.99,Micro Cap
+FSL,FIRSTSOURCE SOLU. LTD.   ,Technology,Information Technology Services,22303.71,Small Cap
+FUSION,FUSION FINANCE LIMITED   ,Financial Services,Credit Services,1687.81,Micro Cap
+GABRIEL,GABRIEL INDIA LTD        ,Consumer Cyclical,Auto Parts,13397.67,Small Cap
+GAEL,GUJARAT AMBUJA EXPORTS LT,Consumer Defensive,Packaged Foods,6430.1,Small Cap
+GAIL,GAIL (INDIA) LTD         ,Utilities,Utilities - Regulated Gas,108600.92,Mid Cap
+GALAPREC,GALA PRECISION ENG LTD   ,Industrials,Specialty Industrial Machinery,936.83,Micro Cap
+GALAXYSURF,GALAXY SURFACTANTS LTD   ,Basic Materials,Specialty Chemicals,6725.41,Small Cap
+GALLANTT,GALLANTT ISPAT LIMITED   ,Basic Materials,Steel,13439.35,Small Cap
+GANDHAR,GANDHAR OIL REFINE IND L ,Energy,Oil & Gas Refining & Marketing,1507.25,Micro Cap
+GANDHITUBE,GANDHI SPL. TUBES LTD    ,Industrials,Metal Fabrication,916.93,Micro Cap
+GANECOS,GANESHA ECOSPHERE LIMITED,Consumer Cyclical,Textile Manufacturing,1989.07,Micro Cap
+GANESHBE,GANESH BENZOPLAST LIMITED,Basic Materials,Specialty Chemicals,551.65,Micro Cap
+GANESHCP,GANESH CONSUMER PRODUCT L,Consumer Defensive,Packaged Foods,825.11,Micro Cap
+GANESHHOU,GANESH HOUSING LIMITED   ,Real Estate,Real Estate - Development,6232.77,Small Cap
+GANGAFORGE,GANGA FORGING LIMITED    ,Industrials,Metal Fabrication,44.75,Micro Cap
+GANGESSECU,GANGES SECURITIES LIMITED,Consumer Defensive,Packaged Foods,126.46,Micro Cap
+GARFIBRES,GARWARE TECH FIBRES LTD  ,Consumer Cyclical,Textile Manufacturing,6303.38,Small Cap
+GARUDA,GARUDA CONSTRUCT N ENG L ,Industrials,Engineering & Construction,1747.32,Micro Cap
+GATECH,GACM TECHNOLOGIES LIMITED,Financial Services,Asset Management,56.24,Micro Cap
+GATECHDVR,GACM TECHNOLOGIES LIMITED,Financial Services,Asset Management,8.91,Micro Cap
+GATEWAY,GATEWAY DISTRIPARKS LTD  ,Industrials,Integrated Freight & Logistics,2818.49,Micro Cap
+GEECEE,GEECEE VENTURES LIMITED  ,Real Estate,Real Estate - Development,655.16,Micro Cap
+GEEKAYWIRE,GEEKAY WIRES LIMITED     ,Industrials,Electrical Equipment & Parts,325.79,Micro Cap
+GEMAROMA,GEM AROMATICS LIMITED    ,Basic Materials,Chemicals,784.18,Micro Cap
+GENCON,GENERIC ENG CONS PROJ LTD,Industrials,Engineering & Construction,256.38,Micro Cap
+GENESYS,GENESYS INTL CORPN LTD   ,Technology,Software - Application,1488.48,Micro Cap
+GENUSPAPER,GENUS P&B LIMITED        ,Basic Materials,Paper & Paper Products,332.46,Micro Cap
+GENUSPOWER,GENUS POWER INFRASTRU LTD,Industrials,Electrical Equipment & Parts,8379.79,Small Cap
+GEOJITFSL,GEOJIT FINANCIAL SER L   ,Financial Services,Capital Markets,2045.41,Micro Cap
+GESHIP,THE GE SHPG.LTD          ,Industrials,Marine Shipping,16025.61,Small Cap
+GFLLIMITED,GFL LIMITED              ,Financial Services,Asset Management,592.64,Micro Cap
+GHCL,GHCL LIMITED             ,Basic Materials,Chemicals,5069.71,Small Cap
+GHCLTEXTIL,GHCL TEXTILES LIMITED    ,Consumer Cyclical,Textile Manufacturing,706.28,Micro Cap
+GICHSGFIN,GIC HOUSING FINANCE LTD  ,Financial Services,Mortgage Finance,910.89,Micro Cap
+GICRE,GENERAL INS CORP OF INDIA,Financial Services,Insurance - Reinsurance,63947.88,Mid Cap
+GILLANDERS,GILLANDERS ARBUTHNOT LTD ,Consumer Defensive,Farm Products,211.37,Micro Cap
+GILLETTE,GILLETTE INDIA LTD       ,Consumer Defensive,Household & Personal Products,26195.26,Small Cap
+GINNIFILA,GINNI FILAMENTS LTD      ,Consumer Cyclical,Textile Manufacturing,350.14,Micro Cap
+GIPCL,GUJ IND POW CO. LTD      ,Utilities,Utilities - Regulated Electric,2245.2,Micro Cap
+GKENERGY,GK ENERGY LIMITED        ,Utilities,Utilities - Renewable,2848.37,Micro Cap
+GKSL,GUJARAT KIDNEY N SUP SP L,Healthcare,Medical Care Facilities,808.62,Micro Cap
+GKWLIMITED,GKW LIMITED              ,Industrials,Specialty Business Services,1055.53,Micro Cap
+GLAND,GLAND PHARMA LIMITED     ,Healthcare,Drug Manufacturers - Specialty & Generic,28891.69,Small Cap
+GLAXO,GLAXOSMITHKLINE PHARMA LT,Healthcare,Drug Manufacturers - General,40569.36,Small Cap
+GLENMARK,GLENMARK PHARMACEUTICALS ,Healthcare,Drug Manufacturers - Specialty & Generic,56759.05,Mid Cap
+GLOBALE,GLOBALE TESSILE LIMITED  ,Consumer Cyclical,Textile Manufacturing,13.23,Micro Cap
+GLOBALVECT,GLOBAL VEC HELICORP LTD  ,Industrials,Airports & Air Services,258.02,Micro Cap
+GLOBE,GLOBE ENTERPRISE (I) LTD ,Consumer Cyclical,Textile Manufacturing,128.82,Micro Cap
+GLOBECIVIL,GLOBE CIVIL PROJECTS LTD ,Industrials,Engineering & Construction,307.61,Micro Cap
+GLOBUSSPR,GLOBUS SPIRITS LTD       ,Consumer Defensive,Beverages - Wineries & Distilleries,2801.61,Micro Cap
+GLOSTERLTD,GLOSTER LIMITED          ,Consumer Cyclical,Textile Manufacturing,671.37,Micro Cap
+GLOTTIS,GLOTTIS LIMITED          ,Industrials,Integrated Freight & Logistics,511.36,Micro Cap
+GMBREW,G M BREWERIES LTD        ,Consumer Defensive,Beverages - Wineries & Distilleries,2361.46,Micro Cap
+GMDCLTD,GUJARAT MINERAL DEV CORP ,Energy,Thermal Coal,18200.73,Small Cap
+GMMPFAUDLR,GMM PFAUDLER LIMITED     ,Industrials,Specialty Industrial Machinery,4565.86,Micro Cap
+GMRAIRPORT,GMR AIRPORTS LIMITED     ,Industrials,Airports & Air Services,105272.99,Mid Cap
+GMRP&UI,GMR POW AND URBAN INFRA L,Energy,Thermal Coal,7484.33,Small Cap
+GNA,GNA AXLES LIMITED        ,Consumer Cyclical,Auto Parts,1538.64,Micro Cap
+GNFC,GUJ NAR VAL FER & CHEM L ,Basic Materials,Chemicals,7089.15,Small Cap
+GOACARBON,GOA CARBON LIMITED       ,Basic Materials,Specialty Chemicals,359.32,Micro Cap
+GOCLCORP,GOCL CORPORATION LIMITED ,Basic Materials,Specialty Chemicals,1397.7,Micro Cap
+GOCOLORS,GO FASHION INDIA LTD     ,Consumer Cyclical,Apparel Retail,2167.92,Micro Cap
+GODAVARIB,GODAVARI BIOREFINERIES L ,Basic Materials,Chemicals,1432.93,Micro Cap
+GODFRYPHLP,GODFREY PHILLIPS INDIA LT,Consumer Defensive,Tobacco,34738.7,Small Cap
+GODIGIT,GO DIGIT GENERAL INS LTD ,Financial Services,Insurance - Property & Casualty,30362.7,Small Cap
+GODREJAGRO,GODREJ AGROVET LIMITED   ,Consumer Defensive,Packaged Foods,10552.13,Small Cap
+GODREJCP,GODREJ CONSUMER PRODUCTS ,Consumer Defensive,Household & Personal Products,125541.88,Mid Cap
+GODREJIND,GODREJ INDUSTRIES LTD    ,Industrials,Conglomerates,33795.0,Small Cap
+GODREJPROP,GODREJ PROPERTIES LTD    ,Real Estate,Real Estate - Development,56367.76,Mid Cap
+GOKEX,GOKALDAS EXPORTS LTD.    ,Consumer Cyclical,Apparel Manufacturing,4386.7,Micro Cap
+GOKUL,GOKUL REFOILS & SOLV LTD ,Consumer Defensive,Packaged Foods,376.87,Micro Cap
+GOKULAGRO,GOKUL AGRO RESOURCES LTD ,Consumer Defensive,Packaged Foods,4838.83,Micro Cap
+GOLDIAM,GOLDIAM INTERNATIONAL LTD,Consumer Cyclical,Luxury Goods,3761.86,Micro Cap
+GOLDTECH,AION-TECH SOLUTIONS LTD  ,Technology,Information Technology Services,246.26,Micro Cap
+GOODLUCK,GOODLUCK INDIA LIMITED   ,Basic Materials,Steel,3780.55,Micro Cap
+GOPAL,GOPAL SNACKS LIMITED     ,Consumer Defensive,Packaged Foods,4025.3,Micro Cap
+GPIL,GODAWARI POW & ISP LTD   ,Basic Materials,Steel,17759.63,Small Cap
+GPPL,GUJARAT PIPAVAV PORT LTD ,Industrials,Marine Shipping,8933.0,Small Cap
+GPTHEALTH,GPT HEALTHCARE LIMITED   ,Healthcare,Medical Care Facilities,1102.16,Micro Cap
+GPTINFRA,GPT INFRAPROJECTS LTD    ,Industrials,Engineering & Construction,1359.68,Micro Cap
+GRANULES,GRANULES INDIA LIMITED   ,Healthcare,Drug Manufacturers - Specialty & Generic,14544.35,Small Cap
+GRAPHITE,GRAPHITE INDIA LTD       ,Industrials,Electrical Equipment & Parts,12365.32,Small Cap
+GRASIM,GRASIM INDUSTRIES LTD    ,Basic Materials,Building Materials,190260.27,Mid Cap
+GRAVITA,GRAVITA INDIA LIMITED    ,Industrials,Metal Fabrication,11908.26,Small Cap
+GREAVESCOT,GREAVES COTTON LTD.      ,Industrials,Specialty Industrial Machinery,3972.79,Micro Cap
+GREENLAM,GREENLAM INDUSTRIES LTD. ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",6170.49,Small Cap
+GREENPANEL,GREENPANEL INDUSTRIES LTD,Basic Materials,Lumber & Wood Production,2656.11,Micro Cap
+GREENPLY,GREENPLY INDUSTRIES LTD  ,Basic Materials,Lumber & Wood Production,3105.34,Micro Cap
+GREENPOWER,ORIENT GREEN POWER CO LTD,Utilities,Utilities - Independent Power Producers,1268.04,Micro Cap
+GRINDWELL,GRINDWELL NORTON LIMITED ,Industrials,Building Products & Equipment,17602.27,Small Cap
+GRINFRA,G R INFRAPROJECTS LIMITED,Industrials,Engineering & Construction,8972.12,Small Cap
+GRMOVER,GRM OVERSEAS LIMITED     ,Consumer Defensive,Packaged Foods,3148.28,Micro Cap
+GROBTEA,THE GROB TEA COMPANY LTD ,Consumer Defensive,Farm Products,114.26,Micro Cap
+GROWW,BILLIONBRAINS GARAGE VN L,Financial Services,Capital Markets,101456.89,Mid Cap
+GRPLTD,GRP LIMITED              ,Consumer Cyclical,Auto Parts,962.4,Micro Cap
+GRSE,GARDEN REACH SHIP&ENG LTD,Industrials,Aerospace & Defense,27847.59,Small Cap
+GRWRHITECH,GARWARE HI-TECH FILMS LTD,Basic Materials,Specialty Chemicals,6767.6,Small Cap
+GSFC,GUJ STATE FERT & CHEM LTD,Basic Materials,Agricultural Inputs,6970.57,Small Cap
+GSPL,GUJARAT STATE PETRO LTD  ,Utilities,Utilities - Regulated Gas,17239.48,Small Cap
+GSS,GSS INFOTECH LIMITED     ,Technology,Information Technology Services,41.07,Micro Cap
+GTECJAINX,G-TEC JAINX EDUCATION LTD,Consumer Defensive,Education & Training Services,22.21,Micro Cap
+GTL,GTL LTD                  ,Communication Services,Telecom Services,119.23,Micro Cap
+GTLINFRA,GTL INFRA.LTD            ,Technology,Communication Equipment,1473.05,Micro Cap
+GTPL,GTPL HATHWAY LIMITED     ,Communication Services,Entertainment,968.42,Micro Cap
+GUFICBIO,GUFIC BIOSCIENCES LTD.   ,Healthcare,Drug Manufacturers - Specialty & Generic,3159.4,Micro Cap
+GUJALKALI,GUJARAT ALKALIES & CHEM  ,Basic Materials,Chemicals,3540.43,Micro Cap
+GUJAPOLLO,GUJ. APOLLO IND. LTD.    ,Industrials,Specialty Industrial Machinery,497.43,Micro Cap
+GUJGASLTD,GUJARAT GAS LIMITED      ,Utilities,Utilities - Regulated Gas,28533.77,Small Cap
+GUJTHEM,GUJARAT THEMIS BIOSYN LTD,Healthcare,Drug Manufacturers - Specialty & Generic,4078.57,Micro Cap
+GULFOILLUB,GULF OIL LUB. IND. LTD.  ,Basic Materials,Specialty Chemicals,5540.57,Small Cap
+GULFPETRO,GP PETROLEUMS LIMITED    ,Energy,Oil & Gas Refining & Marketing,173.55,Micro Cap
+GULPOLY,GULSHAN POLYOLS LIMITED  ,Basic Materials,Chemicals,876.49,Micro Cap
+GVPIL,GE POWER INDIA LIMITED   ,Industrials,Engineering & Construction,2043.38,Micro Cap
+GVPTECH,GVP INFOTECH LIMITED     ,Technology,Information Technology Services,129.96,Micro Cap
+GVT&D,GE VERNOVA T&D INDIA LTD ,Industrials,Specialty Industrial Machinery,71590.61,Mid Cap
+HAL,HINDUSTAN AERONAUTICS LTD,Industrials,Aerospace & Defense,298367.28,Large Cap
+HAPPSTMNDS,HAPPIEST MINDS TECHNO LTD,Technology,Information Technology Services,6515.84,Small Cap
+HAPPYFORGE,HAPPY FORGINGS LIMITED   ,Industrials,Metal Fabrication,10326.08,Small Cap
+HARIOMPIPE,HARIOM PIPE INDUSTRIES L ,Basic Materials,Steel,1345.53,Micro Cap
+HARRMALAYA,HARRISON MALAYALAM LTD   ,Consumer Defensive,Farm Products,301.43,Micro Cap
+HARSHA,HARSHA ENGINEERS INT LTD ,Industrials,Tools & Accessories,3582.13,Micro Cap
+HATHWAY,HATHWAY CABLE & DATACOM  ,Communication Services,Entertainment,2125.9,Micro Cap
+HATSUN,HATSUN AGRO PRODUCT LTD. ,Consumer Defensive,Packaged Foods,20340.26,Small Cap
+HAVELLS,HAVELLS INDIA LIMITED    ,Industrials,Electrical Equipment & Parts,90143.08,Mid Cap
+HAVISHA,SRI HAVISHA HOSP & INFR L,Consumer Cyclical,Lodging,27.33,Micro Cap
+HBLENGINE,HBL ENGINEERING LTD      ,Industrials,Electrical Equipment & Parts,24344.65,Small Cap
+HCC,HINDUSTAN CONSTRUCTION CO,Industrials,Engineering & Construction,5267.75,Small Cap
+HCG,HEALTHCARE GLOB. ENT. LTD,Healthcare,Medical Care Facilities,9180.3,Small Cap
+HCL-INSYS,HCL INFOSYSTEMS LTD      ,Technology,Electronics & Computer Distribution,446.08,Micro Cap
+HCLTECH,HCL TECHNOLOGIES LTD     ,Technology,Information Technology Services,452775.02,Large Cap
+HDBFS,HDB FINANCIAL SERVICES L ,Financial Services,Credit Services,63400.33,Mid Cap
+HDFCAMC,HDFC AMC LIMITED         ,Financial Services,Asset Management,109394.27,Mid Cap
+HDFCBANK,HDFC BANK LTD            ,Financial Services,Banks - Regional,1423765.7,Large Cap
+HDFCLIFE,HDFC LIFE INS CO LTD     ,Financial Services,Insurance - Life,160354.01,Mid Cap
+HEADSUP,HEADS UP VENTURES LIMITED,Consumer Cyclical,Apparel Retail,19.04,Micro Cap
+HECPROJECT,HEC INFRA PROJECTS LTD   ,Industrials,Engineering & Construction,116.29,Micro Cap
+HEG,HEG LTD                  ,Industrials,Electrical Equipment & Parts,10903.23,Small Cap
+HEIDELBERG,HEIDELBERGCEMENT (I) LTD ,Basic Materials,Building Materials,3841.32,Micro Cap
+HEMIPROP,HEMISPHERE PROP IND LTD  ,Real Estate,Real Estate - Diversified,3873.72,Micro Cap
+HERANBA,HERANBA INDUSTRIES LTD   ,Basic Materials,Agricultural Inputs,892.42,Micro Cap
+HERITGFOOD,HERITAGE FOODS LTD       ,Consumer Defensive,Packaged Foods,4111.33,Micro Cap
+HEROMOTOCO,HERO MOTOCORP LIMITED    ,Consumer Cyclical,Auto Manufacturers,113576.33,Mid Cap
+HESTERBIO,HESTER BIOSCIENCES LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,1264.63,Micro Cap
+HEUBACHIND,HEUBACH COLORANTS IND LTD,Basic Materials,Specialty Chemicals,1019.41,Micro Cap
+HEXATRADEX,HEXA TRADEX LIMITED      ,Financial Services,Credit Services,903.31,Micro Cap
+HEXT,HEXAWARE TECHNOLOGIES LTD,Technology,Information Technology Services,43550.16,Small Cap
+HFCL,HFCL LIMITED             ,Technology,Communication Equipment,9858.61,Small Cap
+HGINFRA,H.G.INFRA ENGINEERING LTD,Industrials,Engineering & Construction,4526.46,Micro Cap
+HGM,HANDSON GBL MNGMNT LTD   ,Technology,Information Technology Services,78.24,Micro Cap
+HGS,HINDUJA GLOBAL SOLS. LTD.,Industrials,Specialty Business Services,1990.37,Micro Cap
+HIKAL,HIKAL LIMITED            ,Healthcare,Drug Manufacturers - Specialty & Generic,2612.87,Micro Cap
+HILINFRA,HIGHWAY INFRASTRUCTURE L ,Industrials,Infrastructure Operations,392.74,Micro Cap
+HILTON,HILTON METAL FORGING LTD ,Industrials,Metal Fabrication,108.95,Micro Cap
+HIMATSEIDE,HIMATSINGKA SEIDE LTD    ,Consumer Cyclical,Textile Manufacturing,1297.03,Micro Cap
+HINDALCO,HINDALCO  INDUSTRIES  LTD,Basic Materials,Aluminum,214688.79,Large Cap
+HINDCOMPOS,HINDUSTAN COMPOSITES LTD.,Consumer Cyclical,Auto Parts,635.73,Micro Cap
+HINDCON,HINDCON CHEMICALS LIMITED,Basic Materials,Specialty Chemicals,125.42,Micro Cap
+HINDCOPPER,HINDUSTAN COPPER LTD     ,Basic Materials,Copper,55391.14,Mid Cap
+HINDOILEXP,HINDUSTAN OIL EXPLORATION,Energy,Oil & Gas E&P,2021.72,Micro Cap
+HINDPETRO,HINDUSTAN PETROLEUM CORP ,Energy,Oil & Gas Refining & Marketing,93656.11,Mid Cap
+HINDUNILVR,HINDUSTAN UNILEVER LTD.  ,Consumer Defensive,Household & Personal Products,552976.3,Large Cap
+HINDWAREAP,HINDWARE HME INOVATON LTD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1952.72,Micro Cap
+HINDZINC,HINDUSTAN ZINC LIMITED   ,Basic Materials,Other Industrial Metals & Mining,276420.37,Large Cap
+HIRECT,HIND RECTIFIER LIMITED   ,Industrials,Electrical Equipment & Parts,2390.27,Micro Cap
+HISARMETAL,HISAR METAL IND. LIMITED ,Basic Materials,Steel,86.99,Micro Cap
+HITECH,HI-TECH PIPES LIMITED    ,Basic Materials,Steel,1730.88,Micro Cap
+HITECHCORP,HITECH CORPORATION LTD   ,Consumer Cyclical,Packaging & Containers,279.62,Micro Cap
+HLEGLAS,HLE GLASCOAT LIMITED     ,Industrials,Specialty Industrial Machinery,3078.58,Micro Cap
+HLVLTD,HLV LIMITED              ,Consumer Cyclical,Lodging,590.04,Micro Cap
+HMAAGRO,HMA AGRO INDUSTRIES LTD  ,Consumer Defensive,Packaged Foods,1370.11,Micro Cap
+HMVL,HINDUSTAN MEDIA VENT LTD ,Communication Services,Publishing,508.92,Micro Cap
+HNDFDS,HINDUSTAN FOODS LIMITED  ,Industrials,Conglomerates,5924.5,Small Cap
+HOMEFIRST,HOME FIRST FIN CO IND LTD,Financial Services,Mortgage Finance,11250.73,Small Cap
+HONASA,HONASA CONSUMER LIMITED  ,Consumer Defensive,Household & Personal Products,9365.77,Small Cap
+HONAUT,HONEYWELL AUTOMATION IND ,Industrials,Electrical Equipment & Parts,29663.31,Small Cap
+HONDAPOWER,HONDA I POWER PRODUCT LTD,Industrials,Specialty Industrial Machinery,2198.61,Micro Cap
+HPAL,HP ADHESIVES LIMITED     ,Basic Materials,Specialty Chemicals,373.2,Micro Cap
+HPIL,HINDPRAKASH INDUSTRY LTD ,Basic Materials,Specialty Chemicals,152.18,Micro Cap
+HPL,HPL ELECTRIC & POWER LTD ,Industrials,Electrical Equipment & Parts,2278.81,Micro Cap
+HSCL,HIMADRI SPECIALITY CHEM L,Basic Materials,Specialty Chemicals,23728.92,Small Cap
+HTMEDIA,HT MEDIA LIMITED         ,Communication Services,Publishing,430.34,Micro Cap
+HUBTOWN,HUBTOWN LIMITED          ,Real Estate,Real Estate - Development,3182.91,Micro Cap
+HUDCO,HSG & URBAN DEV CORPN LTD,Financial Services,Credit Services,43369.16,Small Cap
+HUHTAMAKI,HUHTAMAKI INDIA LIMITED  ,Consumer Cyclical,Packaging & Containers,1438.01,Micro Cap
+HYUNDAI,HYUNDAI MOTOR INDIA LTD  ,Consumer Cyclical,Auto Manufacturers,188273.9,Mid Cap
+IBULLSLTD,INDIABULLS LIMITED       ,Real Estate,Real Estate - Development,2914.78,Micro Cap
+ICDSLTD,ICDS LTD                 ,Real Estate,Real Estate Services,54.78,Micro Cap
+ICEMAKE,ICE MAKE REFRIGERAT LTD  ,Industrials,Specialty Industrial Machinery,1181.9,Micro Cap
+ICICIAMC,ICICI PRUDENTIAL AMC LTD ,Unknown,Unknown,135229.13,Mid Cap
+ICICIBANK,ICICI BANK LTD.          ,Financial Services,Banks - Regional,1014183.2,Large Cap
+ICICIGI,ICICI LOMBARD GIC LIMITED,Financial Services,Insurance - Diversified,92514.35,Mid Cap
+ICICIPRULI,ICICI PRU LIFE INS CO LTD,Financial Services,Insurance - Life,96879.37,Mid Cap
+ICIL,INDO COUNT INDUSTRIES LTD,Consumer Cyclical,Textile Manufacturing,5021.67,Small Cap
+ICRA,ICRA LIMITED             ,Financial Services,Financial Data & Stock Exchanges,5804.25,Small Cap
+IDBI,IDBI BANK LIMITED        ,Financial Services,Banks - Regional,112738.94,Mid Cap
+IDEA,VODAFONE IDEA LIMITED    ,Communication Services,Telecom Services,120044.08,Mid Cap
+IDEAFORGE,IDEAFORGE TECHNO LTD     ,Technology,Computer Hardware,1981.24,Micro Cap
+IDFCFIRSTB,IDFC FIRST BANK LIMITED  ,Financial Services,Banks - Regional,71397.77,Mid Cap
+IEX,INDIAN ENERGY EXC LTD    ,Financial Services,Capital Markets,12427.52,Small Cap
+IFBAGRO,IFB AGRO INDUSTRIES LTD  ,Consumer Defensive,Beverages - Wineries & Distilleries,1337.81,Micro Cap
+IFBIND,IFB INDUSTRIES LTD       ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5652.37,Small Cap
+IFCI,IFCI LTD                 ,Financial Services,Credit Services,15115.1,Small Cap
+IFGLEXPOR,IFGL REFRACTORIES LIMITED,Basic Materials,Building Materials,1397.82,Micro Cap
+IGARASHI,IGARASHI MOTORS INDIA LTD,Consumer Cyclical,Auto Parts,1280.25,Micro Cap
+IGCL,INDOGULF CROPSCIENCES LTD,Basic Materials,Agricultural Inputs,463.24,Micro Cap
+IGIL,INTERNATIO GEMM INS (I) L,Basic Materials,Other Precious Metals & Mining,13504.99,Small Cap
+IGL,INDRAPRASTHA GAS LTD     ,Utilities,Utilities - Regulated Gas,25393.23,Small Cap
+IGPL,I G PETROCHEMICALS LTD   ,Basic Materials,Chemicals,1167.12,Micro Cap
+IIFL,IIFL FINANCE LIMITED     ,Financial Services,Credit Services,27016.86,Small Cap
+IIFLCAPS,IIFL CAPITAL SERVICES LTD,Financial Services,Capital Markets,11662.2,Small Cap
+IITL,INDUSTRIAL INV TRUST LTD ,Financial Services,Credit Services,328.57,Micro Cap
+IKIO,IKIO TECHNOLOGIES LIMITED,Technology,Electronic Components,1314.62,Micro Cap
+IKS,INVENTURUS KNOWLEDGE SO L,Healthcare,Health Information Services,29208.61,Small Cap
+IMAGICAA,IMAGICAAWORLD ENT LTD    ,Communication Services,Entertainment,2974.17,Micro Cap
+IMFA,INDIAN METALS & FERRO    ,Basic Materials,Other Industrial Metals & Mining,6844.08,Small Cap
+IMPAL,IND MOTOR PART & ACC LTD ,Consumer Cyclical,Auto Parts,1252.74,Micro Cap
+INCREDIBLE,INCREDIBLE INDUSTRIES LTD,Basic Materials,Steel,169.85,Micro Cap
+INDBANK,INDBANK MERCH BANK       ,Financial Services,Capital Markets,169.75,Micro Cap
+INDGN,INDEGENE LIMITED         ,Healthcare,Health Information Services,12174.47,Small Cap
+INDHOTEL,THE INDIAN HOTELS CO. LTD,Consumer Cyclical,Lodging,98138.53,Mid Cap
+INDIACEM,THE INDIA CEMENTS LIMITED,Basic Materials,Building Materials,14676.73,Small Cap
+INDIAGLYCO,INDIA GLYCOLS LTD        ,Basic Materials,Chemicals,5940.89,Small Cap
+INDIAMART,INDIAMART INTERMESH LTD  ,Communication Services,Internet Content & Information,12705.43,Small Cap
+INDIANB,INDIAN BANK              ,Financial Services,Banks - Regional,114007.03,Mid Cap
+INDIANCARD,INDIAN CARD CLOTHING CO. ,Consumer Cyclical,Textile Manufacturing,140.2,Micro Cap
+INDIANHUME,INDIAN HUME PIPE CO. LTD.,Industrials,Engineering & Construction,2082.51,Micro Cap
+INDIASHLTR,INDIA SHELTER FIN CORP L ,Financial Services,Mortgage Finance,8515.09,Small Cap
+INDIGO,INTERGLOBE AVIATION LTD  ,Industrials,Airlines,182973.33,Mid Cap
+INDIGOPNTS,INDIGO PAINTS LIMITED    ,Basic Materials,Specialty Chemicals,5721.56,Small Cap
+INDIQUBE,INDIQUBE SPACES LIMITED  ,Real Estate,Real Estate Services,4162.22,Micro Cap
+INDNIPPON,INDIA NIPPON ELECT  LTD  ,Consumer Cyclical,Auto Parts,1774.76,Micro Cap
+INDOAMIN,INDO AMINES LIMITED      ,Basic Materials,Chemicals,916.06,Micro Cap
+INDOBORAX,INDO BORAX & CHEMICAL LTD,Basic Materials,Chemicals,824.39,Micro Cap
+INDOCO,INDOCO REMEDIES LTD.     ,Healthcare,Drug Manufacturers - Specialty & Generic,1946.06,Micro Cap
+INDOFARM,INDO FARM EQUIPMENT LTD  ,Industrials,Farm & Heavy Construction Machinery,859.98,Micro Cap
+INDORAMA,INDO RAMA SYNTHETICS LTD ,Consumer Cyclical,Textile Manufacturing,1134.8,Micro Cap
+INDOSTAR,INDOSTAR CAPITAL FIN LTD ,Financial Services,Credit Services,3074.92,Micro Cap
+INDOTECH,INDO TECH TRANSFORM LTD. ,Industrials,Electrical Equipment & Parts,1490.2,Micro Cap
+INDOTHAI,INDO THAI SEC LTD        ,Financial Services,Capital Markets,3248.69,Micro Cap
+INDOUS,INDO US BIOTECH LTD      ,Basic Materials,Agricultural Inputs,229.7,Micro Cap
+INDOWIND,INDOWIND ENERGY LTD      ,Utilities,Utilities - Renewable,270.64,Micro Cap
+INDRAMEDCO,INDRAPRASTHA MEDICAL CORP,Healthcare,Medical Care Facilities,3738.42,Micro Cap
+INDSWFTLAB,IND SWIFT LABORATORIES LT,Healthcare,Drug Manufacturers - Specialty & Generic,821.99,Micro Cap
+INDTERRAIN,IND TERRAIN FASHIONS LTD ,Consumer Cyclical,Apparel Retail,165.28,Micro Cap
+INDUSINDBK,INDUSIND BANK LIMITED    ,Financial Services,Banks - Regional,73583.73,Mid Cap
+INDUSTOWER,INDUS TOWERS LIMITED     ,Communication Services,Telecom Services,115657.06,Mid Cap
+INFIBEAM,INFIBEAM AVENUES LIMITED ,Technology,Software - Infrastructure,4326.09,Micro Cap
+INFOBEAN,INFOBEANS TECHNO. LTD.   ,Technology,Software - Application,1995.07,Micro Cap
+INFOMEDIA,INFOMEDIA PRESS LIMITED  ,Financial Services,Shell Companies,31.37,Micro Cap
+INFY,INFOSYS LIMITED          ,Technology,Information Technology Services,648658.81,Large Cap
+INGERRAND,INGERSOLL-RAND INDIA LTD ,Industrials,Specialty Industrial Machinery,10160.16,Small Cap
+INNOVACAP,INNOVA CAPTAB LIMITED    ,Healthcare,Drug Manufacturers - Specialty & Generic,3886.72,Micro Cap
+INNOVANA,INNOVANA THINKLABS LTD   ,Technology,Software - Application,809.96,Micro Cap
+INOXGREEN,INOX GREEN ENERGY SER LTD,Utilities,Utilities - Renewable,6987.67,Small Cap
+INOXINDIA,INOX INDIA LIMITED       ,Industrials,Specialty Industrial Machinery,10194.56,Small Cap
+INOXWIND,INOX WIND LIMITED        ,Industrials,Specialty Industrial Machinery,19786.59,Small Cap
+INSECTICID,INSECTICIDES (I) LTD     ,Basic Materials,Agricultural Inputs,1866.77,Micro Cap
+INSPIRISYS,INSPIRISYS SOLUTIONS LTD ,Technology,Information Technology Services,332.39,Micro Cap
+INTELLECT,INTELLECT DESIGN ARENA   ,Technology,Software - Application,12748.06,Small Cap
+INTENTECH,INTENSE TECHNOLOGIES LTD ,Technology,Software - Infrastructure,276.08,Micro Cap
+INTERARCH,INTERARCH BLDNG SOLTN LTD,Industrials,Engineering & Construction,3470.43,Micro Cap
+INTLCONV,INTL CONVEYORS LIMITED   ,Industrials,Specialty Industrial Machinery,519.01,Micro Cap
+INVENTURE,INVENTURE GRO & SEC LTD  ,Financial Services,Capital Markets,119.7,Micro Cap
+IOB,INDIAN OVERSEAS BANK     ,Financial Services,Banks - Regional,69535.55,Mid Cap
+IOC,INDIAN OIL CORP LTD      ,Energy,Oil & Gas Refining & Marketing,224753.63,Large Cap
+IOLCP,IOL CHEM AND PHARMA LTD  ,Healthcare,Drug Manufacturers - Specialty & Generic,2218.77,Micro Cap
+IONEXCHANG,ION EXCHANGE (INDIA) LTD ,Industrials,Pollution & Treatment Controls,5156.06,Small Cap
+IPCALAB,IPCA LABORATORIES LTD    ,Healthcare,Drug Manufacturers - Specialty & Generic,38486.93,Small Cap
+IPL,INDIA PESTICIDES LIMITED ,Basic Materials,Agricultural Inputs,1906.76,Micro Cap
+IRB,IRB INFRA DEV LTD.       ,Industrials,Infrastructure Operations,25236.98,Small Cap
+IRCON,IRCON INTERNATIONAL LTD  ,Industrials,Engineering & Construction,15515.69,Small Cap
+IRCTC,INDIAN RAIL TOUR CORP LTD,Consumer Cyclical,Travel Services,50196.0,Mid Cap
+IREDA,INDIAN RENEWABLE ENERGY  ,Financial Services,Credit Services,38795.48,Small Cap
+IRFC,INDIAN RAILWAY FIN CORP L,Financial Services,Credit Services,159448.84,Mid Cap
+IRIS,IRIS REGTECH SOLUTION LTD,Technology,Software - Application,577.56,Micro Cap
+IRISDOREME,IRIS CLOTHINGS LIMITED   ,Consumer Cyclical,Apparel Manufacturing,630.95,Micro Cap
+IRMENERGY,IRM ENERGY LIMITED       ,Utilities,Utilities - Regulated Gas,1062.01,Micro Cap
+ISFT,INTRASOFT TECH. LTD      ,Consumer Cyclical,Internet Retail,148.84,Micro Cap
+ISGEC,ISGEC HEAVY ENG LTD      ,Industrials,Specialty Industrial Machinery,5798.54,Small Cap
+ISHANCH,ISHAN DYES N CHEMICALS L ,Basic Materials,Chemicals,164.29,Micro Cap
+ITC,ITC LTD                  ,Consumer Defensive,Tobacco,419400.39,Large Cap
+ITCHOTELS,ITC HOTELS LIMITED       ,Consumer Cyclical,Resorts & Casinos,39972.04,Small Cap
+ITDC,INDIA TOUR. DEV. CO. LTD.,Consumer Cyclical,Lodging,4878.56,Micro Cap
+ITI,ITI LTD                  ,Technology,Communication Equipment,28927.5,Small Cap
+IVALUE,IVALUE INFOSOLUTIONS LTD ,Technology,Information Technology Services,1345.19,Micro Cap
+IVC,IL&FS INVESTMENT MANAGERS,Financial Services,Financial Conglomerates,249.34,Micro Cap
+IVP,IVP LTD                  ,Basic Materials,Specialty Chemicals,151.57,Micro Cap
+IXIGO,LE TRAVENUES TECHNOLOGY L,Consumer Cyclical,Travel Services,10132.15,Small Cap
+IZMO,IZMO LIMITED             ,Technology,Software - Application,1059.39,Micro Cap
+J&KBANK,J & K BANK LTD.          ,Financial Services,Banks - Regional,11304.74,Small Cap
+JAGRAN,JAGRAN PRAKASHAN LIMITED ,Communication Services,Publishing,1501.16,Micro Cap
+JAGSNPHARM,JAGSONPAL PHARMACEUTICALS,Healthcare,Drug Manufacturers - Specialty & Generic,1191.04,Micro Cap
+JAIBALAJI,JAI BALAJI INDUSTRIES LTD,Basic Materials,Steel,6009.04,Small Cap
+JAICORPLTD,JAI CORP LIMITED         ,Basic Materials,Specialty Chemicals,2094.48,Micro Cap
+JAINREC,JAIN RESOURCE RECYCLING L,Basic Materials,Other Industrial Metals & Mining,14207.18,Small Cap
+JAIPURKURT,NANDANI CREATION LIMITED ,Consumer Cyclical,Apparel Manufacturing,71.07,Micro Cap
+JAMNAAUTO,JAMNA AUTO IND LTD       ,Consumer Cyclical,Auto Parts,5054.28,Small Cap
+JARO,JARO INS OF TEC MG N RE L,Consumer Defensive,Education & Training Services,1045.11,Micro Cap
+JASH,JASH ENGINEERING LIMITED ,Industrials,Specialty Industrial Machinery,2547.34,Micro Cap
+JAYAGROGN,JAYANT AGRO ORGANICS LTD ,Basic Materials,Specialty Chemicals,579.96,Micro Cap
+JAYBARMARU,JAY BHARAT MARUTI LTD    ,Consumer Cyclical,Auto Parts,1016.14,Micro Cap
+JAYKAY,JAYKAY ENTERPRISES LTD   ,Industrials,Specialty Business Services,2292.14,Micro Cap
+JAYNECOIND,JAYASWAL NECO INDUSTR LTD,Basic Materials,Steel,8485.55,Small Cap
+JAYSREETEA,JAYSHREE TEA & INDUSTRIES,Consumer Defensive,Farm Products,247.1,Micro Cap
+JBCHEPHARM,J B CHEMICALS AND PHARMA ,Healthcare,Drug Manufacturers - Specialty & Generic,29691.62,Small Cap
+JBMA,JBM AUTO LIMITED         ,Consumer Cyclical,Auto Parts,14210.94,Small Cap
+JGCHEM,J.G.CHEMICALS LIMITED    ,Basic Materials,Other Industrial Metals & Mining,1342.32,Micro Cap
+JHS,JHS SVEND. LAB. LTD      ,Consumer Defensive,Household & Personal Products,87.23,Micro Cap
+JINDALPHOT,JINDAL PHOTO LIMITED     ,Financial Services,Asset Management,1423.03,Micro Cap
+JINDALPOLY,JINDAL POLY FILMS LIMITED,Consumer Cyclical,Packaging & Containers,1811.22,Micro Cap
+JINDALSAW,JINDAL SAW LIMITED       ,Basic Materials,Steel,10230.21,Small Cap
+JINDALSTEL,JINDAL STEEL LIMITED     ,Basic Materials,Steel,106160.57,Mid Cap
+JINDRILL,JINDAL DRILLING IND. LTD ,Energy,Oil & Gas Equipment & Services,1522.81,Micro Cap
+JINDWORLD,JINDAL WORLDWIDE LTD     ,Consumer Cyclical,Textile Manufacturing,2724.07,Micro Cap
+JIOFIN,JIO FIN SERVICES LTD     ,Financial Services,Asset Management,182335.16,Mid Cap
+JISLDVREQS,JAIN DVR EQUITY SHARES   ,Industrials,Conglomerates,52.09,Micro Cap
+JISLJALEQS,JAIN IRRIGATION SYSTEMS  ,Industrials,Conglomerates,2754.11,Micro Cap
+JITFINFRA,JITF INFRALOGISTICS LTD  ,Industrials,Engineering & Construction,679.09,Micro Cap
+JKCEMENT,JK CEMENT LIMITED        ,Basic Materials,Building Materials,44135.62,Small Cap
+JKIL,JKUMAR INFR.LTD.         ,Industrials,Engineering & Construction,4174.47,Micro Cap
+JKIPL,JINKUSHAL INDUSTRIES LTD ,Industrials,Farm & Heavy Construction Machinery,320.75,Micro Cap
+JKLAKSHMI,JK LAKSHMI CEMENT LTD    ,Basic Materials,Building Materials,9624.92,Small Cap
+JKPAPER,JK PAPER LIMITED         ,Basic Materials,Paper & Paper Products,5874.03,Small Cap
+JKTYRE,JK TYRE & INDUSTRIES LTD ,Consumer Cyclical,Auto Parts,13869.52,Small Cap
+JLHL,JUPITER LIFE LINE HOSP L ,Healthcare,Medical Care Facilities,8955.01,Small Cap
+JMA,JULLUNDUR MOT AGENCY LTD ,Consumer Cyclical,Auto Parts,169.57,Micro Cap
+JMFINANCIL,JM FINANCIAL LIMITED     ,Financial Services,Capital Markets,13289.24,Small Cap
+JNKINDIA,JNK INDIA LIMITED        ,Industrials,Specialty Industrial Machinery,1230.54,Micro Cap
+JOCIL,JOCIL LIMITED            ,Basic Materials,Specialty Chemicals,125.55,Micro Cap
+JPOLYINVST,JIND POL INV & FIN CO LTD,Financial Services,Asset Management,999.05,Micro Cap
+JPPOWER,JAIPRAKASH POWER VEN. LTD,Utilities,Utilities - Independent Power Producers,11294.5,Small Cap
+JSFB,JANA SMALL FIN BANK LTD  ,Financial Services,Banks - Regional,4218.71,Micro Cap
+JSL,JINDAL STAINLESS LIMITED ,Basic Materials,Steel,65467.16,Mid Cap
+JSLL,JEENA SIKHO LIFECARE LTD ,Healthcare,Medical Care Facilities,9068.98,Small Cap
+JSWCEMENT,JSW CEMENT LIMITED       ,Basic Materials,Building Materials,16588.06,Small Cap
+JSWENERGY,JSW ENERGY LIMITED       ,Utilities,Utilities - Independent Power Producers,86453.37,Mid Cap
+JSWHL,JSW HOLDINGS LIMITED     ,Industrials,Conglomerates,20467.71,Small Cap
+JSWINFRA,JSW INFRASTRUCTURE LTD   ,Industrials,Marine Shipping,55282.54,Mid Cap
+JSWSTEEL,JSW STEEL LIMITED        ,Basic Materials,Steel,289003.75,Large Cap
+JTEKTINDIA,JTEKT INDIA LIMITED      ,Consumer Cyclical,Auto Parts,4067.47,Micro Cap
+JTLIND,JTL INDUSTRIES LIMITED   ,Basic Materials,Steel,2746.85,Micro Cap
+JUBLCPL,JUBILANT AGRI N CON PRO L,Basic Materials,Specialty Chemicals,3214.38,Micro Cap
+JUBLFOOD,JUBILANT FOODWORKS LTD   ,Consumer Cyclical,Restaurants,34925.61,Small Cap
+JUBLINGREA,JUBILANT INGREVIA LIMITED,Basic Materials,Specialty Chemicals,10933.85,Small Cap
+JUBLPHARMA,JUBILANT PHARMOVA LTD    ,Healthcare,Drug Manufacturers - Specialty & Generic,16984.15,Small Cap
+JUNIPER,JUNIPER HOTELS LIMITED   ,Consumer Cyclical,Lodging,5529.18,Small Cap
+JUSTDIAL,JUSTDIAL LTD.            ,Communication Services,Internet Content & Information,6120.66,Small Cap
+JWL,JUPITER WAGONS LIMITED   ,Industrials,Railroads,14057.25,Small Cap
+JYOTHYLAB,JYOTHY LABS LIMITED      ,Consumer Defensive,Household & Personal Products,9424.56,Small Cap
+JYOTICNC,JYOTI CNC AUTOMATION LTD ,Industrials,Specialty Industrial Machinery,21161.72,Small Cap
+JYOTISTRUC,JYOTI STRUCTURES LTD     ,Industrials,Specialty Industrial Machinery,1053.83,Micro Cap
+KABRAEXTRU,KABRA EXTRUSION TECHNIK L,Industrials,Specialty Industrial Machinery,703.2,Micro Cap
+KAJARIACER,KAJARIA CERAMICS LTD     ,Industrials,Building Products & Equipment,15856.35,Small Cap
+KAKATCEM,KAKATIYA CEM SUGAR &IND L,Basic Materials,Building Materials,93.33,Micro Cap
+KALAMANDIR,SAI SILKS (KALAMANDIR) L ,Consumer Cyclical,Apparel Retail,1864.17,Micro Cap
+KALPATARU,KALPATARU LIMITED        ,Real Estate,Real Estate - Development,7342.89,Small Cap
+KALYANIFRG,KALYANI FORGE LIMITED    ,Consumer Cyclical,Auto Parts,217.26,Micro Cap
+KALYANKJIL,KALYAN JEWELLERS IND LTD ,Consumer Cyclical,Luxury Goods,49609.11,Small Cap
+KAMATHOTEL,KAMAT HOTELS (I) LTD     ,Consumer Cyclical,Lodging,677.1,Micro Cap
+KAMDHENU,KAMDHENU LIMITED         ,Basic Materials,Steel,633.11,Micro Cap
+KAMOPAINTS,KAMDHENU VENTURES LIMITED,Basic Materials,Steel,203.7,Micro Cap
+KANANIIND,KANANI INDUSTRIES LTD    ,Consumer Cyclical,Luxury Goods,31.86,Micro Cap
+KANORICHEM,KANORIA CHEMICALS & INDUS,Basic Materials,Chemicals,313.02,Micro Cap
+KANPRPLA,KANPUR PLASTIPACK LIMITED,Consumer Cyclical,Packaging & Containers,395.83,Micro Cap
+KANSAINER,KANSAI NEROLAC PAINTS LTD,Basic Materials,Specialty Chemicals,19125.56,Small Cap
+KAPSTON,KAPSTON SERVICES LIMITED ,Industrials,Specialty Business Services,643.64,Micro Cap
+KARMAENG,KARMA ENERGY LIMITED     ,Utilities,Utilities - Renewable,53.2,Micro Cap
+KARURVYSYA,KARUR VYSYA BANK LTD     ,Financial Services,Banks - Regional,25790.26,Small Cap
+KAUSHALYA,KAUSHALYA INFRA DEV LTD. ,Industrials,Engineering & Construction,30.84,Micro Cap
+KAVDEFENCE,KAVVERI DFS & WIR TEC LTD,Technology,Communication Equipment,233.81,Micro Cap
+KAYA,KAYA LIMITED             ,Consumer Defensive,Household & Personal Products,581.38,Micro Cap
+KAYNES,KAYNES TECHNOLOGY IND LTD,Technology,Electronic Components,24672.77,Small Cap
+KCP,KCP LTD                  ,Basic Materials,Building Materials,2193.59,Micro Cap
+KCPSUGIND,KCP SUGAR IND CORP LTD.  ,Consumer Defensive,Confectioners,285.5,Micro Cap
+KDDL,KDDL LIMITED             ,Consumer Cyclical,Luxury Goods,2762.91,Micro Cap
+KEC,KEC INTL. LIMITED        ,Industrials,Engineering & Construction,18614.03,Small Cap
+KECL,KIRLOSKAR ELECTRIC CO LTD,Industrials,Specialty Industrial Machinery,617.39,Micro Cap
+KEEPLEARN,DSJ KEEP LEARNING LTD    ,Consumer Defensive,Education & Training Services,34.88,Micro Cap
+KEI,KEI INDUSTRIES LTD.      ,Industrials,Electrical Equipment & Parts,41917.04,Small Cap
+KELLTONTEC,KELLTON TECH SOL LTD     ,Technology,Software - Application,876.16,Micro Cap
+KERNEX,KERNEX MICROSYS(I) LTD   ,Technology,Software - Application,2106.16,Micro Cap
+KEYFINSERV,KEYNOTE FIN SERV LTD.    ,Financial Services,Capital Markets,197.6,Micro Cap
+KFINTECH,KFIN TECHNOLOGIES LIMITED,Technology,Software - Application,18408.98,Small Cap
+KHADIM,KHADIM INDIA LIMITED     ,Consumer Cyclical,Footwear & Accessories,315.96,Micro Cap
+KHAICHEM,KHAITAN CHEM & FERT LTD  ,Basic Materials,Agricultural Inputs,663.5,Micro Cap
+KHAITANLTD,KHAITAN (INDIA)LTD.      ,Industrials,Industrial Distribution,45.87,Micro Cap
+KHANDSE,KHANDWALA SECURITIES LTD ,Financial Services,Capital Markets,30.78,Micro Cap
+KICL,KALYANI INVEST CO LTD    ,Financial Services,Asset Management,2086.09,Micro Cap
+KILITCH,KILITCH DRUGS INDIA LTD  ,Healthcare,Drug Manufacturers - Specialty & Generic,590.41,Micro Cap
+KIMS,KRISHNA INST OF MED SCI L,Healthcare,Medical Care Facilities,24952.66,Small Cap
+KINGFA,KINGFA SCI & TEC IND LTD.,Basic Materials,Specialty Chemicals,5882.11,Small Cap
+KIOCL,KIOCL LIMITED            ,Basic Materials,Steel,23055.04,Small Cap
+KIRIINDUS,KIRI INDUSTRIES LIMITED  ,Basic Materials,Specialty Chemicals,3202.8,Micro Cap
+KIRLOSBROS,KIRLOSKAR BROTHERS LTD   ,Industrials,Specialty Industrial Machinery,12801.51,Small Cap
+KIRLOSENG,KIRLOSKAR OIL ENG LTD    ,Industrials,Specialty Industrial Machinery,16955.82,Small Cap
+KIRLOSIND,KIRLOSKAR INDUSTRIES LTD ,Industrials,Metal Fabrication,3149.48,Micro Cap
+KIRLPNU,KIRLOSKAR PNEUMATIC COM L,Industrials,Specialty Industrial Machinery,6945.94,Small Cap
+KITEX,KITEX GARMENTS LTD       ,Consumer Cyclical,Apparel Manufacturing,3050.55,Micro Cap
+KKCL,KEWAL KIRAN CLOTHING LTD ,Consumer Cyclical,Apparel Manufacturing,3042.13,Micro Cap
+KMEW,KNOWLEDGE MARINE & EN W L,Industrials,Marine Shipping,4696.2,Micro Cap
+KMSUGAR,K M SUGAR MILLS LTD      ,Consumer Defensive,Confectioners,249.23,Micro Cap
+KNAGRI,KN AGRI RESOURCES LIMITED,Consumer Defensive,Farm Products,464.85,Micro Cap
+KNRCON,KNR CONSTRU LTD.         ,Industrials,Engineering & Construction,3989.03,Micro Cap
+KOHINOOR,KOHINOOR FOODS LIMITED   ,Consumer Defensive,Packaged Foods,92.57,Micro Cap
+KOKUYOCMLN,KOKUYO CAMLIN LIMITED    ,Industrials,Business Equipment & Supplies,877.96,Micro Cap
+KOLTEPATIL,KOLTE PATIL DEV. LTD.    ,Real Estate,Real Estate - Development,3329.05,Micro Cap
+KOPRAN,KOPRAN LTD               ,Healthcare,Drug Manufacturers - General,705.82,Micro Cap
+KOTAKBANK,KOTAK MAHINDRA BANK LTD  ,Financial Services,Banks - Regional,418705.25,Large Cap
+KOTARISUG,KOTHARI SUG & CHEM LTD.  ,Consumer Defensive,Confectioners,217.33,Micro Cap
+KOTHARIPET,KOTHARI PETROCHEM LTD    ,Basic Materials,Specialty Chemicals,705.98,Micro Cap
+KOTHARIPRO,KOTHARI PRODUCTS LTD     ,Industrials,Conglomerates,409.64,Micro Cap
+KPEL,K.P. ENERGY LIMITED      ,Industrials,Engineering & Construction,2129.65,Micro Cap
+KPIGREEN,KPI GREEN ENERGY LIMITED ,Utilities,Utilities - Renewable,8543.88,Small Cap
+KPIL,KALPATARU PROJECT INT LTD,Industrials,Engineering & Construction,19413.42,Small Cap
+KPITTECH,KPIT TECHNOLOGIES LIMITED,Technology,Software - Infrastructure,32332.52,Small Cap
+KPRMILL,KPR MILL LTD.            ,Consumer Cyclical,Textile Manufacturing,29360.11,Small Cap
+KRBL,KRBL LIMITED             ,Consumer Defensive,Packaged Foods,8188.54,Small Cap
+KREBSBIO,KREBS BIOCHEMICALS & IND ,Healthcare,Drug Manufacturers - Specialty & Generic,139.54,Micro Cap
+KRIDHANINF,KRIDHAN INFRA LIMITED    ,Basic Materials,Steel,36.58,Micro Cap
+KRISHANA,KRISHANA PHOSCHEM LIMITED,Basic Materials,Agricultural Inputs,2961.93,Micro Cap
+KRISHIVAL,KRISHIVAL FOODS LIMITED  ,Consumer Defensive,Packaged Foods,741.98,Micro Cap
+KRISHNADEF,KRISHNA DEF AND ALD IND L,Industrials,Specialty Industrial Machinery,1325.48,Micro Cap
+KRITI,KRITI INDUSTRIES IND LTD ,Industrials,Building Products & Equipment,433.79,Micro Cap
+KRITIKA,KRITIKA WIRES LIMITED    ,Basic Materials,Steel,187.99,Micro Cap
+KRITINUT,KRITI NUTRIENTS LIMITED  ,Consumer Defensive,Packaged Foods,377.53,Micro Cap
+KRN,KRN HEAT EXCHANGE N REF L,Technology,Electronic Components,4484.29,Micro Cap
+KRONOX,KRONOX LAB SCIENCES LTD  ,Basic Materials,Specialty Chemicals,485.91,Micro Cap
+KROSS,KROSS LIMITED            ,Consumer Cyclical,Auto Parts,1285.03,Micro Cap
+KRSNAA,KRSNAA DIAGNOSTICS LTD   ,Healthcare,Diagnostics & Research,2298.93,Micro Cap
+KRYSTAL,KRYSTAL INTEGRATED SER L ,Industrials,Specialty Business Services,858.37,Micro Cap
+KSB,KSB LIMITED              ,Industrials,Specialty Industrial Machinery,12677.02,Small Cap
+KSCL,KAVERI SEED CO. LTD.     ,Basic Materials,Agricultural Inputs,4566.76,Micro Cap
+KSHINTL,KSH INTERNATIONAL LIMITED,Industrials,Electrical Equipment & Parts,2330.8,Micro Cap
+KSHITIJPOL,KSHITIJ POLYLINE LIMITED ,Industrials,Business Equipment & Supplies,35.94,Micro Cap
+KSL,KALYANI STEELS LIMITED   ,Basic Materials,Steel,3046.33,Micro Cap
+KSOLVES,KSOLVES INDIA LIMITED    ,Technology,Software - Application,662.16,Micro Cap
+KTKBANK,KARNATAKA BANK LIMITED   ,Financial Services,Banks - Regional,7158.57,Small Cap
+KUANTUM,KUANTUM PAPERS LIMITED   ,Basic Materials,Paper & Paper Products,813.47,Micro Cap
+LAGNAM,LAGNAM SPINTEX LIMITED   ,Consumer Cyclical,Textile Manufacturing,124.6,Micro Cap
+LAL,LORENZINI APPARELS LTD   ,Consumer Cyclical,Apparel Manufacturing,133.7,Micro Cap
+LALPATHLAB,DR. LAL PATH LABS LTD.   ,Healthcare,Diagnostics & Research,23628.04,Small Cap
+LAMBODHARA,LAMBODHARA TEXTILES LTD. ,Consumer Cyclical,Textile Manufacturing,115.42,Micro Cap
+LANDMARK,LANDMARK CARS LIMITED    ,Consumer Cyclical,Auto & Truck Dealerships,1865.92,Micro Cap
+LAOPALA,LA OPALA RG LIMITED      ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2224.88,Micro Cap
+LASA,LASA SUPERGENERICS LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,46.99,Micro Cap
+LATENTVIEW,LATENT VIEW ANALYTICS LTD,Industrials,Consulting Services,8893.64,Small Cap
+LAURUSLABS,LAURUS LABS LIMITED      ,Healthcare,Drug Manufacturers - Specialty & Generic,58871.36,Mid Cap
+LAXMICOT,LAXMI COTSPIN LIMITED    ,Consumer Cyclical,Textile Manufacturing,26.68,Micro Cap
+LAXMIDENTL,LAXMI DENTAL LIMITED     ,Healthcare,Medical Instruments & Supplies,1307.27,Micro Cap
+LAXMIINDIA,LAXMI INDIA FINANCE LTD  ,Financial Services,Credit Services,566.85,Micro Cap
+LEMERITE,LE MERITE EXPORTS LIMITED,Consumer Cyclical,Textile Manufacturing,1158.3,Micro Cap
+LEMONTREE,LEMON TREE HOTELS LTD    ,Consumer Cyclical,Lodging,11841.71,Small Cap
+LENSKART,LENSKART SOLUTIONS LTD   ,Healthcare,Medical Instruments & Supplies,79405.01,Mid Cap
+LEXUS,LEXUS GRANITO (INDIA) LTD,Industrials,Building Products & Equipment,54.4,Micro Cap
+LFIC,LAKSHMI FIN IND CORP LTD ,Financial Services,Asset Management,46.47,Micro Cap
+LGBBROSLTD,LG BALAKRISHNAN & BROS   ,Consumer Cyclical,Auto Parts,5931.67,Small Cap
+LGEINDIA,LG ELECTRONICS INDIA LTD ,Technology,Consumer Electronics,94464.75,Mid Cap
+LGHL,LAXMI GOLDORNA HOUSE LTD ,Consumer Cyclical,Luxury Goods,1450.18,Micro Cap
+LIBAS,LIBAS CONSU PRODUCTS LTD ,Consumer Cyclical,Apparel Manufacturing,27.69,Micro Cap
+LIBERTSHOE,LIBERTY SHOES LTD        ,Consumer Cyclical,Footwear & Accessories,410.58,Micro Cap
+LICHSGFIN,LIC HOUSING FINANCE LTD  ,Financial Services,Mortgage Finance,29442.12,Small Cap
+LICI,LIFE INSURA CORP OF INDIA,Financial Services,Insurance - Life,522887.56,Large Cap
+LIKHITHA,LIKHITHA INFRASTRUC LTD  ,Energy,Oil & Gas Equipment & Services,671.95,Micro Cap
+LINC,LINC LIMITED             ,Industrials,Business Equipment & Supplies,669.25,Micro Cap
+LINCOLN,LINCOLN PHARMA LTD       ,Healthcare,Drug Manufacturers - Specialty & Generic,965.93,Micro Cap
+LINDEINDIA,LINDE INDIA LIMITED      ,Basic Materials,Specialty Chemicals,51852.81,Mid Cap
+LLOYDSENGG,LLOYDS ENGG WORK LIMITED ,Industrials,Specialty Industrial Machinery,5930.26,Small Cap
+LLOYDSENT,LLOYDS ENTERPRISES LTD   ,Basic Materials,Steel,7525.9,Small Cap
+LLOYDSME,LLOYDS METALS N ENERGY L ,Basic Materials,Steel,65465.58,Mid Cap
+LMW,LMW LIMITED              ,Industrials,Specialty Industrial Machinery,15206.18,Small Cap
+LODHA,LODHA DEVELOPERS LIMITED ,Real Estate,Real Estate - Development,105742.83,Mid Cap
+LOKESHMACH,LOKESH MACHINES LTD      ,Industrials,Specialty Industrial Machinery,369.16,Micro Cap
+LORDSCHLO,LORDS CHLORO ALKALI LTD  ,Basic Materials,Chemicals,391.32,Micro Cap
+LOTUSDEV,SRI LOTUS DEVLPRS N RTY L,Industrials,Engineering & Construction,7375.82,Small Cap
+LOTUSEYE,LOTUS EYE HOSP & INST L  ,Healthcare,Medical Care Facilities,224.87,Micro Cap
+LOVABLE,LOVABLE LINGERIE LTD     ,Consumer Cyclical,Apparel Manufacturing,111.86,Micro Cap
+LOYALTEX,LOYAL TEXTILE MILLS LTD  ,Consumer Cyclical,Textile Manufacturing,96.52,Micro Cap
+LPDC,LANDMARK PR.DEV.CO.LTD   ,Real Estate,Real Estate Services,92.56,Micro Cap
+LT,LARSEN & TOUBRO LTD.     ,Industrials,Engineering & Construction,531772.05,Large Cap
+LTF,L&T FINANCE LIMITED      ,Financial Services,Credit Services,74027.73,Mid Cap
+LTFOODS,LT FOODS LIMITED         ,Consumer Defensive,Packaged Foods,12879.61,Small Cap
+LTIM,LTIMINDTREE LIMITED      ,Technology,Information Technology Services,178797.84,Mid Cap
+LTTS,L&T TECHNOLOGY SER. LTD. ,Technology,Information Technology Services,44979.75,Small Cap
+LUMAXIND,LUMAX INDUSTRIES LTD     ,Consumer Cyclical,Auto Parts,5193.13,Small Cap
+LUMAXTECH,LUMAX AUTO TECH LTD      ,Consumer Cyclical,Auto Parts,10439.03,Small Cap
+LUPIN,LUPIN LIMITED            ,Healthcare,Drug Manufacturers - Specialty & Generic,100308.45,Mid Cap
+LUXIND,LUX INDUSTRIES LIMITED   ,Consumer Cyclical,Apparel Manufacturing,2848.99,Micro Cap
+LXCHEM,LAXMI ORGANIC INDUS LTD  ,Basic Materials,Specialty Chemicals,4143.08,Micro Cap
+LYKALABS,LYKA LABS LTD            ,Healthcare,Biotechnology,274.85,Micro Cap
+LYPSAGEMS,LYPSA GEMS & JEWEL LTD   ,Consumer Cyclical,Luxury Goods,14.54,Micro Cap
+M&M,MAHINDRA & MAHINDRA LTD  ,Consumer Cyclical,Auto Manufacturers,453825.85,Large Cap
+M&MFIN,M&M FIN. SERVICES LTD    ,Financial Services,Credit Services,49337.03,Small Cap
+MACPOWER,MACPOWER CNC MACHINES LTD,Industrials,Specialty Industrial Machinery,934.89,Micro Cap
+MADHAV,MADHAV MARBLE & GRANITE  ,Industrials,Building Products & Equipment,35.53,Micro Cap
+MADHUCON,MADHUCON PROJECTS LTD.   ,Industrials,Engineering & Construction,42.73,Micro Cap
+MADRASFERT,MADRAS FERTILISERS LTD   ,Basic Materials,Agricultural Inputs,1286.23,Micro Cap
+MAGADSUGAR,MAGADH SUGAR & ENERGY LTD,Consumer Defensive,Confectioners,635.6,Micro Cap
+MAGNUM,MAGNUM VENTURES LTD.     ,Basic Materials,Paper & Paper Products,149.41,Micro Cap
+MAHABANK,BANK OF MAHARASHTRA      ,Financial Services,Banks - Regional,50687.35,Mid Cap
+MAHAPEXLTD,MAHA RASHTRA APEX COPR. L,Financial Services,Credit Services,138.03,Micro Cap
+MAHEPC,MAHINDRA EPC IRRIG LTD   ,Industrials,Farm & Heavy Construction Machinery,363.56,Micro Cap
+MAHESHWARI,MAHESHWARI LOGISTICS LTD.,Industrials,Integrated Freight & Logistics,130.38,Micro Cap
+MAHLIFE,MAHINDRA LIFESPACE DEVLTD,Real Estate,Real Estate - Development,8025.95,Small Cap
+MAHLOG,MAHINDRA LOGISTIC LIMITED,Industrials,Integrated Freight & Logistics,3025.51,Micro Cap
+MAHSCOOTER,MAHARASHTRA SCOOTERS LTD ,Financial Services,Asset Management,16342.85,Small Cap
+MAHSEAMLES,MAHARASHTRA SEAMLESS LTD ,Basic Materials,Steel,7081.86,Small Cap
+MAITHANALL,MAITHAN ALLOYS LTD       ,Basic Materials,Steel,3275.63,Micro Cap
+MALLCOM,MALLCOM (INDIA) LIMITED  ,Industrials,Security & Protection Services,677.16,Micro Cap
+MALUPAPER,MALU PAPER MILLS LIMITED ,Basic Materials,Paper & Paper Products,57.95,Micro Cap
+MAMATA,MAMATA MACHINERY LIMITED ,Industrials,Specialty Industrial Machinery,997.11,Micro Cap
+MANAKALUCO,MANAK ALUMINIUM CO. LTD. ,Basic Materials,Aluminum,353.69,Micro Cap
+MANAKCOAT,MAN COAT METAL & IND LTD ,Industrials,Metal Fabrication,1414.79,Micro Cap
+MANAKSIA,MANAKSIA LTD.            ,Industrials,Metal Fabrication,433.84,Micro Cap
+MANAKSTEEL,MANAKSIA STEELS LTD      ,Basic Materials,Steel,415.81,Micro Cap
+MANALIPETC,MANALI PETROCHEMICALS LT ,Basic Materials,Specialty Chemicals,1019.27,Micro Cap
+MANAPPURAM,MANAPPURAM FINANCE LTD   ,Financial Services,Credit Services,26154.83,Small Cap
+MANBA,MANBA FINANCE LIMITED    ,Financial Services,Credit Services,679.89,Micro Cap
+MANCREDIT,MANGAL CREDIT N FINCORP L,Financial Services,Credit Services,344.26,Micro Cap
+MANGLMCEM,MANGALAM CEMENT LTD      ,Basic Materials,Building Materials,2062.02,Micro Cap
+MANINDS,MAN INDUSTRIES (I) LTD.  ,Basic Materials,Steel,2602.08,Micro Cap
+MANINFRA,MAN INFRA LTD            ,Industrials,Engineering & Construction,4684.55,Micro Cap
+MANKIND,MANKIND PHARMA LIMITED   ,Healthcare,Drug Manufacturers - Specialty & Generic,92649.97,Mid Cap
+MANORAMA,MANORAMA INDUSTRIES LTD  ,Consumer Defensive,Packaged Foods,7796.14,Small Cap
+MANORG,MANGALAM ORGANICS LIMITED,Basic Materials,Specialty Chemicals,402.1,Micro Cap
+MANUGRAPH,MANUGRAPH INDIA LIMITED  ,Industrials,Specialty Industrial Machinery,46.99,Micro Cap
+MANYAVAR,VEDANT FASHIONS LIMITED  ,Consumer Cyclical,Apparel Manufacturing,13124.19,Small Cap
+MAPMYINDIA,C.E. INFO SYSTEMS LIMITED,Technology,Software - Infrastructure,8352.71,Small Cap
+MARALOVER,MARAL OVERSEAS LTD       ,Consumer Cyclical,Textile Manufacturing,177.86,Micro Cap
+MARATHON,MARATHON NXTGEN REALT LTD,Real Estate,Real Estate - Development,3373.39,Micro Cap
+MARICO,MARICO LIMITED           ,Consumer Defensive,Household & Personal Products,97330.61,Mid Cap
+MARINE,MARINE ELECTRICAL (I) LTD,Industrials,Electrical Equipment & Parts,2679.29,Micro Cap
+MARKOLINES,MARKOLINES PAVEMENT TEC L,Industrials,Infrastructure Operations,315.67,Micro Cap
+MARKSANS,MARKSANS PHARMA LIMITED  ,Healthcare,Drug Manufacturers - General,7816.96,Small Cap
+MARUTI,MARUTI SUZUKI INDIA LTD. ,Consumer Cyclical,Auto Manufacturers,507823.04,Large Cap
+MASFIN,MAS FINANCIAL SERV LTD   ,Financial Services,Credit Services,5645.92,Small Cap
+MASTEK,MASTEK LTD               ,Technology,Information Technology Services,6334.29,Small Cap
+MASTERTR,MASTER TRUST LIMITED     ,Financial Services,Capital Markets,1306.31,Micro Cap
+MATRIMONY,MATRIMONY.COM LIMITED    ,Communication Services,Internet Content & Information,1192.03,Micro Cap
+MAWANASUG,MAWANA SUGARS LIMITED    ,Consumer Defensive,Confectioners,327.02,Micro Cap
+MAXESTATES,MAX ESTATES LIMITED      ,Real Estate,Real Estate - Development,6888.12,Small Cap
+MAXHEALTH,MAX HEALTHCARE INS LTD   ,Healthcare,Medical Care Facilities,100545.44,Mid Cap
+MAXIND,MAX INDIA LIMITED        ,Healthcare,Medical Care Facilities,889.32,Micro Cap
+MAYURUNIQ,MAYUR UNIQUOTERS LTD     ,Consumer Cyclical,Textile Manufacturing,2106.58,Micro Cap
+MAZDA,MAZDA LIMITED            ,Industrials,Specialty Industrial Machinery,413.48,Micro Cap
+MAZDOCK,MAZAGON DOCK SHIPBUIL LTD,Industrials,Aerospace & Defense,99667.13,Mid Cap
+MBAPL,MADHYA BHARAT AGRO P. LTD,Basic Materials,Agricultural Inputs,3491.93,Micro Cap
+MBEL,M AND B ENGINEERING LTD  ,Industrials,Engineering & Construction,1952.18,Micro Cap
+MBLINFRA,MBL INFRASTRUCTURE LTD   ,Industrials,Engineering & Construction,421.9,Micro Cap
+MCLEODRUSS,MCLEOD RUSSEL INDIA LTD. ,Consumer Defensive,Packaged Foods,470.68,Micro Cap
+MCLOUD,MAGELLANIC CLOUD LIMITED ,Technology,Information Technology Services,1375.08,Micro Cap
+MCX,MULTI COMMODITY EXCHANGE ,Financial Services,Financial Data & Stock Exchanges,61631.53,Mid Cap
+MEDANTA,GLOBAL HEALTH LIMITED    ,Healthcare,Medical Care Facilities,31249.57,Small Cap
+MEDIASSIST,MEDI ASSIST HEALTH SER L ,Healthcare,Healthcare Plans,3249.34,Micro Cap
+MEDICAMEQ,MEDICAMEN BIOTECH LIMITED,Healthcare,Drug Manufacturers - Specialty & Generic,523.05,Micro Cap
+MEDICO,MEDICO REMEDIES LIMITED  ,Healthcare,Drug Manufacturers - Specialty & Generic,389.69,Micro Cap
+MEDPLUS,MEDPLUS HEALTH SERV LTD  ,Healthcare,Pharmaceutical Retailers,9996.8,Small Cap
+MEESHO,MEESHO LIMITED           ,Consumer Cyclical,Internet Retail,74146.23,Mid Cap
+MEIL,MANGAL ELECTRICAL IND L  ,Industrials,Electrical Equipment & Parts,959.73,Micro Cap
+MENONBE,MENON BEARINGS LIMITED   ,Consumer Cyclical,Auto Parts,711.2,Micro Cap
+METROBRAND,METRO BRANDS LIMITED     ,Consumer Cyclical,Apparel Retail,30011.33,Small Cap
+METROPOLIS,METROPOLIS HEALTHCARE LTD,Healthcare,Diagnostics & Research,9765.85,Small Cap
+MFML,MAHALAXMI FABRIC MILLS LT,Consumer Cyclical,Textile Manufacturing,25.65,Micro Cap
+MFSL,MAX FINANCIAL SERV LTD   ,Financial Services,Insurance - Life,56912.88,Mid Cap
+MGEL,MANGALAM GLOBAL ENT LTD  ,Consumer Defensive,Farm Products,397.44,Micro Cap
+MGL,MAHANAGAR GAS LTD.       ,Utilities,Utilities - Regulated Gas,10355.86,Small Cap
+MHLXMIRU,MAHALAXMI RUBTECH LIMITED,Consumer Cyclical,Textile Manufacturing,209.69,Micro Cap
+MHRIL,MAHINDRA HOLIDAYS LTD    ,Consumer Cyclical,Resorts & Casinos,6105.63,Small Cap
+MICEL,MIC ELECTRONICS LTD      ,Technology,Electronic Components,931.27,Micro Cap
+MIDHANI,MISHRA DHATU NIGAM LTD   ,Basic Materials,Steel,6569.08,Small Cap
+MIDWESTLTD,MIDWEST LIMITED          ,Basic Materials,Building Materials,5380.73,Small Cap
+MINDACORP,MINDA CORPORATION LTD    ,Consumer Cyclical,Auto Parts,13604.81,Small Cap
+MINDTECK,MINDTECK (INDIA) LIMITED ,Technology,Information Technology Services,717.5,Micro Cap
+MIRCELECTR,MIRC ELECTRONICS LTD     ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",917.61,Micro Cap
+MIRZAINT,MIRZA INTERNATIONAL LIMIT,Consumer Cyclical,Footwear & Accessories,473.76,Micro Cap
+MITCON,MITCON CON & ENG SER LTD ,Industrials,Engineering & Construction,106.11,Micro Cap
+MITTAL,MITTAL LIFE STYLE LIMITED,Consumer Cyclical,Textile Manufacturing,22.63,Micro Cap
+MKPL,M K PROTEINS LIMITED     ,Consumer Defensive,Packaged Foods,220.34,Micro Cap
+MMFL,MM FORGINGS LTD          ,Industrials,Metal Fabrication,1996.2,Micro Cap
+MMP,MMP INDUSTRIES LIMITED   ,Basic Materials,Aluminum,651.45,Micro Cap
+MMTC,MMTC LIMITED             ,Industrials,Conglomerates,10737.0,Small Cap
+MOBIKWIK,ONE MOBIKWIK SYSTEMS LTD ,Technology,Software - Infrastructure,1812.68,Micro Cap
+MODINATUR,MODI NATURALS LIMITED    ,Consumer Defensive,Packaged Foods,465.52,Micro Cap
+MODIRUBBER,MODI RUBBER LTD          ,Real Estate,Real Estate Services,310.9,Micro Cap
+MODIS,MODIS NAVNIRMAN LTD      ,Real Estate,Real Estate - Development,615.85,Micro Cap
+MODISONLTD,MODISON LIMITED          ,Industrials,Electrical Equipment & Parts,504.44,Micro Cap
+MODTHREAD,MODERN THREADS INDIA LTD ,Consumer Cyclical,Textile Manufacturing,147.34,Micro Cap
+MOHITIND,MOHIT INDUSTRIES LTD     ,Consumer Cyclical,Textile Manufacturing,38.23,Micro Cap
+MOIL,MOIL LIMITED             ,Basic Materials,Other Industrial Metals & Mining,7103.67,Small Cap
+MOKSH,MOKSH ORNAMENTS LIMITED  ,Consumer Cyclical,Luxury Goods,130.78,Micro Cap
+MOL,MEGHMANI ORGANICS LIMITED,Basic Materials,Agricultural Inputs,1556.4,Micro Cap
+MOLDTECH,MOLD-TEK TECHNOLOGIES LTD,Industrials,Engineering & Construction,393.39,Micro Cap
+MOLDTKPAC,MOLD-TEK PACKAGING LTD   ,Consumer Cyclical,Packaging & Containers,1943.68,Micro Cap
+MONARCH,MONARCH NETWORTH CAP LTD ,Financial Services,Capital Markets,2194.68,Micro Cap
+MONEYBOXX,MONEYBOXX FINANCE LIMITED,Financial Services,Credit Services,415.28,Micro Cap
+MONTECARLO,MONTE CARLO FASHIONS LTD.,Consumer Cyclical,Apparel Manufacturing,1264.86,Micro Cap
+MOREPENLAB,MOREPEN LAB. LTD         ,Healthcare,Drug Manufacturers - Specialty & Generic,2087.16,Micro Cap
+MOSCHIP,MOSCHIP TECHNOLOGIES LTD ,Technology,Semiconductor Equipment & Materials,3674.65,Micro Cap
+MOTHERSON,SAMVRDHNA MTHRSN INTL LTD,Consumer Cyclical,Auto Parts,119845.7,Mid Cap
+MOTILALOFS,MOTILAL OSWAL FIN LTD    ,Financial Services,Capital Markets,51760.34,Mid Cap
+MOTISONS,MOTISONS JEWELLERS LTD   ,Consumer Cyclical,Luxury Goods,1270.94,Micro Cap
+MOTOGENFIN,MOTOR & GENERAL FINANCE L,Real Estate,Real Estate Services,89.15,Micro Cap
+MPHASIS,MPHASIS LIMITED          ,Technology,Information Technology Services,53142.78,Mid Cap
+MPSLTD,MPS LIMITED              ,Communication Services,Publishing,3223.08,Micro Cap
+MRF,MRF LTD                  ,Consumer Cyclical,Auto Parts,61778.61,Mid Cap
+MRPL,MRPL                     ,Energy,Oil & Gas Refining & Marketing,27752.4,Small Cap
+MSPL,MSP STEEL & POWER LTD.   ,Basic Materials,Steel,1964.52,Micro Cap
+MSTCLTD,MSTC LIMITED             ,Industrials,Conglomerates,3409.47,Micro Cap
+MSUMI,MOTHERSON SUMI WRNG IND L,Consumer Cyclical,Auto Parts,30552.07,Small Cap
+MTARTECH,MTAR TECHNOLOGIES LIMITED,Industrials,Specialty Industrial Machinery,8113.15,Small Cap
+MTNL,MAHANAGAR TELEPHONE NIGAM,Communication Services,Telecom Services,2122.47,Micro Cap
+MUFIN,MUFIN GREEN FINANCE LTD  ,Financial Services,Credit Services,2032.18,Micro Cap
+MUFTI,CREDO BRANDS MARKETING L ,Consumer Cyclical,Apparel Retail,613.89,Micro Cap
+MUKANDLTD,MUKAND LTD.              ,Basic Materials,Steel,1874.83,Micro Cap
+MUKKA,MUKKA PROTEINS LIMITED   ,Consumer Defensive,Packaged Foods,662.7,Micro Cap
+MUKTAARTS,MUKTA ARTS LIMITED       ,Communication Services,Entertainment,149.45,Micro Cap
+MUNJALAU,MUNJAL AUTO IND. LTD.    ,Consumer Cyclical,Auto Parts,741.7,Micro Cap
+MUNJALSHOW,MUNJAL SHOWA LTD         ,Consumer Cyclical,Auto Parts,487.62,Micro Cap
+MURUDCERA,MURUDESHWAR CERAMICS LTD ,Industrials,Building Products & Equipment,204.22,Micro Cap
+MUTHOOTCAP,MUTHOOT CAP SERV LTD     ,Financial Services,Credit Services,452.14,Micro Cap
+MUTHOOTFIN,MUTHOOT FINANCE LIMITED  ,Financial Services,Credit Services,158102.3,Mid Cap
+MUTHOOTMF,MUTHOOT MICROFIN LIMITED ,Financial Services,Credit Services,3217.87,Micro Cap
+MVGJL,MANOJ VAIBHAV GEM N JEW L,Consumer Cyclical,Luxury Goods,876.57,Micro Cap
+MWL,MANGALAM WORLDWIDE LTD   ,Basic Materials,Steel,822.26,Micro Cap
+NACLIND,NACL INDUSTRIES LIMITED  ,Basic Materials,Agricultural Inputs,4317.55,Micro Cap
+NAGAFERT,NAGARJUN FERT AND CHE LTD,Basic Materials,Agricultural Inputs,284.68,Micro Cap
+NAGREEKEXP,NAGREEKA EXPORTS LTD.    ,Consumer Cyclical,Textile Manufacturing,80.94,Micro Cap
+NAHARCAP,NAHAR CAP & FIN.         ,Financial Services,Capital Markets,401.15,Micro Cap
+NAHARINDUS,NAHAR INDS ENT LTD       ,Consumer Cyclical,Textile Manufacturing,438.84,Micro Cap
+NAHARPOLY,NAHAR POLY FILMS LIMITED ,Consumer Cyclical,Packaging & Containers,558.59,Micro Cap
+NAHARSPING,NAHAR SPINNING MILLS LTD.,Consumer Cyclical,Textile Manufacturing,660.25,Micro Cap
+NAM-INDIA,NIPPON L I A M LTD       ,Financial Services,Asset Management,55042.97,Mid Cap
+NARMADA,NARMADA AGROBASE LIMITED ,Basic Materials,Agricultural Inputs,103.68,Micro Cap
+NATCAPSUQ,NATURAL CAPSULES LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,186.7,Micro Cap
+NATCOPHARM,NATCO PHARMA LTD.        ,Healthcare,Drug Manufacturers - Specialty & Generic,15975.7,Small Cap
+NATHBIOGEN,NATH BIO-GENES (I) LTD   ,Basic Materials,Agricultural Inputs,281.85,Micro Cap
+NATIONALUM,NATIONAL ALUMINIUM CO LTD,Basic Materials,Aluminum,68607.38,Mid Cap
+NAUKRI,INFO EDGE (I) LTD        ,Communication Services,Internet Content & Information,84670.76,Mid Cap
+NAVA,NAVA LIMITED             ,Industrials,Conglomerates,16108.43,Small Cap
+NAVINFLUOR,NAVIN FLUORINE INT. LTD  ,Basic Materials,Chemicals,30897.43,Small Cap
+NAVKARCORP,NAVKAR CORPORATION LTD.  ,Industrials,Integrated Freight & Logistics,1554.71,Micro Cap
+NAVNETEDUL,NAVNEET EDUCATION LTD    ,Communication Services,Publishing,3177.06,Micro Cap
+NAZARA,NAZARA TECHNOLOGIES LTD  ,Communication Services,Electronic Gaming & Multimedia,9959.95,Small Cap
+NBCC,NBCC (INDIA) LIMITED     ,Industrials,Engineering & Construction,28398.6,Small Cap
+NBIFIN,N.B.I. IND. FIN. CO. LTD ,Financial Services,Capital Markets,634.38,Micro Cap
+NCC,NCC LIMITED              ,Industrials,Engineering & Construction,9415.82,Small Cap
+NCLIND,NCL INDUSTRIES LIMITED   ,Basic Materials,Building Materials,927.95,Micro Cap
+NDGL,NAGA DHUNSERI GROUP LTD  ,Financial Services,Capital Markets,277.52,Micro Cap
+NDL,NANDAN DENIM LIMITED     ,Consumer Cyclical,Textile Manufacturing,428.12,Micro Cap
+NDLVENTURE,NDL VENTURES LIMITED     ,Communication Services,Entertainment,303.04,Micro Cap
+NDRAUTO,NDR AUTO COMPONENTS LTD  ,Consumer Cyclical,Auto Parts,1757.62,Micro Cap
+NDTV,NDTV LTD                 ,Communication Services,Broadcasting,1037.87,Micro Cap
+NECCLTD,NORTH EAST CARRY CORP LTD,Industrials,Trucking,171.6,Micro Cap
+NELCAST,NELCAST LIMITED          ,Industrials,Metal Fabrication,844.69,Micro Cap
+NELCO,NELCO LTD                ,Technology,Communication Equipment,1603.22,Micro Cap
+NEOGEN,NEOGEN CHEMICALS LIMITED ,Basic Materials,Specialty Chemicals,3471.56,Micro Cap
+NEPHROPLUS,NEPHROCARE HEALTH SERV L ,Healthcare,Medical Care Facilities,4950.81,Micro Cap
+NESCO,NESCO LTD.               ,Industrials,Conglomerates,8197.31,Small Cap
+NESTLEIND,NESTLE INDIA LIMITED     ,Consumer Defensive,Packaged Foods,252049.96,Large Cap
+NETWEB,NETWEB TECH INDIA LTD    ,Technology,Computer Hardware,18058.99,Small Cap
+NETWORK18,NETWORK18 MEDIA & INV LTD,Communication Services,Entertainment,6309.86,Small Cap
+NEULANDLAB,NEULAND LAB LTD.         ,Healthcare,Drug Manufacturers - Specialty & Generic,18297.99,Small Cap
+NEWGEN,NEWGEN SOFTWARE TECH LTD ,Technology,Software - Infrastructure,10960.6,Small Cap
+NEXTMEDIA,NEXT MEDIAWORKS LIMITED  ,Communication Services,Broadcasting,38.66,Micro Cap
+NFL,NATIONAL FERT. LTD       ,Basic Materials,Agricultural Inputs,4084.07,Micro Cap
+NGIL,NAKODA GROUP OF IND. LTD ,Consumer Defensive,Packaged Foods,50.09,Micro Cap
+NGLFINE,NGL FINE CHEM LIMITED    ,Healthcare,Drug Manufacturers - General,907.8,Micro Cap
+NH,NARAYANA HRUDAYALAYA LTD.,Healthcare,Medical Care Facilities,39770.66,Small Cap
+NHPC,NHPC LTD                 ,Utilities,Utilities - Renewable,81656.09,Mid Cap
+NIACL,THE NEW INDIA ASSU CO LTD,Financial Services,Insurance - Diversified,24685.39,Small Cap
+NIBE,NIBE LIMITED             ,Industrials,Conglomerates,1734.79,Micro Cap
+NIBL,NRB INDUS. BEARINGS LTD. ,Industrials,Tools & Accessories,78.56,Micro Cap
+NIITLTD,NIIT LIMITED             ,Consumer Defensive,Education & Training Services,1140.44,Micro Cap
+NIITMTS,NIIT LEARNING SYSTEMS LTD,Consumer Defensive,Education & Training Services,5756.26,Small Cap
+NILAINFRA,NILA INFRASTRUCTURES LTD ,Real Estate,Real Estate - Development,356.86,Micro Cap
+NILASPACES,NILA SPACES LIMITED      ,Real Estate,Real Estate - Development,565.23,Micro Cap
+NILKAMAL,NILKAMAL LIMITED         ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2093.93,Micro Cap
+NINSYS,NINTEC SYSTEMS LIMITED   ,Technology,Information Technology Services,713.5,Micro Cap
+NIPPOBATRY,INDO-NATIONAL LIMITED    ,Industrials,Electrical Equipment & Parts,299.18,Micro Cap
+NIRAJ,NIRAJ CEMENT STRUC LTD   ,Industrials,Engineering & Construction,203.56,Micro Cap
+NIRAJISPAT,NIRAJ ISPAT IND LTD      ,Consumer Cyclical,Apparel Manufacturing,12.18,Micro Cap
+NITCO,NITCO LIMITED            ,Industrials,Building Products & Equipment,2043.72,Micro Cap
+NITINSPIN,NITIN SPINNERS LIMITED   ,Consumer Cyclical,Textile Manufacturing,1837.55,Micro Cap
+NITIRAJ,NITIRAJ ENGINEERS LTD    ,Technology,Scientific & Technical Instruments,195.64,Micro Cap
+NIVABUPA,NIVA BUPA HEALTH INS CO L,Financial Services,Insurance - Life,14588.48,Small Cap
+NKIND,NK INDUSTRIES LTD        ,Consumer Defensive,Household & Personal Products,39.61,Micro Cap
+NLCINDIA,NLC INDIA LIMITED        ,Utilities,Utilities - Regulated Electric,36073.35,Small Cap
+NMDC,NMDC LTD.                ,Basic Materials,Steel,73719.39,Mid Cap
+NOCIL,NOCIL LIMITED            ,Basic Materials,Specialty Chemicals,2303.11,Micro Cap
+NOIDATOLL,NOIDA TOLL BRIDGE CO LTD ,Industrials,Infrastructure Operations,70.57,Micro Cap
+NORTHARC,NORTHERN ARC CAPITAL LTD ,Financial Services,Credit Services,4277.78,Micro Cap
+NOVAAGRI,NOVA AGRITECH LIMITED    ,Basic Materials,Agricultural Inputs,334.09,Micro Cap
+NPST,NETWORK PEOPLE SRV TECH L,Technology,Software - Application,2764.24,Micro Cap
+NRAIL,N R AGARWAL INDS LTD     ,Basic Materials,Paper & Paper Products,755.99,Micro Cap
+NRBBEARING,NRB BEARING LIMITED      ,Consumer Cyclical,Auto Parts,2469.59,Micro Cap
+NRL,NUPUR RECYCLERS LIMITED  ,Industrials,Waste Management,376.08,Micro Cap
+NSIL,NALWA SONS INVESTMENT LTD,Financial Services,Asset Management,3163.62,Micro Cap
+NSLNISP,NMDC STEEL LIMITED       ,Basic Materials,Steel,12601.61,Small Cap
+NTPC,NTPC LTD                 ,Utilities,Utilities - Regulated Electric,338510.61,Large Cap
+NTPCGREEN,NTPC GREEN ENERGY LIMITED,Utilities,Utilities - Renewable,77311.57,Mid Cap
+NUCLEUS,NUCLEUS SOFTWARE EXPORTS ,Technology,Software - Application,2395.73,Micro Cap
+NURECA,NURECA LIMITED           ,Healthcare,Medical Devices,297.01,Micro Cap
+NUVAMA,NUVAMA WEALTH MANAGE LTD ,Financial Services,Asset Management,26089.19,Small Cap
+NUVOCO,NUVOCO VISTAS CORP LTD   ,Basic Materials,Building Materials,12650.47,Small Cap
+NYKAA,FSN E COMMERCE VENTURES  ,Consumer Cyclical,Internet Retail,72931.0,Mid Cap
+OAL,ORIENTAL AROMATICS LTD   ,Basic Materials,Specialty Chemicals,944.82,Micro Cap
+OBCL,ORISSA BENGAL CARRIER LTD,Industrials,Trucking,117.85,Micro Cap
+OBEROIRLTY,OBEROI REALTY LIMITED    ,Real Estate,Real Estate - Development,59936.19,Mid Cap
+OCCLLTD,OCCL LIMITED             ,Basic Materials,Chemicals,490.56,Micro Cap
+ODIGMA,ODIGMA CONSULTANCY SOL L ,Communication Services,Advertising Agencies,90.43,Micro Cap
+OFSS,ORACLE FIN SERV SOFT LTD.,Technology,Software - Infrastructure,65532.43,Mid Cap
+OIL,OIL INDIA LTD            ,Energy,Oil & Gas Integrated,74498.64,Mid Cap
+OILCOUNTUB,OIL COUNTRY TUBULAR LTD  ,Energy,Oil & Gas Equipment & Services,315.52,Micro Cap
+OLAELEC,OLA ELECTRIC MOBILITY LTD,Consumer Cyclical,Auto Manufacturers,17039.04,Small Cap
+OLECTRA,OLECTRA GREENTECH LIMITED,Industrials,Farm & Heavy Construction Machinery,9148.72,Small Cap
+OMAXAUTO,OMAX AUTOS LTD           ,Consumer Cyclical,Auto Parts,200.57,Micro Cap
+OMAXE,OMAXE LIMITED            ,Real Estate,Real Estate - Development,1426.26,Micro Cap
+OMFREIGHT,OM FREIGHT FORWARDERS LTD,Industrials,Integrated Freight & Logistics,322.21,Micro Cap
+OMINFRAL,OM INFRA LIMITED         ,Industrials,Engineering & Construction,777.36,Micro Cap
+ONEPOINT,ONE POINT ONE SOL LTD    ,Industrials,Specialty Business Services,1439.49,Micro Cap
+ONESOURCE,ONESOURCE SPECL PHARMA L ,Healthcare,Biotechnology,20348.03,Small Cap
+ONGC,OIL AND NATURAL GAS CORP.,Energy,Oil & Gas Integrated,312280.27,Large Cap
+ONMOBILE,ONMOBILE GLOBAL LTD.     ,Communication Services,Telecom Services,608.05,Micro Cap
+ONWARDTEC,ONWARD TECHNOLOGIES LTD  ,Technology,Information Technology Services,709.13,Micro Cap
+OPTIEMUS,OPTIEMUS INFRACOM LTD    ,Technology,Electronics & Computer Distribution,4012.21,Micro Cap
+ORBTEXP,ORBIT EXPORTS LIMITED    ,Consumer Cyclical,Textile Manufacturing,461.69,Micro Cap
+ORCHASP,ORCHASP LIMITED          ,Technology,Software - Application,85.64,Micro Cap
+ORCHPHARMA,ORCHID PHARMA LIMITED    ,Healthcare,Drug Manufacturers - Specialty & Generic,3765.13,Micro Cap
+ORIENTALTL,ORIENTAL TRIMEX LTD      ,Industrials,Building Products & Equipment,58.22,Micro Cap
+ORIENTBELL,ORIENT BELL LIMITED      ,Industrials,Building Products & Equipment,397.57,Micro Cap
+ORIENTCEM,ORIENT CEMENT LTD.       ,Basic Materials,Building Materials,3473.71,Micro Cap
+ORIENTCER,ORIENT CERATECH LIMITED  ,Basic Materials,Specialty Chemicals,558.24,Micro Cap
+ORIENTELEC,ORIENT ELECTRIC LIMITED  ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3514.14,Micro Cap
+ORIENTHOT,ORIENT HOTELS LTD        ,Consumer Cyclical,Lodging,2061.57,Micro Cap
+ORIENTLTD,ORIENT PRESS LIMITED     ,Consumer Cyclical,Packaging & Containers,70.53,Micro Cap
+ORIENTPPR,ORIENT PAPER AND INDS LTD,Basic Materials,Paper & Paper Products,467.23,Micro Cap
+ORIENTTECH,ORIENT TECHNOLOGIES LTD  ,Technology,Information Technology Services,1687.95,Micro Cap
+ORISSAMINE,ORISSA MIN DEV CO LTD    ,Basic Materials,Other Industrial Metals & Mining,2903.7,Micro Cap
+ORKLAINDIA,ORKLA INDIA LIMITED      ,Consumer Defensive,Packaged Foods,8347.44,Small Cap
+OSIAHYPER,OSIA HYPER RETAIL LIMITED,Consumer Cyclical,Department Stores,234.19,Micro Cap
+OSWALAGRO,OSWAL AGRO MILLS LTD     ,Real Estate,Real Estate - Development,705.94,Micro Cap
+OSWALGREEN,OSWAL GREENTECH LIMITED  ,Financial Services,Asset Management,756.82,Micro Cap
+OSWALPUMPS,OSWAL PUMPS LIMITED      ,Industrials,Electrical Equipment & Parts,5267.47,Small Cap
+OSWALSEEDS,SHREEOSWAL S AND CHE LTD ,Basic Materials,Agricultural Inputs,137.11,Micro Cap
+PACEDIGITK,PACE DIGITEK LIMITED     ,Technology,Communication Equipment,3773.94,Micro Cap
+PAGEIND,PAGE INDUSTRIES LTD      ,Consumer Cyclical,Apparel Manufacturing,38280.1,Small Cap
+PAISALO,PAISALO DIGITAL LIMITED  ,Financial Services,Credit Services,3143.31,Micro Cap
+PAKKA,PAKKA LIMITED            ,Basic Materials,Paper & Paper Products,437.61,Micro Cap
+PALASHSECU,PALASH SECURITIES LTD    ,Consumer Defensive,Packaged Foods,101.3,Micro Cap
+PALREDTEC,PALRED TECHNOLOGIES LTD  ,Technology,Consumer Electronics,55.41,Micro Cap
+PANACEABIO,PANACEA BIOTEC LTD       ,Healthcare,Biotechnology,2416.34,Micro Cap
+PANACHE,PANACHE DIGILIFE LIMITED ,Technology,Communication Equipment,441.54,Micro Cap
+PANAMAPET,PANAMA PETROCHEM LTD     ,Energy,Oil & Gas Refining & Marketing,1790.01,Micro Cap
+PAR,PAR DRUGS AND CHEM LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,114.08,Micro Cap
+PARACABLES,PARAMOUNT COMM LTD       ,Technology,Communication Equipment,1067.32,Micro Cap
+PARADEEP,PARADEEP PHOSPHATES LTD  ,Basic Materials,Agricultural Inputs,12052.53,Small Cap
+PARAGMILK,PARAG MILK FOODS LTD.    ,Consumer Defensive,Packaged Foods,3433.63,Micro Cap
+PARAS,PARAS DEF AND SPCE TECH L,Industrials,Aerospace & Defense,5411.44,Small Cap
+PARASPETRO,PARAS PETROFILS LTD.     ,Consumer Cyclical,Textile Manufacturing,61.83,Micro Cap
+PARKHOSPS,PARK MEDI WORLD LIMITED  ,Healthcare,Medical Care Facilities,6464.71,Small Cap
+PARKHOTELS,PARKHOTELS               ,Consumer Cyclical,Lodging,2751.25,Micro Cap
+PARSVNATH,PARSVNATH DEVELOPER LTD  ,Real Estate,Real Estate - Development,416.47,Micro Cap
+PASHUPATI,PASHUPATI COTSPIN LIMITED,Consumer Cyclical,Textile Manufacturing,1284.82,Micro Cap
+PASUPTAC,PASUPATI ACRYLON LIMITED ,Consumer Cyclical,Textile Manufacturing,425.88,Micro Cap
+PATANJALI,PATANJALI FOODS LIMITED  ,Consumer Defensive,Packaged Foods,59128.9,Mid Cap
+PATELENG,PATEL ENGINEERING LTD.   ,Industrials,Engineering & Construction,2719.46,Micro Cap
+PATELRMART,PATEL RETAIL LIMITED     ,Consumer Cyclical,Department Stores,593.29,Micro Cap
+PATINTLOG,PATEL INT. LOG. LTD      ,Industrials,Integrated Freight & Logistics,90.39,Micro Cap
+PAUSHAKLTD,PAUSHAK LIMITED          ,Basic Materials,Specialty Chemicals,1368.09,Micro Cap
+PAVNAIND,PAVNA INDUSTRIES LIMITED ,Consumer Cyclical,Auto Parts,278.64,Micro Cap
+PAYTM,ONE 97 COMMUNICATIONS LTD,Technology,Software - Infrastructure,83990.69,Mid Cap
+PCBL,PCBL CHEMICAL LIMITED    ,Basic Materials,Specialty Chemicals,11034.66,Small Cap
+PCJEWELLER,PC JEWELLER LTD          ,Consumer Cyclical,Luxury Goods,7335.61,Small Cap
+PDMJEPAPER,PUDUMJEE PAPER PRO. LTD  ,Basic Materials,Paper & Paper Products,840.4,Micro Cap
+PDSL,PDS LIMITED              ,Industrials,Specialty Business Services,4946.83,Micro Cap
+PEARLPOLY,PEARL POLYMERS LTD       ,Consumer Cyclical,Packaging & Containers,36.58,Micro Cap
+PENIND,PENNAR INDUSTRIES LTD    ,Industrials,Specialty Industrial Machinery,2473.7,Micro Cap
+PENINLAND,PENINSULA LAND LIMITED   ,Real Estate,Real Estate - Development,788.52,Micro Cap
+PERSISTENT,PERSISTENT SYSTEMS LTD   ,Technology,Information Technology Services,98972.35,Mid Cap
+PETRONET,PETRONET LNG LIMITED     ,Energy,Oil & Gas Refining & Marketing,42937.5,Small Cap
+PFC,POWER FIN CORP LTD.      ,Financial Services,Credit Services,122714.28,Mid Cap
+PFIZER,PFIZER LTD               ,Healthcare,Drug Manufacturers - General,22048.58,Small Cap
+PFOCUS,PRIME FOCUS LIMITED      ,Communication Services,Entertainment,18766.56,Small Cap
+PFS,PTC INDIA FIN SERV LTD   ,Financial Services,Credit Services,2121.46,Micro Cap
+PGEL,PG ELECTROPLAST LTD      ,Technology,Electronic Components,16735.94,Small Cap
+PGHH,P&G HYGIENE & HEALTH CARE,Consumer Defensive,Household & Personal Products,40043.56,Small Cap
+PGHL,PROCTER & GAMBLE HEALTH L,Healthcare,Drug Manufacturers - Specialty & Generic,8932.13,Small Cap
+PGIL,PEARL GLOBAL IND LIMITED ,Consumer Cyclical,Apparel Manufacturing,6700.13,Small Cap
+PHOENIXLTD,THE PHOENIX MILLS LTD    ,Real Estate,Real Estate - Diversified,66812.35,Mid Cap
+PICCADIL,PICCADILY AGRO INDUSTRI L,Consumer Defensive,Beverages - Wineries & Distilleries,5626.99,Small Cap
+PIDILITIND,PIDILITE INDUSTRIES LTD  ,Basic Materials,Specialty Chemicals,152178.78,Mid Cap
+PIGL,POWER INSTRUMENT (G) LTD ,Industrials,Engineering & Construction,195.09,Micro Cap
+PIIND,PI INDUSTRIES LTD        ,Basic Materials,Agricultural Inputs,49878.85,Small Cap
+PILANIINVS,PILANI INV & IND COR LTD ,Financial Services,Asset Management,5391.08,Small Cap
+PILITA,PIL ITALICA LIFESTYLE LTD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",212.68,Micro Cap
+PINELABS,PINE LABS LIMITED        ,Technology,Software - Infrastructure,25962.53,Small Cap
+PIONEEREMB,PIONEER EMBROIDERIES LTD ,Consumer Cyclical,Textile Manufacturing,87.46,Micro Cap
+PIRAMALFIN,PIRAMAL FINANCE LIMITED  ,Financial Services,Credit Services,41466.15,Small Cap
+PITTIENG,PITTI ENGINEERING LIMITED,Industrials,Metal Fabrication,2740.99,Micro Cap
+PIXTRANS,PIX TRANSMISSIONS LIMITED,Industrials,Specialty Industrial Machinery,1794.3,Micro Cap
+PKTEA,THE P K TEA PROD CO LTD  ,Consumer Defensive,Farm Products,198.76,Micro Cap
+PLASTIBLEN,PLASTIBLENDS INDIA LTD   ,Basic Materials,Specialty Chemicals,413.12,Micro Cap
+PLATIND,PLATINUM INDUSTRIES LTD  ,Basic Materials,Specialty Chemicals,1250.31,Micro Cap
+PLAZACABLE,PLAZA WIRES LIMITED      ,Industrials,Electrical Equipment & Parts,172.47,Micro Cap
+PNB,PUNJAB NATIONAL BANK     ,Financial Services,Banks - Regional,147891.19,Mid Cap
+PNBGILTS,PNB GILTS LIMITED        ,Financial Services,Capital Markets,1439.9,Micro Cap
+PNBHOUSING,PNB HOUSING FIN LTD.     ,Financial Services,Mortgage Finance,25399.58,Small Cap
+PNC,PRITISH NANDY COMMUNICATI,Communication Services,Entertainment,37.8,Micro Cap
+PNCINFRA,PNC INFRATECH LTD.       ,Industrials,Engineering & Construction,6169.77,Small Cap
+PNGJL,P N GADGIL JEWELLERS LTD ,Consumer Cyclical,Luxury Goods,7997.97,Small Cap
+POCL,PONDY OXIDES & CHEM LTD  ,Basic Materials,Specialty Chemicals,4404.61,Micro Cap
+PODDARMENT,PODDAR PIGMENTS LIMITED  ,Basic Materials,Specialty Chemicals,269.39,Micro Cap
+POKARNA,POKARNA LIMITED          ,Industrials,Building Products & Equipment,2388.39,Micro Cap
+POLICYBZR,PB FINTECH LIMITED       ,Financial Services,Insurance Brokers,76271.93,Mid Cap
+POLYCAB,POLYCAB INDIA LIMITED    ,Industrials,Electrical Equipment & Parts,110246.85,Mid Cap
+POLYMED,POLY MEDICURE LIMITED    ,Healthcare,Medical Instruments & Supplies,16894.6,Small Cap
+POLYPLEX,POLYPLEX CORPORATION LTD ,Basic Materials,Specialty Chemicals,2638.38,Micro Cap
+PONNIERODE,PONNIE SUGARS (ERODE) LTD,Consumer Defensive,Confectioners,226.1,Micro Cap
+POONAWALLA,POONAWALLA FINCORP LTD   ,Financial Services,Credit Services,38293.15,Small Cap
+POWERGRID,POWER GRID CORP. LTD.    ,Utilities,Utilities - Regulated Electric,240281.1,Large Cap
+POWERINDIA,HITACHI ENERGY INDIA LTD ,Industrials,Electrical Equipment & Parts,75492.21,Mid Cap
+POWERMECH,POWER MECH PROJECTS LTD. ,Industrials,Engineering & Construction,7144.97,Small Cap
+PPAP,PPAP AUTOMOTIVE LIMITED  ,Consumer Cyclical,Auto Parts,304.56,Micro Cap
+PPL,PRAKASH PIPES LIMITED    ,Industrials,Building Products & Equipment,512.91,Micro Cap
+PPLPHARMA,PIRAMAL PHARMA LIMITED   ,Healthcare,Drug Manufacturers - Specialty & Generic,22334.03,Small Cap
+PRABHA,PRABHA ENERGY LIMITED    ,Energy,Oil & Gas E&P,2232.11,Micro Cap
+PRAJIND,PRAJ INDUSTRIES LTD      ,Industrials,Engineering & Construction,5667.88,Small Cap
+PRAKASH,PRAKASH INDUSTRIES LTD   ,Basic Materials,Steel,2423.51,Micro Cap
+PRAXIS,PRAXIS HOME RETAIL LTD   ,Consumer Cyclical,Specialty Retail,165.86,Micro Cap
+PRECAM,PRECISION CAMSHAFTS LTD. ,Consumer Cyclical,Auto Parts,1456.04,Micro Cap
+PRECOT,PRECOT LIMITED           ,Consumer Cyclical,Textile Manufacturing,407.34,Micro Cap
+PRECWIRE,PRECISION WIRES INDIA LTD,Industrials,Electrical Equipment & Parts,4153.21,Micro Cap
+PREMEXPLN,PREMIER EXPLOSIVES LTD   ,Basic Materials,Specialty Chemicals,2751.77,Micro Cap
+PREMIERENE,PREMIER ENERGIES LIMITED ,Technology,Solar,32996.11,Small Cap
+PREMIERPOL,PREMIER POLYFILM LTD     ,Basic Materials,Specialty Chemicals,525.07,Micro Cap
+PRESTIGE,PRESTIGE ESTATE LTD      ,Real Estate,Real Estate - Diversified,64618.15,Mid Cap
+PRICOLLTD,PRICOL LIMITED           ,Consumer Cyclical,Auto Parts,7440.87,Small Cap
+PRIMESECU,PRIME SECURITIES LIMITED ,Financial Services,Capital Markets,937.34,Micro Cap
+PRIMO,PRIMO CHEMICALS LIMITED  ,Basic Materials,Chemicals,534.37,Micro Cap
+PRINCEPIPE,PRINCE PIPES FITTINGS LTD,Industrials,Building Products & Equipment,2727.54,Micro Cap
+PRITI,PRITI INTERNATIONAL LTD  ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",74.86,Micro Cap
+PRITIKAUTO,PRITIKA AUTO INDUS LTD   ,Industrials,Specialty Industrial Machinery,219.96,Micro Cap
+PRIVISCL,PRIVI SPECIALITY CHE LTD ,Basic Materials,Specialty Chemicals,10521.15,Small Cap
+PROSTARM,PROSTARM INFO SYSTEMS LTD,Industrials,Electrical Equipment & Parts,924.92,Micro Cap
+PROTEAN,PROTEAN EGOV TECHNO LTD  ,Technology,Information Technology Services,2847.68,Micro Cap
+PRSMJOHNSN,PRISM JOHNSON LIMITED    ,Basic Materials,Building Materials,6557.73,Small Cap
+PRUDENT,PRUDENT CORP ADV SER LTD ,Financial Services,Asset Management,9934.29,Small Cap
+PRUDMOULI,PRUDENTIAL SUGAR CORPORAT,Consumer Defensive,Confectioners,61.12,Micro Cap
+PSB,PUNJAB & SIND BANK       ,Financial Services,Banks - Regional,20101.79,Small Cap
+PSPPROJECT,PSP PROJECTS LIMITED     ,Industrials,Engineering & Construction,3288.09,Micro Cap
+PTC,PTC INDIA LIMITED        ,Utilities,Utilities - Independent Power Producers,4758.93,Micro Cap
+PTCIL,PTC INDUSTRIES LIMITED   ,Industrials,Metal Fabrication,27084.04,Small Cap
+PTL,PTL ENTERPRISES LTD      ,Real Estate,Real Estate Services,519.05,Micro Cap
+PUNJABCHEM,PUNJAB CHEM & CROP PROT L,Basic Materials,Chemicals,1321.86,Micro Cap
+PURVA,PURAVANKARA LIMITED      ,Real Estate,Real Estate - Development,5962.42,Small Cap
+PVRINOX,PVR INOX LIMITED         ,Communication Services,Entertainment,10016.4,Small Cap
+PVSL,POPULAR VEHICLES N SER L ,Consumer Cyclical,Auto & Truck Dealerships,863.99,Micro Cap
+PWL,PHYSICSWALLAH LIMITED    ,Consumer Defensive,Education & Training Services,37519.17,Small Cap
+PYRAMID,PYRAMID TECHNOPLAST LTD  ,Consumer Cyclical,Packaging & Containers,596.76,Micro Cap
+QPOWER,QUALITY POWER ELEC EQUP L,Industrials,Electrical Equipment & Parts,5081.11,Small Cap
+QUADFUTURE,QUADRANT FUTURE TEK LTD  ,Industrials,Railroads,1325.4,Micro Cap
+QUESS,QUESS CORP LIMITED       ,Industrials,Staffing & Employment Services,3154.0,Micro Cap
+QUICKHEAL,QUICK HEAL TECH LTD      ,Technology,Software - Application,1223.28,Micro Cap
+RACE,RACE ECO CHAIN LIMITED   ,Industrials,Waste Management,212.35,Micro Cap
+RACLGEAR,RACL GEARTECH LIMITED    ,Consumer Cyclical,Auto Parts,1240.34,Micro Cap
+RADAAN,RADAAN MEDIAWORKS (I) LTD,Communication Services,Entertainment,18.04,Micro Cap
+RADHIKAJWE,RADHIKA JEWELTECH LIMITED,Consumer Cyclical,Luxury Goods,880.63,Micro Cap
+RADIANTCMS,RADIANT CASH MGMT SER LTD,Industrials,Specialty Business Services,533.43,Micro Cap
+RADICO,RADICO KHAITAN LTD       ,Consumer Defensive,Beverages - Wineries & Distilleries,38928.19,Small Cap
+RADIOCITY,MUSIC BROADCAST LIMITED  ,Communication Services,Broadcasting,225.73,Micro Cap
+RAILTEL,RAILTEL CORP OF IND LTD  ,Communication Services,Telecom Services,11327.52,Small Cap
+RAIN,RAIN INDUSTRIES LIMITED  ,Basic Materials,Specialty Chemicals,4869.61,Micro Cap
+RAINBOW,RAINBOW CHILDRENS MED LTD,Healthcare,Medical Care Facilities,12745.67,Small Cap
+RAJMET,RAJNANDINI METAL LIMITED ,Basic Materials,Copper,119.44,Micro Cap
+RAJOOENG,RAJOO ENGINEERS LIMITED  ,Industrials,Specialty Industrial Machinery,1161.03,Micro Cap
+RAJRATAN,RAJRATAN GLOBAL WIRE LTD ,Basic Materials,Steel,2663.7,Micro Cap
+RAJSREESUG,RAJSHREE SUGAR & CHEMICAL,Consumer Defensive,Confectioners,108.75,Micro Cap
+RAJTV,RAJ TV NETWORK LTD       ,Communication Services,Broadcasting,211.55,Micro Cap
+RALLIS,RALLIS INDIA LTD         ,Basic Materials,Agricultural Inputs,4818.94,Micro Cap
+RAMANEWS,SHREE RAMA NEWSPRINT LTD ,Consumer Defensive,Beverages - Non-Alcoholic,450.53,Micro Cap
+RAMAPHO,RAMA PHOSPHATES LIMITED  ,Basic Materials,Agricultural Inputs,655.04,Micro Cap
+RAMASTEEL,RAMA STEEL TUBES LIMITED ,Basic Materials,Steel,1426.63,Micro Cap
+RAMCOCEM,THE RAMCO CEMENTS LIMITED,Basic Materials,Building Materials,25150.96,Small Cap
+RAMCOIND,RAMCO INDUSTRIES LIMITED ,Industrials,Building Products & Equipment,2659.96,Micro Cap
+RAMCOSYS,RAMCO SYSTEMS LTD.       ,Technology,Software - Application,1797.83,Micro Cap
+RAMKY,RAMKY INFRA LTD          ,Industrials,Engineering & Construction,3444.67,Micro Cap
+RAMRAT,RAM RATNA WIRES LIMITED  ,Industrials,Electrical Equipment & Parts,2771.07,Micro Cap
+RANASUG,RANA SUGARS LTD.         ,Consumer Defensive,Confectioners,183.21,Micro Cap
+RANEHOLDIN,RANE HOLDINGS LIMITED    ,Consumer Cyclical,Auto Parts,1869.25,Micro Cap
+RATEGAIN,RATEGAIN TRAVEL TECHN LTD,Technology,Software - Application,7849.65,Small Cap
+RATNAMANI,RATNAMANI MET & TUB LTD. ,Basic Materials,Steel,15222.58,Small Cap
+RATNAVEER,RATNAVEER PRECISION ENG L,Basic Materials,Steel,990.07,Micro Cap
+RAYMOND,RAYMOND LTD              ,Industrials,Specialty Industrial Machinery,2684.25,Micro Cap
+RAYMONDLSL,RAYMOND LIFESTYLE LIMITED,Consumer Cyclical,Apparel Manufacturing,5757.89,Small Cap
+RAYMONDREL,RAYMOND REALTY LIMITED   ,Real Estate,Real Estate - Development,3157.59,Micro Cap
+RBA,RESTAURANT BRAND ASIA LTD,Consumer Cyclical,Restaurants,4023.57,Micro Cap
+RBLBANK,RBL BANK LIMITED         ,Financial Services,Banks - Regional,19249.69,Small Cap
+RBZJEWEL,RBZ JEWELLERS LIMITED    ,Consumer Cyclical,Luxury Goods,569.56,Micro Cap
+RCF,RASHTRIYA CHEMICALS & FER,Basic Materials,Agricultural Inputs,7611.09,Small Cap
+RECLTD,REC LIMITED              ,Financial Services,Credit Services,97402.96,Mid Cap
+REDINGTON,REDINGTON LIMITED        ,Technology,Information Technology Services,21393.26,Small Cap
+REDTAPE,REDTAPE LIMITED          ,Consumer Cyclical,Footwear & Accessories,6947.13,Small Cap
+REFEX,REFEX INDUSTRIES LIMITED ,Energy,Thermal Coal,3244.48,Micro Cap
+REGAAL,REGAAL RESOURCES LIMITED ,Consumer Defensive,Packaged Foods,706.94,Micro Cap
+REGENCERAM,REGENCY CERAMICS LTD.    ,Industrials,Building Products & Equipment,122.13,Micro Cap
+RELAXO,RELAXO FOOT LTD.         ,Consumer Cyclical,Footwear & Accessories,9785.78,Small Cap
+RELCHEMQ,RELIANCE CHEMOTEX IND LTD,Consumer Cyclical,Textile Manufacturing,100.99,Micro Cap
+RELIANCE,RELIANCE INDUSTRIES LTD  ,Energy,Oil & Gas Refining & Marketing,1974117.11,Large Cap
+RELIGARE,RELIGARE ENTER. LTD.     ,Financial Services,Insurance - Life,8054.21,Small Cap
+RELTD,RAVINDRA ENERGY LIMITED  ,Technology,Solar,2818.13,Micro Cap
+REMSONSIND,REMSONS INDUSTRIES LTD   ,Consumer Cyclical,Auto Parts,403.62,Micro Cap
+RENUKA,SHREE RENUKA SUGARS LTD  ,Consumer Defensive,Confectioners,5365.92,Small Cap
+REPCOHOME,REPCO HOME FINANCE LTD   ,Financial Services,Mortgage Finance,2548.12,Micro Cap
+REPL,RUDRABHISHEK ENTERP LTD  ,Industrials,Consulting Services,188.96,Micro Cap
+REPRO,REPRO INDIA LIMITED      ,Industrials,Specialty Business Services,633.56,Micro Cap
+RESPONIND,RESPONSIVE INDUSTRIES LTD,Basic Materials,Specialty Chemicals,4908.0,Micro Cap
+RETAIL,JHS SVENDGAARD RETAIL V L,Consumer Defensive,Grocery Stores,18.03,Micro Cap
+RGL,RENAISSANCE GLOBAL LTD   ,Consumer Cyclical,Luxury Goods,1289.52,Micro Cap
+RHETAN,RHETAN TMT LIMITED       ,Basic Materials,Steel,2113.31,Micro Cap
+RHIM,RHI MAGNESITA INDIA LTD  ,Industrials,Metal Fabrication,9502.16,Small Cap
+RHL,ROBUST HOTELS LIMITED    ,Consumer Cyclical,Lodging,345.87,Micro Cap
+RICOAUTO,RICO AUTO INDUSTRIES LTD ,Consumer Cyclical,Auto Parts,1726.37,Micro Cap
+RIIL,RELIANCE INDUSTRIAL INFRA,Industrials,Engineering & Construction,1154.17,Micro Cap
+RISHABH,RISHABH INSTRUMENTS LTD  ,Technology,Scientific & Technical Instruments,1370.67,Micro Cap
+RITCO,RITCO LOGISTICS LIMITED  ,Industrials,Integrated Freight & Logistics,724.73,Micro Cap
+RITES,RITES LIMITED            ,Industrials,Engineering & Construction,11139.91,Small Cap
+RKDL,RAVI KUMAR DIST. LTD.    ,Consumer Defensive,Beverages - Wineries & Distilleries,52.85,Micro Cap
+RKEC,RKEC PROJECTS LIMITED    ,Industrials,Engineering & Construction,132.8,Micro Cap
+RKFORGE,RAMKRISHNA FORGINGS LTD  ,Industrials,Metal Fabrication,9132.09,Small Cap
+RKSWAMY,R K SWAMY LIMITED        ,Communication Services,Advertising Agencies,558.08,Micro Cap
+RMDRIP,R M DRIP & SPRINK SYS LTD,Industrials,Farm & Heavy Construction Machinery,2333.88,Micro Cap
+RML,RANE (MADRAS) LIMITED    ,Consumer Cyclical,Auto Parts,2192.18,Micro Cap
+RNBDENIMS,R&B DENIMS LIMITED       ,Consumer Cyclical,Textile Manufacturing,1194.31,Micro Cap
+ROHLTD,ROYAL ORCHID HOTELS LTD  ,Consumer Cyclical,Lodging,1075.89,Micro Cap
+ROLEXRINGS,ROLEX RINGS LIMITED      ,Industrials,Metal Fabrication,3282.43,Micro Cap
+ROML,RAJ OIL MILLS LIMITED    ,Consumer Defensive,Packaged Foods,71.56,Micro Cap
+ROSSARI,ROSSARI BIOTECH LIMITED  ,Basic Materials,Specialty Chemicals,2989.49,Micro Cap
+ROSSELLIND,ROSSELL INDIA LIMITED    ,Industrials,Conglomerates,298.41,Micro Cap
+ROSSTECH,ROSSELL TECHSYS LIMITED  ,Industrials,Aerospace & Defense,2402.58,Micro Cap
+ROTO,ROTO PUMPS LIMITED       ,Industrials,Specialty Industrial Machinery,1128.41,Micro Cap
+ROUTE,ROUTE MOBILE LIMITED     ,Communication Services,Telecom Services,4047.28,Micro Cap
+RPEL,RAGHAV PRODUCTIVITY ENH L,Basic Materials,Chemicals,3928.23,Micro Cap
+RPGLIFE,RPG LIFE SCIENCES LTD    ,Healthcare,Drug Manufacturers - Specialty & Generic,3827.29,Micro Cap
+RPOWER,RELIANCE POWER LTD.      ,Utilities,Utilities - Independent Power Producers,13722.49,Small Cap
+RPPINFRA,R.P.P INFRA PROJECTS LTD ,Industrials,Engineering & Construction,445.33,Micro Cap
+RPPL,RAJSHREE POLYPACK LTD    ,Consumer Cyclical,Packaging & Containers,128.96,Micro Cap
+RPSGVENT,RPSG VENTURES LIMITED    ,Technology,Information Technology Services,2331.43,Micro Cap
+RPTECH,RASHI PERIPHERALS LIMITED,Technology,Electronics & Computer Distribution,2409.29,Micro Cap
+RRKABEL,R R KABEL LIMITED        ,Industrials,Electrical Equipment & Parts,16964.51,Small Cap
+RSSOFTWARE,R. S. SOFTWARE (INDIA) LI,Technology,Information Technology Services,118.31,Micro Cap
+RSWM,RSWM LIMITED             ,Consumer Cyclical,Textile Manufacturing,644.26,Micro Cap
+RSYSTEMS,R SYS INTERNATIONAL LTD  ,Technology,Information Technology Services,4566.65,Micro Cap
+RTNINDIA,RATTANINDIA ENT LIMITED  ,Consumer Cyclical,Internet Retail,5341.09,Small Cap
+RTNPOWER,RATTANINDIA POWER LIMITED,Utilities,Utilities - Independent Power Producers,4747.17,Micro Cap
+RUBFILA,RUBFILA INTERNATIONAL LTD,Basic Materials,Specialty Chemicals,390.18,Micro Cap
+RUBICON,RUBICON RESEARCH LIMITED ,Healthcare,Drug Manufacturers - General,11223.61,Small Cap
+RUBYMILLS,THE RUBY MILLS LTD       ,Consumer Cyclical,Textile Manufacturing,685.09,Micro Cap
+RUCHINFRA,RUCHI INFRASTRUCTURE LTD ,Industrials,Specialty Business Services,143.98,Micro Cap
+RUCHIRA,RUCHIRA PAPERS LIMITED   ,Basic Materials,Paper & Paper Products,356.17,Micro Cap
+RUDRA,RUDRA GLOBAL INFRA PROD L,Basic Materials,Steel,249.05,Micro Cap
+RUPA,RUPA & COMPANY LTD       ,Consumer Cyclical,Apparel Manufacturing,1265.0,Micro Cap
+RUSHIL,RUSHIL DECOR LIMITED     ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",630.55,Micro Cap
+RUSTOMJEE,KEYSTONE REALTORS LIMITED,Real Estate,Real Estate - Development,6189.31,Small Cap
+RVHL,RAVINDER HEIGHTS LIMITED ,Real Estate,Real Estate - Development,308.9,Micro Cap
+RVNL,RAIL VIKAS NIGAM LIMITED ,Industrials,Engineering & Construction,70536.23,Mid Cap
+RVTH,REVATHI EQUIPMENT INDIA L,Industrials,Farm & Heavy Construction Machinery,208.89,Micro Cap
+S&SPOWER,S&S POWER SWITCHGEARS LTD,Industrials,Electrical Equipment & Parts,328.66,Micro Cap
+SAATVIKGL,SAATVIK GREEN ENERGY LTD ,Technology,Solar,4999.04,Micro Cap
+SADBHIN,SADBHAV INFRA PROJ LTD.  ,Industrials,Engineering & Construction,125.04,Micro Cap
+SADHNANIQ,SADHANA NITROCHEM LIMITED,Basic Materials,Chemicals,218.73,Micro Cap
+SAFARI,SAFARI IND (INDIA) LTD   ,Consumer Cyclical,Footwear & Accessories,10187.94,Small Cap
+SAGARDEEP,SAGARDEEP ALLOYS LIMITED ,Basic Materials,Copper,45.65,Micro Cap
+SAGCEM,SAGAR CEMENTS LIMITED    ,Basic Materials,Building Materials,2614.15,Micro Cap
+SAGILITY,SAGILITY LIMITED         ,Healthcare,Health Information Services,24038.62,Small Cap
+SAHYADRI,SAHYADRI INDUSTRIES LTD  ,Industrials,Building Products & Equipment,269.99,Micro Cap
+SAIL,STEEL AUTHORITY OF INDIA ,Basic Materials,Steel,62965.73,Mid Cap
+SAILIFE,SAI LIFE SCIENCES LIMITED,Healthcare,Diagnostics & Research,19042.27,Small Cap
+SAKAR,SAKAR HEALTHCARE LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,900.23,Micro Cap
+SAKHTISUG,SAKTHI SUGARS LTD        ,Consumer Defensive,Confectioners,212.62,Micro Cap
+SAKSOFT,SAKSOFT LIMITED          ,Technology,Information Technology Services,2439.74,Micro Cap
+SAKUMA,SAKUMA EXPORTS LIMITED   ,Consumer Defensive,Farm Products,321.38,Micro Cap
+SALASAR,SALASAR TECHNO ENGG. LTD.,Basic Materials,Steel,1487.51,Micro Cap
+SALONA,SALONA COTSPIN LTD.      ,Consumer Cyclical,Textile Manufacturing,134.14,Micro Cap
+SALZERELEC,SALZER ELECTRONICS LTD   ,Industrials,Electrical Equipment & Parts,1068.13,Micro Cap
+SAMBHV,SAMBHV STEEL TUBES LTD   ,Basic Materials,Steel,2644.68,Micro Cap
+SAMHI,SAMHI HOTELS LIMITED     ,Consumer Cyclical,Lodging,4183.89,Micro Cap
+SAMMAANCAP,SAMMAAN CAPITAL LIMITED  ,Financial Services,Mortgage Finance,11843.11,Small Cap
+SAMPANN,SAMPANN UTPADAN INDIA LTD,Basic Materials,Specialty Chemicals,134.05,Micro Cap
+SANATHAN,SANATHAN TEXTILES LIMITED,Consumer Cyclical,Textile Manufacturing,3610.38,Micro Cap
+SANDESH,SANDESH LTD              ,Communication Services,Publishing,801.22,Micro Cap
+SANDHAR,SANDHAR TECHNOLOGIES LTD ,Consumer Cyclical,Auto Parts,3365.86,Micro Cap
+SANDUMA,SANDUR MANG & IRON ORES L,Basic Materials,Steel,11297.56,Small Cap
+SANGAMIND,SANGAM (INDIA) LTD       ,Consumer Cyclical,Textile Manufacturing,2266.12,Micro Cap
+SANGHIIND,SANGHI INDUSTRIES LTD    ,Basic Materials,Building Materials,1661.81,Micro Cap
+SANGHVIMOV,SANGHVI MOVERS LTD       ,Industrials,Rental & Leasing Services,2729.31,Micro Cap
+SANGINITA,SANGINITA CHEMICALS LTD  ,Basic Materials,Chemicals,29.22,Micro Cap
+SANOFI,SANOFI INDIA LIMITED     ,Healthcare,Drug Manufacturers - General,9261.76,Small Cap
+SANOFICONR,SANOFI CONS HEALTHC IND L,Healthcare,Drug Manufacturers - General,9674.47,Small Cap
+SANSERA,SANSERA ENGINEERING LTD  ,Consumer Cyclical,Auto Parts,11064.72,Small Cap
+SANSTAR,SANSTAR LIMITED          ,Basic Materials,Chemicals,1732.78,Micro Cap
+SAPPHIRE,SAPPHIRE FOODS INDIA LTD ,Consumer Cyclical,Restaurants,7200.58,Small Cap
+SARDAEN,SARDA ENERGY & MIN LTD   ,Basic Materials,Steel,17153.92,Small Cap
+SAREGAMA,SAREGAMA INDIA LIMITED   ,Communication Services,Entertainment,6686.63,Small Cap
+SARLAPOLY,SARLA PERF. FIBERS LTD   ,Consumer Cyclical,Textile Manufacturing,700.92,Micro Cap
+SARVESHWAR,SARVESHWAR FOODS LIMITED ,Consumer Defensive,Packaged Foods,517.29,Micro Cap
+SASKEN,SASKEN TECHNOLOGIES LTD  ,Technology,Information Technology Services,2062.6,Micro Cap
+SASTASUNDR,SASTASUNDAR VENTURES LTD ,Healthcare,Pharmaceutical Retailers,1024.78,Micro Cap
+SATIA,SATIA INDUSTRIES LIMITED ,Basic Materials,Paper & Paper Products,674.8,Micro Cap
+SATIN,SATIN CREDIT NET LTD     ,Financial Services,Credit Services,1672.31,Micro Cap
+SAURASHCEM,SAURASHTRA CEMENT LIMITED,Basic Materials,Building Materials,871.0,Micro Cap
+SBC,SBC EXPORTS LIMITED      ,Industrials,Conglomerates,1369.05,Micro Cap
+SBCL,SHIVALIK BIMETAL CON. LTD,Industrials,Metal Fabrication,2519.9,Micro Cap
+SBFC,SBFC FINANCE LIMITED     ,Financial Services,Credit Services,11136.87,Small Cap
+SBGLP,SURATWWALA BUS GROUP LTD ,Real Estate,Real Estate - Development,594.47,Micro Cap
+SBICARD,SBI CARDS & PAY SER LTD  ,Financial Services,Credit Services,80548.5,Mid Cap
+SBILIFE,SBI LIFE INSURANCE CO LTD,Financial Services,Insurance - Life,207465.44,Large Cap
+SBIN,STATE BANK OF INDIA      ,Financial Services,Banks - Regional,949230.56,Large Cap
+SCHAEFFLER,SCHAEFFLER INDIA LIMITED ,Consumer Cyclical,Auto Parts,59601.72,Mid Cap
+SCHAND,S CHAND AND COMPANY LTD  ,Communication Services,Publishing,556.1,Micro Cap
+SCHNEIDER,SCHNEIDER ELECTRIC INFRA ,Industrials,Electrical Equipment & Parts,14875.86,Small Cap
+SCI,SHIPPING CORP OF INDIA LT,Industrials,Marine Shipping,9997.44,Small Cap
+SCILAL,SHIPPING CORP OF ILA LTD ,Real Estate,Real Estate Services,2162.24,Micro Cap
+SCODATUBES,SCODA TUBES LIMITED      ,Basic Materials,Steel,921.4,Micro Cap
+SCPL,SHEETAL COOL PRODUCTS LTD,Consumer Defensive,Packaged Foods,306.7,Micro Cap
+SDBL,SOM DIST & BREW LTD      ,Consumer Defensive,Beverages - Brewers,1963.92,Micro Cap
+SEAMECLTD,SEAMEC LIMITED           ,Industrials,Marine Shipping,2726.07,Micro Cap
+SECMARK,SECMARK CONSULTANCY LTD  ,Industrials,Consulting Services,113.35,Micro Cap
+SEMAC,SEMAC CONSTRUCTION LTD   ,Industrials,Engineering & Construction,83.06,Micro Cap
+SENCO,SENCO GOLD LIMITED       ,Consumer Cyclical,Luxury Goods,5451.0,Small Cap
+SENORES,SENORES PHARMACEUTICALS L,Healthcare,Drug Manufacturers - General,3698.79,Micro Cap
+SEPC,SEPC LIMITED             ,Industrials,Engineering & Construction,1688.91,Micro Cap
+SEQUENT,SEQUENT SCIENTIFIC LTD.  ,Healthcare,Drug Manufacturers - Specialty & Generic,4893.45,Micro Cap
+SERVOTECH,SERVOTECH REN POW SYS LTD,Industrials,Electrical Equipment & Parts,1588.14,Micro Cap
+SESHAPAPER,SESHASAYEE PAPER & BOARDS,Basic Materials,Paper & Paper Products,1454.86,Micro Cap
+SETCO,SETCO AUTOMOTIVE LTD     ,Consumer Cyclical,Auto Parts,191.82,Micro Cap
+SFL,SHEELA FOAM LIMITED      ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",6106.28,Small Cap
+SGFIN,SG FINSERVE LIMITED      ,Financial Services,Capital Markets,2235.8,Micro Cap
+SGIL,SYNERGY GREEN IND. LTD   ,Industrials,Metal Fabrication,811.73,Micro Cap
+SGL,STL GLOBAL LIMITED       ,Consumer Cyclical,Textile Manufacturing,33.12,Micro Cap
+SGLTL,STANDARD GLASS LIN TECH L,Industrials,Specialty Industrial Machinery,2712.69,Micro Cap
+SGMART,SG MART LIMITED          ,Industrials,Industrial Distribution,4293.45,Micro Cap
+SHAH,SHAH METACORP LIMITED    ,Basic Materials,Steel,327.91,Micro Cap
+SHAHALLOYS,SHAH ALLOYS LIMITED      ,Basic Materials,Steel,136.6,Micro Cap
+SHAILY,SHAILY ENG PLASTICS LTD  ,Basic Materials,Specialty Chemicals,9801.3,Small Cap
+SHAKTIPUMP,SHAKTI PUMPS (I) LTD     ,Industrials,Specialty Industrial Machinery,8770.51,Small Cap
+SHALBY,SHALBY LIMITED           ,Healthcare,Medical Care Facilities,1964.16,Micro Cap
+SHALPAINTS,SHALIM PAINTS LTD        ,Basic Materials,Specialty Chemicals,582.96,Micro Cap
+SHANKARA,SHANKARA BLDG PRODUCT LTD,Consumer Cyclical,Home Improvement Retail,273.22,Micro Cap
+SHANTI,SHANTI OVERSEAS INDIA LTD,Consumer Defensive,Farm Products,8.91,Micro Cap
+SHANTIGEAR,SHANTHI GEARS LTD        ,Industrials,Specialty Industrial Machinery,3184.09,Micro Cap
+SHANTIGOLD,SHANTI GOLD INTERNATION L,Consumer Cyclical,Luxury Goods,1480.2,Micro Cap
+SHARDACROP,SHARDA CROPCHEM LTD.     ,Basic Materials,Agricultural Inputs,7479.28,Small Cap
+SHARDAMOTR,SHARDA MOTOR INDS LTD    ,Consumer Cyclical,Auto Parts,4989.88,Micro Cap
+SHAREINDIA,SHARE IND. SECURITIES LTD,Financial Services,Capital Markets,3252.16,Micro Cap
+SHEKHAWATI,SHEKHAWATI INDUSTRIES LTD,Consumer Cyclical,Textile Manufacturing,63.15,Micro Cap
+SHEMAROO,SHEMAROO ENTER. LTD.     ,Communication Services,Entertainment,281.86,Micro Cap
+SHILCTECH,SHILCHAR TECHNOLOGIES LTD,Industrials,Electrical Equipment & Parts,3817.48,Micro Cap
+SHILPAMED,SHILPA MEDICARE LTD      ,Healthcare,Drug Manufacturers - Specialty & Generic,5753.04,Small Cap
+SHIVALIK,SHIVALIK RASAYAN LIMITED ,Basic Materials,Agricultural Inputs,520.63,Micro Cap
+SHIVAMAUTO,SHIVAM AUTO.LTD          ,Consumer Cyclical,Auto Parts,288.63,Micro Cap
+SHIVAMILLS,SHIVA MILLS LIMITED      ,Consumer Cyclical,Textile Manufacturing,49.22,Micro Cap
+SHIVATEX,SHIVA TEXYARN LIMITED    ,Consumer Cyclical,Textile Manufacturing,222.27,Micro Cap
+SHIVAUM,SHIV AUM STEELS LIMITED  ,Basic Materials,Steel,402.44,Micro Cap
+SHK,S H KELKAR AND CO. LTD.  ,Basic Materials,Specialty Chemicals,2276.75,Micro Cap
+SHOPERSTOP,SHOPPERS STOP LIMITED    ,Consumer Cyclical,Department Stores,4285.01,Micro Cap
+SHRADHA,SHRADHA INFRAPROJECTS LTD,Real Estate,Real Estate - Development,325.53,Micro Cap
+SHREDIGCEM,SHREE DIGVIJAY CEM CO LTD,Basic Materials,Building Materials,1352.86,Micro Cap
+SHREECEM,SHREE CEMENT LIMITED     ,Basic Materials,Building Materials,99402.46,Mid Cap
+SHREEJISPG,SHREEJI SHIPPING GLOBAL L,Industrials,Marine Shipping,5906.6,Small Cap
+SHREEPUSHK,SHRE PUSH CHEM & FERT LTD,Basic Materials,Specialty Chemicals,1070.05,Micro Cap
+SHREERAMA,SHREE RAMA MULTI TECH LTD,Consumer Cyclical,Packaging & Containers,829.64,Micro Cap
+SHREYANIND,SHREYANS INDUSTRIES LTD  ,Basic Materials,Paper & Paper Products,232.85,Micro Cap
+SHRINGARMS,SHRINGAR HOU OF MANGALS L,Consumer Cyclical,Luxury Goods,2162.78,Micro Cap
+SHRIPISTON,SHRIRAM PIST. & RING LTD ,Consumer Cyclical,Auto Parts,13170.46,Small Cap
+SHRIRAMFIN,SHRIRAM FINANCE LIMITED  ,Financial Services,Credit Services,184580.44,Mid Cap
+SHRIRAMPPS,SHRIRAM PROPERTIES LTD   ,Real Estate,Real Estate - Development,1353.29,Micro Cap
+SHYAMMETL,SHYAM METALICS AND ENGY L,Basic Materials,Steel,23356.36,Small Cap
+SHYAMTEL,SHYAM TELECOM LIMITED    ,Technology,Communication Equipment,13.63,Micro Cap
+SIEMENS,SIEMENS LTD              ,Industrials,Specialty Industrial Machinery,105796.28,Mid Cap
+SIGACHI,SIGACHI INDUSTRIES LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,1064.58,Micro Cap
+SIGIND,SIGNET INDUSTRIES LIMITED,Industrials,Conglomerates,147.01,Micro Cap
+SIGMA,SIGMA SOLVE LIMITED      ,Technology,Information Technology Services,604.11,Micro Cap
+SIGNATURE,SIGNATUREGLOBAL INDIA LTD,Real Estate,Real Estate - Development,12967.73,Small Cap
+SIGNPOST,SIGNPOST INDIA LIMITED   ,Communication Services,Advertising Agencies,1073.17,Micro Cap
+SIL,STANDARD INDUSTRIES LTD. ,Consumer Cyclical,Textile Manufacturing,95.72,Micro Cap
+SILGO,SILGO RETAIL LIMITED     ,Consumer Cyclical,Luxury Goods,171.96,Micro Cap
+SILINV,SIL INVESTMENTS LIMITED  ,Financial Services,Asset Management,500.6,Micro Cap
+SILVERTUC,SILVER TOUCH TECHNO LTD  ,Technology,Information Technology Services,1939.43,Micro Cap
+SIMPLEXINF,SIMPLEX INFRASTRUCTURES L,Industrials,Engineering & Construction,1867.44,Micro Cap
+SINCLAIR,SINCLAIRS HOTELS LIMITED ,Consumer Cyclical,Lodging,417.72,Micro Cap
+SINDHUTRAD,SINDHU TRADE LINKS LTD   ,Industrials,Conglomerates,2920.41,Micro Cap
+SINTERCOM,SINTERCOM INDIA LIMITED  ,Consumer Cyclical,Auto Parts,274.18,Micro Cap
+SIRCA,SIRCA PAINT INDIA LIMITED,Basic Materials,Specialty Chemicals,2755.3,Micro Cap
+SIS,SIS LIMITED              ,Industrials,Security & Protection Services,4691.09,Micro Cap
+SIYSIL,SIYARAM SILK MILLS LTD   ,Consumer Cyclical,Textile Manufacturing,2749.88,Micro Cap
+SJS,SJS ENTERPRISES LIMITED  ,Consumer Cyclical,Auto Parts,5382.2,Small Cap
+SJVN,SJVN LTD                 ,Utilities,Utilities - Renewable,30931.42,Small Cap
+SKFINDIA,SKF INDIA LTD            ,Industrials,Tools & Accessories,9203.37,Small Cap
+SKFINDUS,SKF IND (INDUSTRIAL) LTD ,Industrials,Tools & Accessories,13220.21,Small Cap
+SKIPPER,SKIPPER LIMITED          ,Industrials,Engineering & Construction,4459.71,Micro Cap
+SKMEGGPROD,SKM EGG PROD EXPORT(I) LT,Consumer Defensive,Packaged Foods,891.27,Micro Cap
+SKYGOLD,SKY GOLD AND DIAMONDS LTD,Consumer Cyclical,Luxury Goods,5028.43,Small Cap
+SMARTLINK,SMARTLINK HOLDINGS LTD   ,Technology,Communication Equipment,123.63,Micro Cap
+SMARTWORKS,SMARTWORKS COWORKING SP L,Real Estate,Real Estate Services,5465.93,Small Cap
+SMCGLOBAL,SMC GLOBAL SECURITIES LTD,Financial Services,Capital Markets,1790.58,Micro Cap
+SMLMAH,SML MAHINDRA LIMITED     ,Consumer Cyclical,Auto Manufacturers,6446.54,Small Cap
+SMLT,SARTHAK METALS LIMITED   ,Industrials,Metal Fabrication,105.85,Micro Cap
+SMSPHARMA,SMS PHARMACEUTICALS LTD. ,Healthcare,Drug Manufacturers - General,3158.41,Micro Cap
+SNOWMAN,SNOWMAN LOGISTICS LTD.   ,Industrials,Integrated Freight & Logistics,637.77,Micro Cap
+SOBHA,SOBHA LIMITED            ,Real Estate,Real Estate - Development,16568.17,Small Cap
+SOFTTECH,SOFTTECH ENGINEERS LTD   ,Technology,Software - Application,435.2,Micro Cap
+SOLARA,SOLARA ACTIVE PHA SCI LTD,Healthcare,Drug Manufacturers - Specialty & Generic,2015.28,Micro Cap
+SOLARINDS,SOLAR INDUSTRIES (I) LTD ,Basic Materials,Specialty Chemicals,116505.95,Mid Cap
+SOLARWORLD,SOLARWORLD ENERGY SOL LTD,Technology,Solar,2387.4,Micro Cap
+SOLEX,SOLEX ENERGY LIMITED     ,Technology,Solar,1251.14,Micro Cap
+SOMANYCERA,SOMANY CERAMICS LIMITED  ,Industrials,Building Products & Equipment,1631.49,Micro Cap
+SOMICONVEY,SOMI CONVEYOR BELT. LTD. ,Industrials,Specialty Industrial Machinery,142.24,Micro Cap
+SONACOMS,SONA BLW PRECISION FRGS L,Consumer Cyclical,Auto Parts,28701.75,Small Cap
+SONAMLTD,SONAM LIMITED            ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",169.42,Micro Cap
+SONATSOFTW,SONATA SOFTWARE LTD      ,Technology,Information Technology Services,9709.71,Small Cap
+SOTL,SAVITA OIL TECHNOLO. LTD ,Basic Materials,Specialty Chemicals,2458.23,Micro Cap
+SOUTHBANK,THE SOUTH INDIAN BANK LTD,Financial Services,Banks - Regional,11111.99,Small Cap
+SPAL,S. P. APPARELS LIMITED   ,Consumer Cyclical,Apparel Manufacturing,1628.51,Micro Cap
+SPANDANA,SPANDANA SPHOORTY FIN LTD,Financial Services,Credit Services,1728.79,Micro Cap
+SPARC,SUN PHARMA ADV.RES.CO.LTD,Healthcare,Drug Manufacturers - Specialty & Generic,4395.02,Micro Cap
+SPECIALITY,SPECIALITY REST LTD      ,Consumer Cyclical,Restaurants,525.91,Micro Cap
+SPECTRUM,SPECTRUM ELECTRIC IND LTD,Industrials,Electrical Equipment & Parts,1739.99,Micro Cap
+SPENCERS,SPENCER S RETAIL LIMITED ,Consumer Cyclical,Department Stores,345.05,Micro Cap
+SPIC,SPIC LTD                 ,Basic Materials,Agricultural Inputs,1622.61,Micro Cap
+SPLIL,SPL INDUSTRIES LIMITED   ,Consumer Cyclical,Apparel Manufacturing,91.06,Micro Cap
+SPLPETRO,SUPREME PETROCHEM LIMITED,Basic Materials,Specialty Chemicals,10226.63,Small Cap
+SPMLINFRA,SPML INFRA LIMITED       ,Industrials,Engineering & Construction,1198.37,Micro Cap
+SPORTKING,SPORTKING INDIA LIMITED  ,Consumer Cyclical,Textile Manufacturing,1134.2,Micro Cap
+SRD,SHANKAR LAL RAMPAL LTD   ,Basic Materials,Specialty Chemicals,386.1,Micro Cap
+SREEL,SREELEATHERS LIMITED     ,Consumer Cyclical,Footwear & Accessories,498.46,Micro Cap
+SRF,SRF LTD                  ,Industrials,Conglomerates,89876.01,Mid Cap
+SRGHFL,SRG HOUSING FINANCE L    ,Financial Services,Mortgage Finance,435.13,Micro Cap
+SRHHYPOLTD,SREE RAYALSEEMA HHP LTD. ,Basic Materials,Chemicals,833.78,Micro Cap
+SRM,SRM CONTRACTORS LIMITED  ,Industrials,Engineering & Construction,1125.76,Micro Cap
+SSDL,SARASWATI SAREE DEPOT LTD,Consumer Cyclical,Apparel Retail,284.96,Micro Cap
+SSWL,STEEL STRIPS WHEELS LTD. ,Consumer Cyclical,Auto Parts,3121.6,Micro Cap
+STANLEY,STANLEY LIFESTYLES LTD   ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1089.84,Micro Cap
+STAR,STRIDES PHARMA SCI LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,8664.24,Small Cap
+STARCEMENT,STAR CEMENT LIMITED      ,Basic Materials,Building Materials,8917.95,Small Cap
+STARHEALTH,STAR HEALTH & AL INS CO L,Financial Services,Insurance - Diversified,26192.57,Small Cap
+STARPAPER,STAR PAPER MILLS LTD     ,Basic Materials,Paper & Paper Products,251.72,Micro Cap
+STARTECK,STARTECK FINANCE LIMITED ,Financial Services,Credit Services,267.93,Micro Cap
+STCINDIA,THE STATE TRADING CORPN  ,Industrials,Conglomerates,787.32,Micro Cap
+STEELCAS,STEELCAST LIMITED        ,Basic Materials,Steel,2063.87,Micro Cap
+STEELCITY,STEEL CITY SECURITIES LTD,Financial Services,Capital Markets,134.95,Micro Cap
+STEELXIND,STEEL EXCHANGE INDIA LTD ,Basic Materials,Steel,1081.34,Micro Cap
+STEL,STEL HOLDINGS LIMITED    ,Financial Services,Asset Management,806.5,Micro Cap
+STERTOOLS,STERLING TOOLS LIMITED   ,Industrials,Tools & Accessories,917.09,Micro Cap
+STLNETWORK,STL NETWORKS LIMITED     ,Communication Services,Telecom Services,1010.0,Micro Cap
+STLTECH,STERLITE TECHNOLOGIES LTD,Technology,Communication Equipment,4592.34,Micro Cap
+STOVEKRAFT,STOVE KRAFT LIMITED      ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1782.68,Micro Cap
+STUDDS,STUDDS ACCESSORIES LTD   ,Consumer Cyclical,Auto Parts,2097.34,Micro Cap
+STYL,SESHAASAI TECHNOLOGIES L ,Technology,Software - Infrastructure,4450.47,Micro Cap
+STYLAMIND,STYLAM INDUSTRIES LIMITED,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3769.59,Micro Cap
+STYLEBAAZA,BAAZAR STYLE RETAIL LTD  ,Consumer Cyclical,Apparel Retail,1916.92,Micro Cap
+STYRENIX,STYRENIX PERFORMANCE LTD ,Basic Materials,Chemicals,3365.36,Micro Cap
+SUBEXLTD,SUBEX LTD                ,Technology,Software - Application,580.55,Micro Cap
+SUBROS,SUBROS LIMITED           ,Consumer Cyclical,Auto Parts,5432.18,Small Cap
+SUDARSCHEM,SUDARSHAN CHEMICAL INDS L,Basic Materials,Specialty Chemicals,7167.73,Small Cap
+SUDEEPPHRM,SUDEEP PHARMA LIMITED    ,Healthcare,Drug Manufacturers - Specialty & Generic,6904.55,Small Cap
+SUKHJITS,SUKHJIT STARCH & CHEM LTD,Basic Materials,Specialty Chemicals,573.58,Micro Cap
+SULA,SULA VINEYARDS LIMITED   ,Consumer Defensive,Beverages - Wineries & Distilleries,1640.47,Micro Cap
+SUMEETINDS,SUMEET IND LIMITED       ,Consumer Cyclical,Textile Manufacturing,1484.24,Micro Cap
+SUMICHEM,SUMITOMO CHEM INDIA LTD  ,Basic Materials,Agricultural Inputs,21473.25,Small Cap
+SUMIT,SUMIT WOODS LIMITED      ,Real Estate,Real Estate - Development,253.82,Micro Cap
+SUMMITSEC,SUMMIT SECURITIES LTD    ,Financial Services,Capital Markets,1954.91,Micro Cap
+SUNCLAY,SUNDARAM CLAYTON LIMITED ,Industrials,Metal Fabrication,2723.8,Micro Cap
+SUNDARAM,SUNDARAM MULTI PAP LTD   ,Basic Materials,Paper & Paper Products,84.35,Micro Cap
+SUNDARMFIN,SUNDARAM FINANCE LTD     ,Financial Services,Credit Services,56124.11,Mid Cap
+SUNDRMBRAK,SUNDARAM BRAK LININGS LTD,Consumer Cyclical,Auto Parts,249.75,Micro Cap
+SUNDRMFAST,SUNDRAM FASTENERS LTD    ,Consumer Cyclical,Auto Parts,19686.93,Small Cap
+SUNDROP,SUNDROP BRANDS LIMITED   ,Consumer Defensive,Packaged Foods,2529.27,Micro Cap
+SUNFLAG,SUNFLAG IRON AND STEEL CO,Basic Materials,Steel,4623.53,Micro Cap
+SUNPHARMA,SUN PHARMACEUTICAL IND L ,Healthcare,Drug Manufacturers - Specialty & Generic,408054.9,Large Cap
+SUNTECK,SUNTECK REALTY LIMITED   ,Real Estate,Real Estate - Development,6207.47,Small Cap
+SUNTV,SUN TV NETWORK LIMITED   ,Communication Services,Broadcasting,21812.58,Small Cap
+SUPERHOUSE,SUPERHOUSE LIMITED       ,Consumer Cyclical,Footwear & Accessories,153.27,Micro Cap
+SUPERSPIN,SUPER SPINNING MILLS LTD ,Consumer Cyclical,Textile Manufacturing,44.99,Micro Cap
+SUPRAJIT,SUPRAJIT ENGINEERING LTD ,Consumer Cyclical,Auto Parts,6362.68,Small Cap
+SUPREME,SUPREME HOLDIN N HOSP I L,Real Estate,Real Estate - Development,263.46,Micro Cap
+SUPREMEIND,SUPREME INDUSTRIES LTD   ,Industrials,Building Products & Equipment,44271.4,Small Cap
+SUPRIYA,SUPRIYA LIFESCIENCE LTD  ,Healthcare,Biotechnology,5988.73,Small Cap
+SURAJEST,SURAJ ESTATE DEVELOPERS L,Real Estate,Real Estate - Development,1129.84,Micro Cap
+SURAJLTD,SURAJ LIMITED            ,Basic Materials,Steel,427.72,Micro Cap
+SURAKSHA,SURAKSHA DIAGNOSTIC LTD  ,Healthcare,Diagnostics & Research,1384.83,Micro Cap
+SURANASOL,SURANA SOLAR LIMITED     ,Technology,Solar,129.12,Micro Cap
+SURANAT&P,SURANA TELECOM AND POW LT,Utilities,Utilities - Independent Power Producers,261.61,Micro Cap
+SURYALAXMI,SURYALAKSHMI COT MIL LTD ,Consumer Cyclical,Textile Manufacturing,105.93,Micro Cap
+SURYAROSNI,SURYA ROSHNI LTD         ,Basic Materials,Steel,5788.03,Small Cap
+SURYODAY,SURYODAY SMALL FIN BK LTD,Financial Services,Banks - Regional,1493.37,Micro Cap
+SUTLEJTEX,SUTLEJ TEXT & INDUS LTD  ,Consumer Cyclical,Textile Manufacturing,474.12,Micro Cap
+SUVEN,SUVEN LIFE SCIENCES LTD  ,Healthcare,Drug Manufacturers - Specialty & Generic,3514.25,Micro Cap
+SUVIDHAA,SUVIDHAA INFOSERVE LTD   ,Technology,Information Technology Services,72.38,Micro Cap
+SUYOG,SUYOG TELEMATICS LIMITED ,Communication Services,Telecom Services,608.16,Micro Cap
+SUZLON,SUZLON ENERGY LIMITED    ,Industrials,Specialty Industrial Machinery,67203.89,Mid Cap
+SVLL,SHREE VASU LOGISTICS LTD ,Industrials,Trucking,776.8,Micro Cap
+SWANCORP,SWAN CORP LIMITED        ,Industrials,Conglomerates,13204.37,Small Cap
+SWARAJENG,SWARAJ ENGINES LTD       ,Consumer Cyclical,Auto Parts,4365.43,Micro Cap
+SWELECTES,SWELECT ENERGY SYS LTD   ,Technology,Solar,876.4,Micro Cap
+SWIGGY,SWIGGY LIMITED           ,Consumer Cyclical,Internet Retail,95796.68,Mid Cap
+SWSOLAR,STRLNG & WIL REN ENE LTD ,Technology,Solar,4626.03,Micro Cap
+SYMPHONY,SYMPHONY LIMITED         ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",6208.92,Small Cap
+SYNCOMF,SYNCOM FORMU (I) LTD     ,Healthcare,Drug Manufacturers - Specialty & Generic,1222.0,Micro Cap
+SYNGENE,SYNGENE INTERNATIONAL LTD,Healthcare,Diagnostics & Research,25365.04,Small Cap
+SYRMA,SYRMA SGS TECHNOLOGY LTD ,Technology,Electronic Components,13614.8,Small Cap
+SYSTMTXC,SYSTEMATIX CORP SERVICE L,Financial Services,Capital Markets,1414.53,Micro Cap
+TAINWALCHM,TAINWALA CHEMICAL AND PLA,Basic Materials,Specialty Chemicals,169.95,Micro Cap
+TAJGVK,TAJ GVK HOTELS & RESORTS ,Consumer Cyclical,Lodging,2596.16,Micro Cap
+TALBROAUTO,TALBROS AUTO. COMP. LTD  ,Consumer Cyclical,Auto Parts,1703.08,Micro Cap
+TANLA,TANLA PLATFORMS LIMITED  ,Technology,Software - Application,6410.72,Small Cap
+TARACHAND,TARA CHAND INFRA SOLN LTD,Industrials,Farm & Heavy Construction Machinery,577.39,Micro Cap
+TARC,TARC LIMITED             ,Real Estate,Real Estate - Development,5077.43,Small Cap
+TARIL,TRANS & RECTI. LTD       ,Industrials,Electrical Equipment & Parts,7981.41,Small Cap
+TARMAT,TARMAT LIMITED           ,Industrials,Engineering & Construction,125.93,Micro Cap
+TARSONS,TARSONS PRODUCTS LIMITED ,Healthcare,Medical Instruments & Supplies,1155.96,Micro Cap
+TASTYBITE,TASTY BITE EATABLES LTD  ,Consumer Defensive,Packaged Foods,1972.36,Micro Cap
+TATACAP,TATA CAPITAL LIMITED     ,Financial Services,Asset Management,150650.4,Mid Cap
+TATACHEM,TATA CHEMICALS LTD       ,Basic Materials,Chemicals,19625.15,Small Cap
+TATACOMM,TATA COMMUNICATIONS LTD  ,Communication Services,Telecom Services,49977.6,Small Cap
+TATACONSUM,TATA CONSUMER PRODUCT LTD,Consumer Defensive,Packaged Foods,115915.22,Mid Cap
+TATAELXSI,TATA ELXSI LIMITED       ,Technology,Software - Application,34293.52,Small Cap
+TATAINVEST,TATA INVESTMENT CORP LTD ,Financial Services,Capital Markets,33585.16,Small Cap
+TATAPOWER,TATA POWER CO LTD        ,Utilities,Utilities - Independent Power Producers,117396.77,Mid Cap
+TATASTEEL,TATA STEEL LIMITED       ,Basic Materials,Steel,236250.75,Large Cap
+TATATECH,TATA TECHNOLOGIES LIMITED,Technology,Information Technology Services,26237.41,Small Cap
+TATVA,TATVA CHIN PHARM CHEM LTD,Basic Materials,Specialty Chemicals,3181.32,Micro Cap
+TBOTEK,TBO TEK LIMITED          ,Consumer Cyclical,Travel Services,16870.2,Small Cap
+TBZ,TRIB BHIMJI ZAVERI LTD   ,Consumer Cyclical,Luxury Goods,1099.99,Micro Cap
+TCI,TRANSPORT CORPN OF INDIA ,Industrials,Integrated Freight & Logistics,8024.11,Small Cap
+TCIEXP,TCI EXPRESS LIMITED      ,Industrials,Integrated Freight & Logistics,2026.03,Micro Cap
+TCPLPACK,TCPL PACKAGING LIMITED   ,Consumer Cyclical,Packaging & Containers,2540.45,Micro Cap
+TCS,TATA CONSULTANCY SERV LT ,Technology,Information Technology Services,1155074.44,Large Cap
+TDPOWERSYS,TD POWER SYSTEMS LTD.    ,Industrials,Specialty Industrial Machinery,10592.93,Small Cap
+TEAMGTY,TEAM INDIA GUARANTY LTD  ,Financial Services,Asset Management,253.43,Micro Cap
+TEAMLEASE,TEAMLEASE SERVICES LTD.  ,Industrials,Staffing & Employment Services,2538.14,Micro Cap
+TECHM,TECH MAHINDRA LIMITED    ,Technology,Information Technology Services,155628.73,Mid Cap
+TECHNOE,TECHNO ELEC & ENG CO. LTD,Industrials,Engineering & Construction,11562.5,Small Cap
+TECILCHEM,TECIL CHEMICALS          ,Financial Services,Shell Companies,33.24,Micro Cap
+TEGA,TEGA INDUSTRIES LIMITED  ,Industrials,Specialty Industrial Machinery,12476.74,Small Cap
+TEJASNET,TEJAS NETWORKS LIMITED   ,Technology,Communication Equipment,6579.81,Small Cap
+TEMBO,TEMBO GLOBAL IND LTD     ,Industrials,Metal Fabrication,885.8,Micro Cap
+TENNIND,TENNECO CLEAN AIR INDIA L,Consumer Cyclical,Auto Parts,21516.15,Small Cap
+TEXINFRA,TEXMACO INFRA & HOLDG LTD,Real Estate,Real Estate Services,1278.22,Micro Cap
+TEXMOPIPES,TEXMO PIPE & PRODUCTS LTD,Industrials,Building Products & Equipment,134.97,Micro Cap
+TEXRAIL,TEXMACO RAIL & ENG. LTD. ,Industrials,Railroads,5221.7,Small Cap
+TFCILTD,TOURISM FINANCE CORP. OF ,Financial Services,Credit Services,3177.41,Micro Cap
+TFL,TRANSWARRANTY FIN. LTD.  ,Financial Services,Mortgage Finance,84.79,Micro Cap
+TGBHOTELS,TGB BANQUETS&HOTELS LTD  ,Consumer Cyclical,Lodging,27.94,Micro Cap
+THANGAMAYL,THANGAMAYIL JEWELLERY LTD,Consumer Cyclical,Luxury Goods,11910.94,Small Cap
+THEINVEST,THE INVEST TRUST OF IND L,Financial Services,Capital Markets,621.47,Micro Cap
+THEJO,THEJO ENGINEERING LIMITED,Industrials,Specialty Industrial Machinery,2016.27,Micro Cap
+THELEELA,LEELA PALACES HOTEL LTD  ,Consumer Cyclical,Lodging,15103.25,Small Cap
+THEMISMED,THEMIS MEDICARE LTD.     ,Healthcare,Drug Manufacturers - Specialty & Generic,880.36,Micro Cap
+THERMAX,THERMAX LTD              ,Industrials,Conglomerates,35410.87,Small Cap
+THOMASCOOK,THOMAS COOK (INDIA) LTD  ,Consumer Cyclical,Travel Services,6490.78,Small Cap
+THOMASCOTT,THOMAS SCOTT (INDIA) LTD ,Consumer Cyclical,Textile Manufacturing,511.56,Micro Cap
+THYROCARE,THYROCARE TECH LTD       ,Healthcare,Diagnostics & Research,7396.24,Small Cap
+TI,TILAKNAGAR INDUSTRIES LTD,Consumer Defensive,Beverages - Wineries & Distilleries,8729.56,Small Cap
+TIGERLOGS,TIGER LOGISTICS (INDIA) L,Industrials,Integrated Freight & Logistics,332.29,Micro Cap
+TIIL,TECHNOCRAFT IND LTD      ,Industrials,Tools & Accessories,4633.41,Micro Cap
+TIINDIA,TUBE INVEST OF INDIA LTD ,Industrials,Conglomerates,45567.46,Small Cap
+TIJARIA,TIJARIA POLYPIPES LTD    ,Industrials,Building Products & Equipment,11.91,Micro Cap
+TIL,TIL LTD                  ,Industrials,Farm & Heavy Construction Machinery,1685.03,Micro Cap
+TIMETECHNO,TIME TECHNOPLAST LTD.    ,Consumer Cyclical,Packaging & Containers,8999.96,Small Cap
+TIMKEN,TIMKEN INDIA LTD.        ,Industrials,Tools & Accessories,22950.74,Small Cap
+TINNARUBR,TINNA RUBBER AND INFR LTD,Basic Materials,Specialty Chemicals,1245.7,Micro Cap
+TIPSFILMS,TIPS FILMS LIMITED       ,Communication Services,Entertainment,178.19,Micro Cap
+TIPSMUSIC,TIPS MUSIC LIMITED       ,Communication Services,Entertainment,6668.55,Small Cap
+TIRUMALCHM,THIRUMALAI CHEMICALS LTD ,Basic Materials,Specialty Chemicals,2477.07,Micro Cap
+TIRUPATIFL,TIRUPATI FORGE LIMITED   ,Industrials,Metal Fabrication,433.36,Micro Cap
+TITAGARH,TITAGARH RAIL SYSTEMS LTD,Industrials,Railroads,11014.29,Small Cap
+TITAN,TITAN COMPANY LIMITED    ,Consumer Cyclical,Luxury Goods,374778.93,Large Cap
+TMB,TAMILNAD MERCA BANK LTD  ,Financial Services,Banks - Regional,8938.94,Small Cap
+TMCV,TATA MOTORS LIMITED      ,Consumer Cyclical,Auto Manufacturers,159721.12,Mid Cap
+TMPV,TATA MOTORS PASS VEH LTD ,Consumer Cyclical,Auto Manufacturers,128816.63,Mid Cap
+TNPETRO,TAMILNADU PETROPRODUCTS L,Basic Materials,Specialty Chemicals,892.52,Micro Cap
+TNPL,TAMILNADU NEWSPRT & PAPER,Basic Materials,Paper & Paper Products,968.46,Micro Cap
+TNTELE,TAMILNADU TELECOMMUNICATI,Technology,Communication Equipment,44.35,Micro Cap
+TOKYOPLAST,TOKYO PLAST INTL LTD     ,Consumer Cyclical,Packaging & Containers,99.22,Micro Cap
+TOLINS,TOLINS TYRES LIMITED     ,Consumer Cyclical,Auto Parts,508.64,Micro Cap
+TORNTPHARM,TORRENT PHARMACEUTICALS L,Healthcare,Drug Manufacturers - Specialty & Generic,135503.4,Mid Cap
+TORNTPOWER,TORRENT POWER LTD        ,Utilities,Utilities - Independent Power Producers,67780.07,Mid Cap
+TOTAL,TOTAL TRANSPORT SYS LTD  ,Industrials,Integrated Freight & Logistics,115.03,Micro Cap
+TOUCHWOOD,TOUCHWOOD ENTERTAIN LTD. ,Communication Services,Advertising Agencies,108.85,Micro Cap
+TPHQ,TEAMO PRODUCTIONS HQ LTD ,Industrials,Engineering & Construction,67.97,Micro Cap
+TPLPLASTEH,TPL PLASTECH LIMITED     ,Consumer Cyclical,Packaging & Containers,531.04,Micro Cap
+TRACXN,TRACXN TECHNOLOGIES LTD  ,Technology,Software - Application,406.14,Micro Cap
+TRANSRAILL,TRANSRAIL LIGHTING LTD   ,Industrials,Engineering & Construction,6528.87,Small Cap
+TRANSWORLD,TRANSWORLD SHIP LINES LTD,Industrials,Marine Shipping,365.64,Micro Cap
+TRAVELFOOD,TRAVEL FOOD SERVICES LTD ,Consumer Cyclical,Restaurants,15035.16,Small Cap
+TREEHOUSE,TREE HOUSE EDU LTD       ,Consumer Defensive,Education & Training Services,38.67,Micro Cap
+TREL,TRANSINDIA REAL ESTATE L ,Real Estate,Real Estate Services,639.79,Micro Cap
+TRENT,TRENT LTD                ,Consumer Cyclical,Apparel Retail,139784.78,Mid Cap
+TRF,TRF LIMITED              ,Industrials,Specialty Industrial Machinery,312.03,Micro Cap
+TRIDENT,TRIDENT LIMITED          ,Consumer Cyclical,Textile Manufacturing,12964.11,Small Cap
+TRIGYN,TRIGYN TECHNOLOGIES LTD  ,Technology,Information Technology Services,191.33,Micro Cap
+TRITURBINE,TRIVENI TURBINE LIMITED  ,Industrials,Specialty Industrial Machinery,16166.11,Small Cap
+TRIVENI,TRIVENI ENGG. & INDS. LTD,Consumer Defensive,Confectioners,7440.34,Small Cap
+TRU,TRUCAP FINANCE LIMITED   ,Financial Services,Credit Services,91.88,Micro Cap
+TRUALT,TRUALT BIOENERGY LIMITED ,Energy,Oil & Gas Refining & Marketing,3143.26,Micro Cap
+TSFINV,TSF INVESTMENTS LIMITED  ,Financial Services,Asset Management,9680.4,Small Cap
+TTKHLTCARE,TTK HEALTHCARE LIMITED   ,Healthcare,Drug Manufacturers - General,1395.65,Micro Cap
+TTKPRESTIG,TTK PRESTIGE LTD         ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8107.5,Small Cap
+TTL,T T LIMITED              ,Consumer Cyclical,Textile Manufacturing,196.83,Micro Cap
+TTML,TATA TELESERV(MAHARASTRA),Communication Services,Telecom Services,9090.41,Small Cap
+TVSHLTD,TVS HOLDINGS LIMITED     ,Consumer Cyclical,Auto Parts,28620.33,Small Cap
+TVSMOTOR,TVS MOTOR COMPANY  LTD   ,Consumer Cyclical,Auto Manufacturers,175326.15,Mid Cap
+TVSSCS,TVS SUPPLY CHAIN SOL L   ,Industrials,Integrated Freight & Logistics,4653.13,Micro Cap
+TVSSRICHAK,TVS SRICHAKRA LIMITED    ,Consumer Cyclical,Auto Parts,3094.44,Micro Cap
+TVTODAY,TV TODAY NETWORK LTD     ,Communication Services,Broadcasting,807.32,Micro Cap
+UBL,UNITED BREWERIES LTD     ,Consumer Defensive,Beverages - Brewers,40179.01,Small Cap
+UCAL,UCAL LIMITED             ,Consumer Cyclical,Auto Parts,285.29,Micro Cap
+UCOBANK,UCO BANK                 ,Financial Services,Banks - Regional,36866.3,Small Cap
+UDS,UPDATER SERVICES LIMITED ,Industrials,Specialty Business Services,1132.11,Micro Cap
+UFBL,UNITED FOODBRANDS LIMITED,Consumer Cyclical,Restaurants,776.49,Micro Cap
+UFLEX,UFLEX LIMITED            ,Consumer Cyclical,Packaging & Containers,3406.58,Micro Cap
+UFO,UFO MOVIEZ INDIA LTD.    ,Communication Services,Entertainment,307.45,Micro Cap
+UGARSUGAR,THE UGAR SUGAR WORKS LTD ,Consumer Defensive,Confectioners,454.39,Micro Cap
+UGROCAP,UGRO CAPITAL LIMITED     ,Financial Services,Credit Services,1876.82,Micro Cap
+UJJIVANSFB,UJJIVAN SMALL FINANC BANK,Financial Services,Banks - Regional,11434.99,Small Cap
+ULTRACEMCO,ULTRATECH CEMENT LIMITED ,Basic Materials,Building Materials,361129.32,Large Cap
+UMAEXPORTS,UMA EXPORTS LIMITED      ,Consumer Defensive,Farm Products,114.85,Micro Cap
+UMESLTD,USHA MARTIN EDU & SOL LTD,Consumer Defensive,Education & Training Services,12.84,Micro Cap
+UMIYA-MRO,UMIYA BUILDCON LIMITED   ,Real Estate,Real Estate - Development,156.43,Micro Cap
+UNICHEMLAB,UNICHEM LABORATORIES LTD ,Healthcare,Drug Manufacturers - Specialty & Generic,2914.8,Micro Cap
+UNIDT,UNITED DRILLING TOOLS LTD,Energy,Oil & Gas Equipment & Services,400.52,Micro Cap
+UNIECOM,UNICOMMERCE ESOLUTIONS L ,Technology,Software - Application,1265.85,Micro Cap
+UNIENTER,UNIPHOS ENTERPRISES LTD  ,Basic Materials,Chemicals,984.77,Micro Cap
+UNIINFO,UNIINFO TELECOM SERVI LTD,Communication Services,Telecom Services,16.11,Micro Cap
+UNIMECH,UNIMECH AEROSPACE N MFG L,Industrials,Aerospace & Defense,4619.58,Micro Cap
+UNIONBANK,UNION BANK OF INDIA      ,Financial Services,Banks - Regional,136847.65,Mid Cap
+UNIPARTS,UNIPARTS INDIA LIMITED   ,Industrials,Farm & Heavy Construction Machinery,1949.6,Micro Cap
+UNITDSPR,UNITED SPIRITS LIMITED   ,Consumer Defensive,Beverages - Wineries & Distilleries,97174.07,Mid Cap
+UNITECH,UNITECH LTD              ,Real Estate,Real Estate - Diversified,1376.17,Micro Cap
+UNITEDTEA,UNITED NILGIRI TEA LTD   ,Consumer Defensive,Farm Products,237.41,Micro Cap
+UNIVASTU,UNIVASTU INDIA LIMITED   ,Industrials,Engineering & Construction,224.7,Micro Cap
+UNIVCABLES,UNIVERSAL CABLES LTD     ,Industrials,Electrical Equipment & Parts,2416.67,Micro Cap
+UNIVPHOTO,UNIVERSUS IMAGINGS LTD   ,Healthcare,Medical Devices,219.56,Micro Cap
+UNOMINDA,UNO MINDA LIMITED        ,Consumer Cyclical,Auto Parts,68818.56,Mid Cap
+UPL,UPL LIMITED              ,Basic Materials,Agricultural Inputs,65812.6,Mid Cap
+URAVIDEF,URAVI DEFENCE &TECH LTD  ,Consumer Cyclical,Auto Parts,225.69,Micro Cap
+URBANCO,URBAN COMPANY LIMITED    ,Technology,Software - Application,19711.92,Small Cap
+URJA,URJA GLOBAL LIMITED      ,Technology,Solar,554.88,Micro Cap
+USHAMART,USHA MARTIN LTD.         ,Basic Materials,Steel,13233.41,Small Cap
+USK,UDAYSHIVAKUMAR INFRA LTD ,Industrials,Engineering & Construction,118.74,Micro Cap
+UTIAMC,UTI ASSET MNGMT CO LTD   ,Financial Services,Asset Management,13824.49,Small Cap
+UTKARSHBNK,UTKARSH SMALL FIN BANK L ,Financial Services,Banks - Regional,2598.1,Micro Cap
+UTLSOLAR,FUJIYAMA POWER SYSTEMS L ,Technology,Solar,6725.11,Small Cap
+UTTAMSUGAR,UTTAM SUGAR MILLS LTD.   ,Consumer Defensive,Confectioners,877.56,Micro Cap
+V2RETAIL,V2 RETAIL LIMITED,Consumer Cyclical,Apparel Retail,7769.7,Small Cap
+VADILALIND,VADILAL INDUSTRIES LTD   ,Consumer Defensive,Packaged Foods,3288.36,Micro Cap
+VAIBHAVGBL,VAIBHAV GLOBAL LIMITED   ,Consumer Cyclical,Luxury Goods,3697.61,Micro Cap
+VAISHALI,VAISHALI PHARMA LIMITED  ,Healthcare,Drug Manufacturers - Specialty & Generic,108.54,Micro Cap
+VAKRANGEE,VAKRANGEE LIMITED        ,Technology,Information Technology Services,805.89,Micro Cap
+VALIANTLAB,VALIANT LABORATORIES LTD ,Healthcare,Drug Manufacturers - Specialty & Generic,352.76,Micro Cap
+VALIANTORG,VALIANT ORGANICS LIMITED ,Basic Materials,Chemicals,708.44,Micro Cap
+VARDHACRLC,VARDHAMAN ACRYLICS LTD   ,Consumer Cyclical,Textile Manufacturing,304.74,Micro Cap
+VARDMNPOLY,VARDHMAN POLYTEX LTD.    ,Consumer Cyclical,Textile Manufacturing,250.56,Micro Cap
+VARROC,VARROC ENGINEERING LTD.  ,Consumer Cyclical,Auto Parts,8658.41,Small Cap
+VASCONEQ,VASCON ENGINEERS LTD     ,Industrials,Engineering & Construction,1024.2,Micro Cap
+VASWANI,VASWANI IND LTD          ,Basic Materials,Steel,176.7,Micro Cap
+VBL,VARUN BEVERAGES LIMITED  ,Consumer Defensive,Beverages - Non-Alcoholic,169911.12,Mid Cap
+VEDL,VEDANTA LIMITED          ,Basic Materials,Other Industrial Metals & Mining,264244.47,Large Cap
+VEEDOL,VEEDOL CORPORATION LTD   ,Basic Materials,Specialty Chemicals,2686.08,Micro Cap
+VENKEYS,VENKY S (INDIA) LIMITED  ,Consumer Defensive,Farm Products,2190.16,Micro Cap
+VENTIVE,VENTIVE HOSPITALITY LTD  ,Consumer Cyclical,Lodging,18004.89,Small Cap
+VENUSPIPES,VENUS PIPES & TUBES LTD  ,Basic Materials,Steel,2341.96,Micro Cap
+VERANDA,VERANDA LEARNING SOL LTD ,Consumer Defensive,Education & Training Services,2103.03,Micro Cap
+VERTOZ,VERTOZ LIMITED           ,Technology,Software - Infrastructure,588.68,Micro Cap
+VESUVIUS,VESUVIUS INDIA LTD       ,Industrials,Specialty Industrial Machinery,9344.32,Small Cap
+VETO,VETO SWITCHGEAR CABLE LTD,Industrials,Electrical Equipment & Parts,202.12,Micro Cap
+VGL,VARVEE GLOBAL LIMITED    ,Consumer Cyclical,Textile Manufacturing,347.72,Micro Cap
+VGUARD,V-GUARD IND LTD.         ,Industrials,Electrical Equipment & Parts,13214.7,Small Cap
+VHL,VARDHMAN HOLDINGS LIMITED,Financial Services,Credit Services,1105.42,Micro Cap
+VIDHIING,VIDHI SPCLTY F INGRDNTS L,Basic Materials,Specialty Chemicals,1685.64,Micro Cap
+VIDYAWIRES,VIDYA WIRES LIMITED      ,Industrials,Electrical Equipment & Parts,1040.49,Micro Cap
+VIJAYA,VIJAYA DIAGNOSTIC CEN LTD,Healthcare,Diagnostics & Research,10218.05,Small Cap
+VIJIFIN,VIJI FINANCE LIMITED     ,Financial Services,Credit Services,41.18,Micro Cap
+VIKASECO,VIKAS ECOTECH LIMITED    ,Basic Materials,Specialty Chemicals,288.3,Micro Cap
+VIKASLIFE,VIKAS LIFECARE LIMITED   ,Consumer Defensive,Farm Products,332.52,Micro Cap
+VIKRAMSOLR,VIKRAM SOLAR LIMITED     ,Technology,Solar,8227.79,Small Cap
+VIKRAN,VIKRAN ENGINEERING LTD   ,Industrials,Engineering & Construction,2422.56,Micro Cap
+VIMTALABS,VIMTA LABS LIMITED       ,Healthcare,Diagnostics & Research,2478.82,Micro Cap
+VINATIORGA,VINATI ORGANICS LTD      ,Basic Materials,Specialty Chemicals,16548.14,Small Cap
+VINCOFE,VINTAGE COFFEE N BVRGS L ,Consumer Defensive,Beverages - Non-Alcoholic,2281.4,Micro Cap
+VINDHYATEL,VINDHYA TELELINKS LTD    ,Industrials,Engineering & Construction,1533.5,Micro Cap
+VINEETLAB,VINEET LABORATORIES LTD  ,Basic Materials,Chemicals,63.71,Micro Cap
+VINNY,VINNY OVERSEAS LIMITED   ,Consumer Cyclical,Textile Manufacturing,56.29,Micro Cap
+VINYLINDIA,VINYL CHEMICALS (I) LTD. ,Basic Materials,Specialty Chemicals,419.46,Micro Cap
+VIPCLOTHNG,VIP CLOTHING LIMITED     ,Consumer Cyclical,Apparel Manufacturing,268.05,Micro Cap
+VIPIND,VIP INDUSTRIES LTD       ,Consumer Cyclical,Footwear & Accessories,5157.89,Small Cap
+VIRINCHI,VIRINCHI LIMITED         ,Technology,Software - Application,226.13,Micro Cap
+VISAKAIND,VISAKA INDUSTRIES LIMITED,Industrials,Building Products & Equipment,565.52,Micro Cap
+VISHNU,VISHNU CHEMICALS LIMITED ,Basic Materials,Specialty Chemicals,3491.98,Micro Cap
+VISHWARAJ,VISHWARAJ SUGAR IND LTD  ,Consumer Defensive,Confectioners,144.42,Micro Cap
+VIVIDHA,VISAGAR POLYTEX LTD      ,Consumer Cyclical,Textile Manufacturing,16.98,Micro Cap
+VIVIMEDLAB,VIVIMED LABS LIMITED     ,Healthcare,Drug Manufacturers - Specialty & Generic,74.87,Micro Cap
+VLEGOV,VL E GOV AND IT SOL LTD  ,Technology,Information Technology Services,190.77,Micro Cap
+VLSFINANCE,VLS FINANCE LTD          ,Financial Services,Capital Markets,961.98,Micro Cap
+VMART,VMART RETAIL LTD         ,Consumer Cyclical,Department Stores,4877.16,Micro Cap
+VMM,VISHAL MEGA MART LIMITED ,Consumer Cyclical,Department Stores,60800.44,Mid Cap
+VMSTMT,VMS TMT LIMITED          ,Basic Materials,Steel,237.44,Micro Cap
+VOLTAMP,VOLTAMP TRANSFORMERS LTD ,Industrials,Electrical Equipment & Parts,7235.26,Small Cap
+VOLTAS,VOLTAS LTD               ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",47644.09,Small Cap
+VPRPL,VISHNU PRAKASH R PUNGLI L,Industrials,Engineering & Construction,614.12,Micro Cap
+VRAJ,VRAJ IRON AND STEEL LTD  ,Basic Materials,Steel,443.12,Micro Cap
+VRLLOG,VRL LOGISTICS LIMITED    ,Industrials,Trucking,4410.99,Micro Cap
+VSSL,VARDHMAN SPC STEEL LTD   ,Basic Materials,Steel,2614.41,Micro Cap
+VSTIND,VST INDUSTRIES LTD       ,Consumer Defensive,Tobacco,4079.21,Micro Cap
+VSTL,VIBHOR STEEL TUBES LTD   ,Basic Materials,Steel,245.34,Micro Cap
+VSTTILLERS,VST TILLERS TRACTORS LTD ,Industrials,Farm & Heavy Construction Machinery,4914.18,Micro Cap
+VTL,VARDHMAN TEXTILES LIMITED,Consumer Cyclical,Textile Manufacturing,12175.44,Small Cap
+WAAREEENER,WAAREE ENERGIES LIMITED  ,Technology,Solar,73636.07,Mid Cap
+WAAREERTL,WAAREE RENEWABLE TECH LTD,Utilities,Utilities - Renewable,10140.06,Small Cap
+WABAG,VA TECH WABAG LTD        ,Industrials,Engineering & Construction,7458.23,Small Cap
+WAKEFIT,WAKEFIT INNOVATIONS LTD  ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5814.61,Small Cap
+WALCHANNAG,WALCHANDNAGAR INDUSTRIES ,Industrials,Engineering & Construction,1094.04,Micro Cap
+WANBURY,WANBURY LIMITED          ,Healthcare,Drug Manufacturers - Specialty & Generic,722.41,Micro Cap
+WCIL,WESTERN CARRIERS (IND) L ,Industrials,Integrated Freight & Logistics,1164.23,Micro Cap
+WEALTH,WEALTH FRST PORT. MG. LTD,Financial Services,Capital Markets,887.93,Micro Cap
+WEBELSOLAR,WEBSOL ENERGY SYSTEM LTD ,Technology,Solar,3506.93,Micro Cap
+WEIZMANIND,WEIZMANN LTD             ,Consumer Cyclical,Textile Manufacturing,143.29,Micro Cap
+WEL,WONDER ELECTRICALS LTD   ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1940.7,Micro Cap
+WELCORP,WELSPUN CORP LIMITED     ,Basic Materials,Steel,19484.9,Small Cap
+WELENT,WELSPUN ENTERPRISES LTD. ,Industrials,Engineering & Construction,6324.82,Small Cap
+WELINV,WELSPUN INV & COMM LTD   ,Financial Services,Capital Markets,454.91,Micro Cap
+WELSPUNLIV,WELSPUN LIVING LIMITED   ,Consumer Cyclical,Textile Manufacturing,12060.38,Small Cap
+WENDT,WENDT (INDIA) LIMITED    ,Industrials,Tools & Accessories,1474.9,Micro Cap
+WESTLIFE,WESTLIFE FOODWORLD LTD   ,Consumer Cyclical,Restaurants,7741.45,Small Cap
+WEWORK,WEWORK INDIA MANAGEMENT L,Real Estate,Real Estate Services,8045.42,Small Cap
+WHEELS,WHEELS INDIA LTD         ,Consumer Cyclical,Auto Parts,1946.82,Micro Cap
+WHIRLPOOL,WHIRLPOOL OF INDIA LTD   ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",10182.73,Small Cap
+WILLAMAGOR,WILLIAMSON MAGOR         ,Financial Services,Credit Services,30.73,Micro Cap
+WINDLAS,WINDLAS BIOTECH LIMITED  ,Healthcare,Drug Manufacturers - Specialty & Generic,1698.19,Micro Cap
+WINDMACHIN,WINDSOR MACHINES LIMITED ,Industrials,Specialty Industrial Machinery,2133.14,Micro Cap
+WIPL,THE WESTERN INDIA PLY LTD,Basic Materials,Lumber & Wood Production,121.68,Micro Cap
+WIPRO,WIPRO LTD                ,Technology,Information Technology Services,272864.42,Large Cap
+WOCKPHARMA,WOCKHARDT LIMITED        ,Healthcare,Drug Manufacturers - Specialty & Generic,22669.28,Small Cap
+WONDERLA,WONDERLA HOLIDAYS LTD.   ,Consumer Cyclical,Leisure,3342.38,Micro Cap
+WORTHPERI,WORTH PERIPHERALS LIMITED,Consumer Cyclical,Packaging & Containers,213.93,Micro Cap
+WSI,W.S.INDUSTRIES (I) LTD.  ,Industrials,Engineering & Construction,552.4,Micro Cap
+WSTCSTPAPR,WEST COAST PAPER MILLS LT,Basic Materials,Paper & Paper Products,2739.38,Micro Cap
+XCHANGING,XCHANGING SOLUTIONS LTD  ,Technology,Information Technology Services,844.66,Micro Cap
+XPROINDIA,XPRO INDIA LIMITED       ,Basic Materials,Specialty Chemicals,2397.5,Micro Cap
+XTGLOBAL,XTGLOBAL INFOTECH LIMITED,Technology,Software - Application,413.51,Micro Cap
+YASHO,YASHO INDUSTRIES LIMITED ,Basic Materials,Specialty Chemicals,1552.59,Micro Cap
+YATHARTH,YATHARTH HOSP & TRA C S L,Healthcare,Medical Care Facilities,6109.83,Small Cap
+YATRA,YATRA ONLINE LIMITED     ,Consumer Cyclical,Travel Services,2526.82,Micro Cap
+YESBANK,YES BANK LIMITED         ,Financial Services,Banks - Regional,72011.48,Mid Cap
+YUKEN,YUKEN INDIA LIMITED      ,Industrials,Specialty Industrial Machinery,1094.06,Micro Cap
+ZAGGLE,ZAGGLE PREPA OCEAN SER L ,Technology,Software - Infrastructure,4065.83,Micro Cap
+ZEEL,ZEE ENTERTAINMENT ENT LTD,Communication Services,Broadcasting,8672.53,Small Cap
+ZEELEARN,ZEE LEARN LIMITED        ,Consumer Defensive,Education & Training Services,222.08,Micro Cap
+ZEEMEDIA,ZEE MEDIA CORPORATION LTD,Communication Services,Broadcasting,544.12,Micro Cap
+ZENITHEXPO,ZENITH EXPORTS LTD       ,Consumer Cyclical,Textile Manufacturing,108.79,Micro Cap
+ZENITHSTL,ZENITH STEEL PIP IND LTD ,Basic Materials,Steel,100.31,Micro Cap
+ZENSARTECH,ZENSAR TECHNOLOGIES  LTD ,Technology,Information Technology Services,16138.9,Small Cap
+ZENTEC,ZEN TECHNOLOGIES LIMITED ,Industrials,Aerospace & Defense,11088.56,Small Cap
+ZFCVINDIA,ZF COM VE CTR SYS IND LTD,Consumer Cyclical,Auto Parts,26607.73,Small Cap
+ZIMLAB,ZIM LABORATORIES LIMITED ,Healthcare,Drug Manufacturers - Specialty & Generic,370.1,Micro Cap
+ZODIAC,ZODIAC ENERGY LIMITED    ,,,410.84,Micro Cap
+ZODIACLOTH,ZODIAC CLOTHING CO. LTD. ,Consumer Cyclical,Apparel Manufacturing,218.19,Micro Cap
+ZOTA,ZOTA HEALTH CARE LIMITED ,Healthcare,Biotechnology,4436.34,Micro Cap
+ZUARI,ZUARI AGRO CHEMICALS LTD ,Basic Materials,Agricultural Inputs,1224.94,Micro Cap
+ZUARIIND,ZUARI INDUSTRIES LIMITED ,Industrials,Conglomerates,856.06,Micro Cap
+ZYDUSLIFE,ZYDUS LIFESCIENCES LTD   ,Healthcare,Drug Manufacturers - Specialty & Generic,88925.93,Mid Cap
+ZYDUSWELL,ZYDUS WELLNESS LIMITED   ,Consumer Defensive,Packaged Foods,14119.97,Small Cap
+NSDL,National Securities Depository Ltd,Financial Services,Capital Markets,20138,Mid Cap
+PGINVIT-IV,Power grid invit,Infrastructure,InVIT,,
+IRBINVIT-IV,IRB Infra Invit,Infrastructure,InVIT,,
